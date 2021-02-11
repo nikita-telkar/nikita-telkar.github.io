@@ -2,8 +2,9 @@
 layout: page
 title: Education
 ---
+<hr>
 
-### PhD in Medical Genetics 
+### <span style="color: #8b3058"> PhD in Medical Genetics </span> 
 **University of British Columbia, Canada**  
 September 2019 - Present  
 
