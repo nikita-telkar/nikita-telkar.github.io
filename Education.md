@@ -4,7 +4,7 @@ title: Education
 ---
 <hr>
 
-**<span style="color: #8b3058"> PhD in Medical Genetics </span>**  
+[PhD in Medical Genetics](https://medgen.med.ubc.ca/)   
 **University of British Columbia, Canada**  
 September 2019 - Present  
 
