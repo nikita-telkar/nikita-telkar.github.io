@@ -4,20 +4,20 @@ title: Education
 ---
 <hr>
 
-[PhD in Medical Genetics](https://medgen.med.ubc.ca/)   
+[PhD in Medical Genetics](https://medgen.med.ubc.ca/graduate-program/)   
 **University of British Columbia, Canada**  
 September 2019 - Present  
 
 <br>  
 
-**<span style="color: #8b3058"> MSc in Human Genetics </span>**  
+[MSc in Genetics of Human Disease](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/genetics-human-disease-msc)    
 **University College London (UCL), United Kingdom**   
 Merit Classification  
 September 2018 - September 2019  
 
 <br>  
 
-**<span style="color: #8b3058"> BSc in Biomedical Genetics </span>**  
+[BSc in Biomedical Genetics](https://www.ncl.ac.uk/undergraduate/degrees/b901/)  
 **Newcastle University, United Kingdom**  
 2:1 Degree Classification  
 September 2014 - September 2017  
