@@ -258,4 +258,8 @@ a.sidebar-nav-item:focus {
   color: #8b3058;
 }
 
-/* #ffc6c4,#f4a3a8,#e38191,#cc607d,#ad466c,#8b3058,#672044 */
+/* Mark highlight */
+mark {
+  background-color: #8b3058;
+  color: white;
+}
