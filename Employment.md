@@ -13,15 +13,15 @@ Instrumental in restructuring the course and assignments for the year, along wit
 **Visiting Scholar**  
 [MIT-ADT School of Bioengineering Sciences and Research, Pune, India.](https://www.mitbio.edu.in/)  
 Visiting Lecturer in Genetics for Bachelor of Technology Bioengineering students.  
-  
+<br>  
 **Biostatistics Video & Online Resource Expert**  
 [BC Children's Hospital Research Institute, Vancouver, Canada](https://www.bcchr.ca).  
 Responsible for developing open access videos and resources focused on understanding statistical terms, concepts, and analyses undertaken in health research at various levels (beginner, intermediate and advanced).  
-  
+<br>  
 **Biosciences Administration Assistant**  
 UCL Department of Neuroscience, London.  
 Responsible for sorting and filing a large amount of incoming PhD applications.  
-  
+<br>  
 **Founder**  
 [SPIRITFUL](https://www.instagram.com/thespiritfulshop/)  
 Started a business selling my original artwork. Profits directed to the HelpAge India non-profit.
