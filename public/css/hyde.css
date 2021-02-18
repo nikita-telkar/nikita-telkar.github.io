@@ -259,7 +259,15 @@ a.sidebar-nav-item:focus {
 }
 
 /* Mark highlight */
+
 mark {
-  background-color: #8b3058;
-  color: white;
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #fff;
+    background-color: #8b3058;
+    border-radius: 3px;
+  
+.mark, mark {
+    padding: .2em;
+    background-color: #8b3058;
 }
