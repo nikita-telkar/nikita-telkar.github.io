@@ -13,7 +13,7 @@ September 2019 - Present
 [MSc in Genetics of Human Disease](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/genetics-human-disease-msc)    
 **University College London (UCL), United Kingdom**   
 Merit Classification  
-September 2018 - September 2019  
+September 2017 - September 2018  
 
 <br>  
 
