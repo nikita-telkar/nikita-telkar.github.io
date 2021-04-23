@@ -249,6 +249,8 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
+/*Nikita's Custom edits*/
+
 /* Custom Purple */
 .theme-base-0n .sidebar {
   background-color: #8b3058;
@@ -274,10 +276,10 @@ mark {
     padding: 2px 4px;
     font-size: 90%;
     color: #fff;
-    background-color: #8b3058;
+    background-color: #638a0f;
     border-radius: 3px;
   
 .mark, mark {
     padding: .2em;
-    background-color: #8b3058;
+    background-color: #638a0f;
 }
