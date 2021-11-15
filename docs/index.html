@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Nikita Telkar, MSc</title>
+
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+ <link rel="icon" type="image/png" href="static/favicon_io/favicon-32x32.png"/>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+<style type="text/css">
+  code {
+    white-space: pre;
+  }
+  .sourceCode {
+    overflow: visible;
+  }
+</style>
+<style type="text/css" data-origin="pandoc">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { font-weight: bold; } /* Alert */
+code span.an { font-style: italic; } /* Annotation */
+code span.cf { font-weight: bold; } /* ControlFlow */
+code span.co { font-style: italic; } /* Comment */
+code span.cv { font-style: italic; } /* CommentVar */
+code span.do { font-style: italic; } /* Documentation */
+code span.dt { text-decoration: underline; } /* DataType */
+code span.er { font-weight: bold; } /* Error */
+code span.in { font-style: italic; } /* Information */
+code span.kw { font-weight: bold; } /* Keyword */
+code span.pp { font-weight: bold; } /* Preprocessor */
+code span.wa { font-style: italic; } /* Warning */
+
+</style>
+<script>
+// apply pandoc div.sourceCode style to pre.sourceCode instead
+(function() {
+  var sheets = document.styleSheets;
+  for (var i = 0; i < sheets.length; i++) {
+    if (sheets[i].ownerNode.dataset["origin"] !== "pandoc") continue;
+    try { var rules = sheets[i].cssRules; } catch (e) { continue; }
+    for (var j = 0; j < rules.length; j++) {
+      var rule = rules[j];
+      // check if there is a div.sourceCode rule
+      if (rule.type !== rule.STYLE_RULE || rule.selectorText !== "div.sourceCode") continue;
+      var style = rule.style.cssText;
+      // check if color or background-color is set
+      if (rule.style.color === '' && rule.style.backgroundColor === '') continue;
+      // replace div.sourceCode by a pre.sourceCode rule
+      sheets[i].deleteRule(j);
+      sheets[i].insertRule('pre.sourceCode{' + style + '}', j);
+    }
+  }
+})();
+</script>
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Telkar, N</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Welcome</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li>
+  <a href="fun.html">Fun</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://www.linkedin.com/in/nikitatelkar/">
+    <span class="fa fa-linkedin"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://github.com/nikita-telkar">
+    <span class="fa fa-github"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/nikita_telkar">
+    <span class="fa fa-twitter"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://scholar.google.com/citations?hl=en&amp;authuser=2&amp;user=3EwE6tAAAAAJ/">Google Scholar</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Nikita Telkar, MSc</h1>
+
+</div>
+
+
+<style>
+#TOC {
+  background: url("static/TOC.png");
+  background-size: contain;
+  padding-top: 80px !important;
+  padding-bottom: 80px !important;
+  background-repeat: no-repeat;
+}
+</style>
+<style>
+a:link {
+    color: purple;
+}
+
+a:visited {
+    color: purple;
+}
+
+ a:hover {
+    color: purple;
+}
+
+</style>
+<style type="text/css">
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Open Sans';
+    font-size: 15px;
+}
+
+
+h4, #TOC>ul>li {
+  font-family: 'Montserrat';
+}
+
+# h5, #TOC>ul>ul>li {
+#  color: #323b58;
+# }
+
+.tocify {
+  # position: -webkit-sticky;
+  # position: sticky; 
+  # top: 120px; /*Controls where TOC stops when sticky */
+  width: 100% !important;
+  border: none;
+}
+
+.list-group-item {
+    color: #666666;
+    font-size: 15px;
+}
+
+.list-group-item.active {
+    color: white;
+    background-color: #853078;
+    border: none;
+}
+
+
+.list-group-item:hover, 
+.list-group-item.active:hover {
+    color: #853078;
+    background-color: white;
+}
+
+/*----------------NAVBAR ---------------*/
+.navbar-default {
+    background-color: #333333f2;
+}
+
+.navbar-default .navbar-nav>.open>a, 
+.navbar-default .navbar-nav>.active>a, 
+a.dropdown-toggle:hover {
+  background-color: #333333 !important;
+}
+
+/* Dropdown menu color */
+.navbar-default .dropdown-menu {
+  background-color: #333333;
+}
+
+/* Dropdown menu hover color */
+  .navbar-default .dropdown-menu>li>a:hover {
+    background-color: #333333f2;
+  }
+
+/* Navbar Links when hovered*/
+.navbar-default .dropdown-menu>.active>a
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav:hover, 
+.navbar-default .navbar-nav>li>a:hover, 
+a.navbar-brand:hover {
+  color: #ffffffab !important;
+  background-color: #333333;
+}
+</style>
+<hr />
+<blockquote>
+<p><em>Investigating genetic regulation in the human placenta, while sipping on my flat white. Big fan of <code>ggplot2</code> and Jazz music. Jack-of-all-Trades kinda person.</em></p>
+</blockquote>
+<hr />
+<div id="about-me" class="section level4">
+<h4><strong>About Me</strong></h4>
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-column-gap: 10px; ">
+<div>
+<p>A 3rd year PhD Candidate in the <a href="https://medgen.med.ubc.ca/">Medical Genetics Graduate Program</a> at <a href="https://ubc.ca/">The University of British Columbia</a>, I currently reside in the lovely and vibrant city of Vancouver in British Columbia, Canada.</p>
+<p>My research interests lie in developmental, cardiovascular, and population genetics. My curiosity is driven by wanting to elucidate the genetic differences that exist between populations of different ancestries.</p>
+<p>I’m an avid bibliophile, coffee enthusiast, culinary aficionado, and Team Xbox. I also make and sell custom genetics-themed graphics and merchandise on <a href="https://www.etsy.com/ca/shop/ScribblezbyNiki">Etsy</a>!</p>
+<p><br> <a href = "mailto:nikita.telkar@bcchr.ca"><i class="fas fa-envelope"></i></a> | <a href = "https://www.linkedin.com/in/nikitatelkar/"><i class = "fa fa-linkedin" ></i></a> | <a href = "https://github.com/nikita-telkar"><i class = "fa fa-github" ></i></a> | <a href = "https://twitter.com/nikita_telkar"><i class = "fa fa-twitter" ></i></a> | <a href = "https://scholar.google.com/citations?hl=en&authuser=2&user=3EwE6tAAAAAJ/">Google Scholar</a></p>
+</div>
+<div>
+<p><img src="static/NT_Profile_round.png" width="90%" /></p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">file.create</span>(<span class="st">&quot;.nojekyll&quot;</span>)</span></code></pre></div>
+<pre><code>## [1] TRUE</code></pre>
+</div>
+</div>
+<hr />
+<hr />
+</div>
+<div id="education" class="section level4 tabset">
+<h4 class="tabset"><strong>Education</strong></h4>
+<p><br></p>
+<div id="phd-in-medical-genetics" class="section level5">
+<h5><strong>PhD in Medical Genetics</strong></h5>
+<p><em>University of British Columbia, Canada</em><br />
+(2019 - )</p>
+<p><br> Thesis Project: <a href="https://nikita-telkar.netlify.app/project/phd/">Characterizing small non-coding RNAs in the Human Placenta.</a><br />
+<a href="(https://www.bcchr.ca/wrobinson)">Dr. Wendy Robinson</a> - BC Children’s Hospital Research Institute | <a href="https://robinsonresearch.ca">Lab Website</a><br />
+<a href="https://wanlamlab.wordpress.ca">Dr. Wan Lam</a> - BC Cancer Research Centre | <a href="https://www.bccrc.ca/dept/io/labs/wan-lam-lab">Lab Website</a></p>
+<p><br></p>
+</div>
+<div id="publications-awards-communications" class="section level5">
+<h5>Publications / Awards / Communications</h5>
+<p><br></p>
+<p><strong>Awards</strong>:<br />
+Virtual Knowledge Exchange Grant 2021 – BC Children’s Hospital Research Institute<br />
+<a href="https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf">4 Year Doctoral Fellowship (4YF) Award</a> (2020-2024) – University of British Columbia<br />
+President’s Academic Excellence Initiative PhD Award (2020-2024) – University of British Columbia<br />
+International Tuition Award (2019-2024) – University of British Columbia</p>
+<p><strong>Pubs</strong>:<br />
+Martinez, V.D., Cohn D.E., Telkar N, Minatel B.C., Pewarchuk M.E., Marshall, E.A., Price M.E., Robinson W.P., Lam W.L. <a href="https://www.nature.com/articles/s41597-021-00948-1">Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.</a>. Sci Data 2021; 8, 166.</p>
+<p>Cohn D.E., Barros-Filho M.C., Minatel B.C., Pewarchuk M.E., Marshall, E.A., Vucic E.A., Sage A.P., Telkar N, Stewart G.L., Jurisica I, Reis P.P., Robinson W.P, Lam W.L. <a href="https://www.mdpi.com/2072-6694/13/11/2686/htm">Reactivation of multiple fetal miRNAs in lung adenocarcinoma</a>. Cancers 2021, 13, 2686.</p>
+<p>Marshall EA, Telkar N, Lam WL. <a href="https://doi.org/10.1016/j.crimmu.2021.01.001">Functional role of the cancer microbiome in the solid tumour niche</a>. Current Research in Immunology 2021; 2: 1–6</p>
+<p>Rees W.D., Telkar N, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers. [Submitted]</p>
+</div>
+<div id="poster-example" class="section level5">
+<h5>Poster Example</h5>
+<p><img src="static/Telkar_Nikita_EMBO-EMBL.png" width="9600" /></p>
+</div>
+</div>
+<div id="section" class="section level4 tabset unlisted unnumbered">
+<h4 class="tabset unlisted unnumbered"></h4>
+<div id="msc-in-genetics-of-human-disease" class="section level5">
+<h5><strong>MSc in Genetics of Human Disease</strong></h5>
+<p><em>University College London, London, England</em><br />
+<em>Wellcome Sanger Institute, Cambridge, London</em><br />
+(2017 - 2018)</p>
+<p><br> Dissertation: <a href="https://nikita-telkar.netlify.app/project/masters/">Comparing the Genetic Architecture of Lipid Traits between Populations</a><br />
+Supervisor: <a href="https://www.ucl.ac.uk/biosciences/people/dr-karoline-kuchenbaecker">Dr. Karoline Kuchenbaecker</a></p>
+<p><br></p>
+</div>
+<div id="publications-awards-communications-1" class="section level5">
+<h5>Publications / Awards / Communications:</h5>
+<p>Kuchenbaecker K, Telkar N, Reiker T, et al. <a href="https://doi.org/10.1038/s41467-019-12026-7">The transferability of lipid loci across African, Asian and European cohorts</a>. Nature Communications, 2019; 10: 4330.</p>
+<p>Polygenics Risk Scores published on EMBL-EBI’s <a href="http://www.pgscatalog.org/publication/PGP000046/">PGS Catalog</a></p>
+</div>
+</div>
+<div id="section-1" class="section level4 tabset unlisted unnumbered">
+<h4 class="tabset unlisted unnumbered"></h4>
+<div id="bsc-in-biomedical-genetics" class="section level5">
+<h5><strong>BSc in Biomedical Genetics</strong></h5>
+<p><em>University of Newcastle upon Tyne, England</em><br />
+(2014 -2017)</p>
+<p><br> Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitochondrial Disease</p>
+<hr />
+<hr />
+</div>
+<div id="publications-awards-communications-2" class="section level5">
+<h5>Publications / Awards / Communications</h5>
+<p><strong>Awards</strong>:</p>
+<p><a href="https://www.genetics.org.uk/wp-content/uploads/2017/11/15027387_10211122879777688_5581119349267154163_n.jpg">Genes and Development Summer Studentship 2016</a> – The Genetics Society UK<br />
+Faculty of Medical Sciences Undergraduate Research Scholarship 2016 – Newcastle University<br />
+<a href="https://research.ncl.ac.uk/expeditionresearchscholarships/prizewinners/2016winners/">Commendation Award</a> – Newcastle University Student Research Scholarships and Expeditions 2016<br />
+Second Place Poster Award 2016 – Newcastle University Faculty of Medicine<br />
+ncl+ Award – Newcastle University (for extracurricular achievement)</p>
+<p><strong>Pubs</strong>:</p>
+<p>Telkar N. <a href="https://www.genetics.org.uk/wp-content/uploads/2017/09/Issue-76-_-January-2017.pdf#page=49">Using WNT5A Expression to Characterize Development in the Human Gut</a>. The Genetics Society News Newsletter, January 2017, Issue 76.</p>
+<hr />
+<hr />
+</div>
+<div id="poster-example-1" class="section level5">
+<h5>Poster Example</h5>
+<p><img src="static/WNT5A_Poster.png" width="3311" /></p>
+<hr />
+<hr />
+</div>
+</div>
+<div id="section-2" class="section level4 unlisted unnumbered">
+<h4 class="unlisted unnumbered"></h4>
+</div>
+<div id="academic-and-professional-experience" class="section level4">
+<h4><strong>Academic and Professional Experience</strong></h4>
+<p><br></p>
+<div id="biostatistics-expert" class="section level5">
+<h5><strong>Biostatistics Expert</strong></h5>
+<p><a href="https://www.bcchr.ca">BC Children’s Hospital Research Institute</a>, Vancouver, Canada (Jan - June 2021)</p>
+<ul>
+<li>Developed open access videos and resources focused on the statistical terms, concepts, and analyses undertaken in health research at all educational levels (beginner, intermediate and advanced) for the BCCHR 2021 Summer Student Research Program.<br />
+</li>
+<li>Coded and designed an Introduction to Biomedical Data Analysis in R tutorial</li>
+<li>Videos available on the <a href="https://bcchr.ca/summerprogram/statistical-videos">BCCHR website</a>.</li>
+</ul>
+<p><br></p>
+</div>
+<div id="biosciences-administration-assistant" class="section level5">
+<h5><strong>Biosciences Administration Assistant</strong></h5>
+<p>Department of Neuroscience, University College London (Nov 2017 - Jan 2018)</p>
+<ul>
+<li>Responsible for sorting and filing a large amount of incoming PhD applications</li>
+</ul>
+<p><br></p>
+</div>
+<div id="owner" class="section level5">
+<h5><strong>Owner</strong></h5>
+<p><a href="https://www.etsy.com/ca/shop/ScribblezbyNiki">ScribblezbyNiki</a> (June 2021 - )</p>
+<ul>
+<li>Designing genetics/science-inspired merchandise sold on Etsy</li>
+<li>Each order has received 5-star reviews</li>
+</ul>
+<p><br></p>
+</div>
+<div id="founder" class="section level5">
+<h5><strong>Founder</strong></h5>
+<p><a href="https://www.instagram.com/thespiritfulshop/">SPIRITFUL</a> (April - September 2019)</p>
+<ul>
+<li>Started a business selling original artwork, handling all workflow from procuring raw material, assembly, marketing, to shipping<br />
+</li>
+<li>60% profit margin, 25% of profits directed to the HelpAge India NGO - a non-profit focused on the elderly</li>
+</ul>
+<hr />
+<hr />
+</div>
+</div>
+<div id="leadership-initiatives" class="section level4">
+<h4><strong>Leadership Initiatives</strong></h4>
+<p><br></p>
+<div id="co-chair" class="section level5">
+<h5><strong>Co-Chair</strong></h5>
+<p><a href="https://bcchr.ca/tog">Trainee Omics Group (TOG) Committee</a>, BC Children’s Hospital Research Institute (September 2021 - Present)</p>
+<ul>
+<li>A graduate trainee-led bioinformatics and data analysis support group teaching and guiding students/trainees in statistical analyses and methodologies undertaken in biomedical/health research<br />
+</li>
+<li><em>Co-ordinator (December 2020 - September 2021)</em>: Exclusively <a href="https://github.com/BCCHR-trainee-omics-group/StudyGroup/tree/master/workshops/RNA-seq-Workshop-2021">created (coded) and taught</a> RNA-seq genomic data analysis workshop</li>
+</ul>
+<p><br></p>
+</div>
+<div id="advisory-committee-member" class="section level5">
+<h5><strong>Advisory Committee Member</strong></h5>
+<p>Department of Medical Genetics, UBC (2019 – Present)</p>
+<ul>
+<li>Part of the Advisory Committee for the Department of Medical Genetics<br />
+</li>
+<li><a href="https://medgen.med.ubc.ca/">Singlehandedly redesigned and updated the department website</a> using WordPress with CSS and HTML</li>
+</ul>
+<p><br></p>
+</div>
+<div id="executive-consultant" class="section level5">
+<h5><strong>Executive Consultant</strong></h5>
+<p><a href="https://mggsa.ca/">UBC Medical Genetics Graduate Student Association</a> (January 2021 – Present)</p>
+<ul>
+<li>Assisting the board with executive decisions and planning events at this departmental social and outreach association<br />
+</li>
+<li>Recruited panelists and moderated the Alumni Panel at the annual welcome event (received public acknowledgment), directed a fundraiser (raised ~$300), designed the website</li>
+</ul>
+<p><br></p>
+</div>
+<div id="marketing-and-social-media-lead" class="section level5">
+<h5><strong>Marketing and Social Media Lead</strong></h5>
+<p><a href="http://3mt.ca/">UBC Undergraduate 3 Minute Thesis Committee</a> (2020 – 2021)</p>
+<ul>
+<li>Executed all marketing decisions<br />
+</li>
+<li>Designed <a href="https://twitter.com/ubc3mt/status/1359683538581401606/photo/1">weekly promotional graphics</a>, communications outreach and website upkeep</li>
+</ul>
+<p><br></p>
+</div>
+<div id="volunteer" class="section level5">
+<h5><strong>Volunteer</strong></h5>
+<p><a href="https://www.genomebc.ca/education/what-is-geneskool/">Geneskool, Genome British Columbia</a> (October 2019 – October 2020)</p>
+<ul>
+<li>Conducted in-person interactive activities focused on introducing and educating students (ages 10-12) about genetics and its applications at local schools in Vancouver<br />
+</li>
+<li>Committee Member at the Girls and STEAM Symposium 2019 hosted by BC Science World</li>
+</ul>
+<p><br></p>
+</div>
+<div id="research-mentor" class="section level5">
+<h5><strong>Research Mentor</strong></h5>
+<p>Newcastle University and UBC (2015 – 2016 / 2020 – Present)</p>
+<ul>
+<li>Guiding and assisting incoming graduate students, both professionally and personally<br />
+</li>
+<li>Aiding in formulating research questions, analysis methodologies, and interpretation of data</li>
+</ul>
+<p><br></p>
+</div>
+<div id="vice-president" class="section level5">
+<h5><strong>Vice President</strong></h5>
+<p>Newcastle South Asian Society (2016 – 2017)</p>
+<ul>
+<li>Second-in-charge in this cultural society committee and responsible for delegating and supervising tasks<br />
+</li>
+<li>Oversaw event management – Corresponding with services and sponsors, locating venues, recording inventory, maintaining finances<br />
+</li>
+<li>Events arranged for up to 20 to 500 guests<br />
+</li>
+<li><em>Publicity Officer</em> (2015 – 2016) – Management of all social media accounts of the committee, main email correspondent, digitization of all posters and tickets.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="teaching" class="section level4">
+<h4><strong>Teaching</strong></h4>
+<p><br></p>
+<div id="teaching-assistant" class="section level5">
+<h5><strong>Teaching Assistant</strong></h5>
+<p>University of British Columbia, Canada (Sept - Dec 2020)</p>
+<ul>
+<li>TA for the <a href="https://med-fom-medgen.sites.olt.ubc.ca/files/2020/10/MEDG520-syllabus-2020W-Final-1.pdf">graduate MEDG 520 Advanced Human Molecular Genetics course</a> in the <a href="https://medgen.med.ubc.ca/">Department of Medical Genetics</a>.<br />
+</li>
+<li>Instrumental in restructuring the course and assignment format for the year<br />
+</li>
+<li>Facilitated in transitioning this in-person, discussion-based course to a virtual environment (chose the platform for teaching and guided instructors through its usage)</li>
+<li>Held real-time online tutorials on topics most requested by the students (as well as one-on-one meetings and discussions)</li>
+<li>Named <code>the best TA he's ever worked with</code> by the Head of the Medical Genetics Graduate Program : <em>“Nikita always responded promptly and thoughtfully to requests for advice. Her input and assistance helped guide the learning process. She did everything I think a good teacher should, and went above and beyond the time and effort I would expect from a TA. She was the best part of the course.”</em></li>
+</ul>
+<p><br></p>
+</div>
+<div id="visiting-scholar" class="section level5">
+<h5><strong>Visiting Scholar</strong></h5>
+<p><a href="https://www.mitbio.edu.in/">MIT-ADT School of Bioengineering Sciences and Research</a>, Pune, India (Feb - July 2019)</p>
+<ul>
+<li>Invited Visiting Lecturer (3 lectures) in Genetics for the Bachelor of Technology-Bioengineering undergraduate program</li>
+</ul>
+<p><br></p>
+</div>
+<div id="rna-seq-workshop-lead" class="section level5">
+<h5><strong>RNA-seq Workshop Lead</strong></h5>
+<p><a href="https://bcchr.ca/tog">Trainee Omics Group (TOG) Committee</a>, BC Children’s Hospital Research Institute (September 2021 - Present)</p>
+<ul>
+<li>Designed, coded, and taught a <a href="https://github.com/BCCHR-trainee-omics-group/StudyGroup/tree/master/workshops/RNA-seq-Workshop-2021">2-part RNA-seq Workshop</a> detailing all steps from raw sequence alignment to gene/pathway enrichment<br />
+</li>
+<li>Was invited to run the above workshop for <a href="https://www.graspods.com/events-list/2021/10/7/rna-seq-workshop-part-1-from-raw-to-processed-data">BC Cancncer Research Centre Graduate Student and Post Doctoral Society (GrasPods)</a></li>
+<li>YouTube Videos: <a href="https://youtu.be/SqzOvPOxga4">Part 1</a> and <a href="">Part 2</a></li>
+</ul>
+<p><br></p>
+<hr />
+<hr />
+<div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;">
+
+</div>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4,h5,h6",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

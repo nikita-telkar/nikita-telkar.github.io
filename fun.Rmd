@@ -1,0 +1,154 @@
+---
+title: "Fun"
+output: 
+  html_document: 
+    theme: flatly
+    highlight: monochrome
+    keep_md: yes 
+    # toc: true  
+    # toc_depth: 6
+    # toc_float: 
+    #   collapsed: true 
+    #   smooth_scroll: true
+--- 
+
+```{r, echo=FALSE, include=FALSE, message=FALSE, error=FALSE, warning=FALSE}
+
+library(knitr)
+library(rmarkdown)
+library(here)
+library(icons)
+library(fontawesome)
+
+```
+
+<style>
+#TOC {
+  background: url("static/TOC.png");
+  background-size: contain;
+  padding-top: 80px !important;
+  padding-bottom: 80px !important;
+  background-repeat: no-repeat;
+}
+</style>
+
+<style>
+a:link {
+    color: purple;
+}
+
+a:visited {
+    color: purple;
+}
+
+ a:hover {
+    color: purple;
+}
+
+</style>
+
+```{css, echo = FALSE}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Open Sans';
+    font-size: 15px;
+}
+
+
+h4, #TOC>ul>li {
+  font-family: 'Montserrat';
+}
+
+# h5, #TOC>ul>ul>li {
+#  color: #323b58;
+# }
+
+.tocify {
+  # position: -webkit-sticky;
+  # position: sticky; 
+  # top: 120px; /*Controls where TOC stops when sticky */
+  width: 100% !important;
+  border: none;
+}
+
+.list-group-item {
+    color: #666666;
+    font-size: 15px;
+}
+
+.list-group-item.active {
+    color: white;
+    background-color: #853078;
+    border: none;
+}
+
+
+.list-group-item:hover, 
+.list-group-item.active:hover {
+    color: #853078;
+    background-color: white;
+}
+
+/*----------------NAVBAR ---------------*/
+.navbar-default {
+    background-color: #333333f2;
+}
+
+.navbar-default .navbar-nav>.open>a, 
+.navbar-default .navbar-nav>.active>a, 
+a.dropdown-toggle:hover {
+  background-color: #333333 !important;
+}
+
+/* Dropdown menu color */
+.navbar-default .dropdown-menu {
+  background-color: #333333;
+}
+
+/* Dropdown menu hover color */
+  .navbar-default .dropdown-menu>li>a:hover {
+    background-color: #333333f2;
+  }
+
+/* Navbar Links when hovered*/
+.navbar-default .dropdown-menu>.active>a
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav:hover, 
+.navbar-default .navbar-nav>li>a:hover, 
+a.navbar-brand:hover {
+  color: #ffffffab !important;
+  background-color: #333333;
+}
+```
+
+***  
+
+**Interests**:  
+
+`r fa("chess-queen", fill = "black")`  I love to play board games  
+`r fa("chess-queen", fill = "white")` I was an inter-school chess champion, and placed 3rd when I was 12 years old, in the Girls 16-18 category  
+
+`r fa("guitar", fill = "black")` I occasionally play the ukulele  
+`r fa("guitar", fill = "white")` I was also the lead drummer in my school's marching band  
+
+`r fa("utensils", fill = "black")` I try to learn a new recipe every week  
+`r fa("utensils", fill = "white")` Some of my personal favourites include coq au vin blanc, egg drop soup, and mini lemon-white chocolate cheesecakes    
+
+`r fa("book", fill = "black")` Check out my Goodreads ['Books I've Read'](https://www.goodreads.com/review/list/16297220-nikita-t?utf8=%E2%9C%93&ref=nav_mybooks&shelf=read&title=nikita-t&sort=date_updated&order=d) Bookshelf  
+
+ <br>
+
+**Skills**:  
+
+`r fa("concierge-bell", fill = "black")` I was the Head Server at a [well-known restaurant](https://www.mumbailocal.ca/) in Downtown Vancouver  
+`r fa("concierge-bell", fill = "white")` Several customers made reservations specifically during my work shift, wanting to experience my hospitality (they told me so!)
+
+
+
+
+<div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>
+
+
