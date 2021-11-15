@@ -144,17 +144,7 @@ I’m an avid bibliophile, coffee enthusiast, culinary aficionado, and Team Xbox
 
 ::: {}
 
-<img src="/Users/nikitatelkar/Github/Rmd_website/static/NT_Profile_round.png" width="90%" />
-
-
-```r
-file.create(".nojekyll")
-```
-
-```
-## [1] TRUE
-```
-
+<img src="/Users/nikitatelkar/Github/github_io/nikita-telkar.github.io/static/NT_Profile_round.png" width="90%" />
 
 :::
 
@@ -201,7 +191,7 @@ Rees W.D., Telkar N, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. An 
 
 ##### Poster Example  
 
-<img src="/Users/nikitatelkar/Github/Rmd_website/static/Telkar_Nikita_EMBO-EMBL.png" width="9600" />
+<img src="/Users/nikitatelkar/Github/github_io/nikita-telkar.github.io/static/Telkar_Nikita_EMBO-EMBL.png" width="9600" />
 
 
 #### {.tabset .unlisted .unnumbered}
@@ -260,7 +250,7 @@ Telkar N. [Using WNT5A Expression to Characterize Development in the Human Gut](
 ##### Poster Example  
 
 
-<img src="/Users/nikitatelkar/Github/Rmd_website/static/WNT5A_Poster.png" width="3311" />
+<img src="/Users/nikitatelkar/Github/github_io/nikita-telkar.github.io/static/WNT5A_Poster.png" width="3311" />
 
 
 ***  
