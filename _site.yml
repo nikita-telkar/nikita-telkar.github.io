@@ -1,0 +1,29 @@
+name: nikita-telkar
+output_dir: docs
+output: 
+  html_document: 
+    keep_md: yes
+    theme: flatly
+    highlight: monochrome
+    css: style.css
+    includes:
+      in_header: header.html
+navbar:
+  title: Telkar, N
+  left:
+  - text: Welcome
+    href: index.html
+  - text: Projects
+    href: projects.html
+  - text: Fun
+    href: fun.html
+  right:
+  - href: https://www.linkedin.com/in/nikitatelkar/
+    icon: fa-linkedin
+  - href: https://github.com/nikita-telkar
+    icon: fa-github
+  - href: https://twitter.com/nikita_telkar
+    icon: fa-twitter
+  - href: https://scholar.google.com/citations?hl=en&authuser=2&user=3EwE6tAAAAAJ/
+    text: Google Scholar
+    
