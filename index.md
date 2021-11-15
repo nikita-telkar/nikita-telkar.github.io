@@ -120,7 +120,8 @@ a.navbar-brand:hover {
 
 ***  
 
-> *Investigating genetic regulation in the human placenta, while sipping on my flat white. Big fan of `ggplot2` and Jazz music. Jack-of-all-Trades kinda person.*  
+> *Investigating genetic regulation in the human placenta, while sipping on my flat white.  
+> Big fan of `ggplot2` and Jazz music. Jack-of-all-Trades kinda person*  `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:black;overflow:visible;position:relative;"><path d="M204.3 5C104.9 24.4 24.8 104.3 5.2 203.4c-37 187 131.7 326.4 258.8 306.7 41.2-6.4 61.4-54.6 42.5-91.7-23.1-45.4 9.9-98.4 60.9-98.4h79.7c35.8 0 64.8-29.6 64.9-65.3C511.5 97.1 368.1-26.9 204.3 5zM96 320c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm32-128c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm128-64c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm128 64c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32z"/></svg>`{=html}   
 
 ***  
 
@@ -387,8 +388,9 @@ University of British Columbia, Canada (Sept - Dec 2020)
 [Trainee Omics Group (TOG) Committee](https://bcchr.ca/tog), BC Children’s Hospital Research Institute (September 2021 - Present)  
 
 * Designed, coded, and taught a [2-part RNA-seq Workshop](https://github.com/BCCHR-trainee-omics-group/StudyGroup/tree/master/workshops/RNA-seq-Workshop-2021) detailing all steps from raw sequence alignment to gene/pathway enrichment  
-* Was invited to run the above workshop for [BC Cancer Research Centre Graduate Student and Post Doctoral Society (GrasPods)](https://www.graspods.com/events-list/2021/10/7/rna-seq-workshop-part-1-from-raw-to-processed-data)
+* Invited to run the above workshop for [BC Cancer Research Centre Graduate Student and Post Doctoral Society (GrasPods)](https://www.graspods.com/events-list/2021/10/7/rna-seq-workshop-part-1-from-raw-to-processed-data)
 * YouTube Videos: [Part 1](https://youtu.be/SqzOvPOxga4) and [Part 2]()  
+* Honoraria received  
 
 <br> 
 

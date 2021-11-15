@@ -172,10 +172,6 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 <br>
 
-**Results**:  
-
-- Intestinal cells lose the ability to regenerate after 5 rounds of inflicted damage  
-
 **Project Highlights**:  
 
 - Second-author publication (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875768)  
