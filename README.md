@@ -1,1 +1,1 @@
-My GitHub Pages Website at [nikita-telkar.github.io](nikita-telkar.github.io) 🧬
+My GitHub Pages Website at [nikita-telkar.github.io](https://nikita-telkar.github.io/) 🧬
