@@ -135,7 +135,7 @@ A 3rd year PhD Candidate in the [Medical Genetics Graduate Program](https://medg
 
 My research interests lie in developmental, cardiovascular, and population genetics. My curiosity is driven by wanting to elucidate the genetic differences that exist between populations of different ancestries.
 
-I’m an avid bibliophile, coffee enthusiast, culinary aficionado, and Team Xbox. I also make and sell custom genetics-themed graphics and merchandise on [Etsy](https://www.etsy.com/ca/shop/ScribblezbyNiki)!  
+I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also make and sell custom genetics-themed graphics and merchandise on [Etsy](https://www.etsy.com/ca/shop/ScribblezbyNiki)!  
 
 <br>
 <a href = "mailto:nikita.telkar@bcchr.ca"><i class="fas fa-envelope"></i></a> | <a href = "https://www.linkedin.com/in/nikitatelkar/"><i class = "fa fa-linkedin" ></i></a> | <a href = "https://github.com/nikita-telkar"><i class = "fa fa-github" ></i></a> | <a href = "https://twitter.com/nikita_telkar"><i class = "fa fa-twitter" ></i></a> | 
@@ -150,6 +150,21 @@ I’m an avid bibliophile, coffee enthusiast, culinary aficionado, and Team Xbox
 :::
 
 ::::
+
+***  
+***  
+
+#### Skills  
+
+Research Background: Genomics and bioinformatics - cardiovascular genetics, developmental/embryonic genetics, epidemiology, lung and liver cancer, RNA, biostatistics  
+
+Programming: R, Linux/BASH, HPC, Git/GitHub, Jupyter
+
+Databases: NCBI, OMIM, GEO, UCSC Genome Browser, ClinVar, GeneCards, UniProt, GTex, miRBase, RNACentral  
+
+Genomics Analysis Tools: IGV, PLINK, GEMMA, miRMaster  
+
+Data Types: GWAS Summary Statistics/SNP, RNA sequencing (total and small), single-cell RNA sequencing (scRNA-seq), DNA methylation (850/450K)  
 
 ***  
 ***  
@@ -323,7 +338,7 @@ Department of Medical Genetics, UBC (2019 – Present)
 [UBC Medical Genetics Graduate Student Association](https://mggsa.ca/) (January 2021 – Present)  
 
  * Assisting the board with executive decisions and planning events at this departmental social and outreach association  
- * Recruited panelists and moderated the Alumni Panel at the annual welcome event (received public acknowledgment), directed a fundraiser (raised ~$300), designed the website  
+ * Recruited panelists and moderated the Alumni Panel at the annual welcome event (received public acknowledgment), directed a fundraiser (raised ~$300), developed the website  
  
 <br> 
  
