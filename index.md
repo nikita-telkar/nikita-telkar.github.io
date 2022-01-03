@@ -152,21 +152,19 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
 ::::
 
 ***  
-***  
 
-#### Skills  
+#### **Skills**  
 
-Research Background: Genomics and bioinformatics - cardiovascular genetics, developmental/embryonic genetics, epidemiology, lung and liver cancer, RNA, biostatistics  
+`Research Background`: Genomics and bioinformatics - cardiovascular genetics, developmental/embryonic genetics, epidemiology, lung and liver cancer, RNA, biostatistics  
 
-Programming: R, Linux/BASH, HPC, Git/GitHub, Jupyter
+`Programming`: R, Linux/BASH, HPC, Git/GitHub, Jupyter
 
-Databases: NCBI, OMIM, GEO, UCSC Genome Browser, ClinVar, GeneCards, UniProt, GTex, miRBase, RNACentral  
+`Databases`: NCBI, OMIM, GEO, UCSC Genome Browser, ClinVar, GeneCards, UniProt, GTex, miRBase, RNACentral  
 
-Genomics Analysis Tools: IGV, PLINK, GEMMA, miRMaster  
+`Genomics Analysis Tools`: IGV, PLINK, GEMMA, miRMaster  
 
-Data Types: GWAS Summary Statistics/SNP, RNA sequencing (total and small), single-cell RNA sequencing (scRNA-seq), DNA methylation (850/450K)  
+`Data Types`: GWAS Summary Statistics/SNP, RNA sequencing (total and small), single-cell RNA sequencing (scRNA-seq), DNA methylation (850/450K)  
 
-***  
 ***  
 
 #### **Education** {.tabset}
@@ -270,7 +268,6 @@ Telkar N. [Using WNT5A Expression to Characterize Development in the Human Gut](
 
 
 ***  
-***  
 
 #### {.unlisted .unnumbered}  
 
@@ -311,7 +308,6 @@ Department of Neuroscience, University College London (Nov 2017 - Jan 2018)
  * 60% profit margin, 25% of profits directed to the HelpAge India NGO - a non-profit focused on the elderly  
 
 
-***  
 ***  
 
 #### **Leadership Initiatives**    
@@ -411,7 +407,6 @@ University of British Columbia, Canada (Sept - Dec 2020)
 
 
 
-***  
 ***  
 
 <div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>
