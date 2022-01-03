@@ -167,15 +167,15 @@ knitr::include_graphics(here::here("static", "NT_Profile_round.png"))
 
 #### **Skills**  
 
-`Research Background`: Genomics and bioinformatics - cardiovascular genetics, developmental/embryonic genetics, epidemiology, lung and liver cancer, RNA, biostatistics  
+`Research Background:` Genomics and bioinformatics - cardiovascular genetics, developmental/embryonic genetics, epidemiology, lung and liver cancer, RNA, biostatistics  
 
-`Programming`: R, Linux/BASH, HPC, Git/GitHub, Jupyter
+`Programming:` R, Linux/BASH, HPC, Git/GitHub, Jupyter
 
-`Databases`: NCBI, OMIM, GEO, UCSC Genome Browser, ClinVar, GeneCards, UniProt, GTex, miRBase, RNACentral  
+`Databases:` NCBI, OMIM, GEO, UCSC Genome Browser, ClinVar, GeneCards, UniProt, GTex, miRBase, RNACentral  
 
-`Genomics Analysis Tools`: IGV, PLINK, GEMMA, miRMaster  
+`Genomics Analysis Tools:` IGV, PLINK, GEMMA, miRMaster  
 
-`Data Types`: GWAS Summary Statistics/SNP, RNA sequencing (total and small), single-cell RNA sequencing (scRNA-seq), DNA methylation (850/450K)  
+`Data Types:` GWAS Summary Statistics/SNP, RNA sequencing (total and small), single-cell RNA sequencing (scRNA-seq), DNA methylation (850/450K)  
 
 ***  
 
