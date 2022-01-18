@@ -162,19 +162,35 @@ DNA methylation is another epigenetic regulatory mechanism, and [the placenta ha
 
 <br>  
 
-##### 1. Human Colon Organoids   
+##### 1. An IBD-mimic human colonoid chronic-injury model   
 
 Intestinal cells undergo regeneration after acute injury. However, the feasibility and capacity of these cells to undergo repeated renewal and regeneration on chronic injury is still not well understood. Using intestinal epithelial cells collected from 2 human  patients, colonoid organoids were generated in the lab and were further subjected to rounds of induced damage, inflammation and rescue to observe the renewal mechanisms of these cells  
 
-**I was recruited as a Bioinformatician for this exploratory project by the [Ted Steiner lab at BC Children's Hospital Research Institute](https://www.bcchr.ca/tsteiner) to analyze their RNA-seq data, for which I was given second-authorship on the respective manuscript** 
+**I was recruited as a Bioinformatician for this exploratory project by the [Ted Steiner's lab at BC Children's Hospital Research Institute](https://www.bcchr.ca/tsteiner) to analyze their RNA-seq data, for which I was given second-authorship on the respective manuscript** 
 
-**Software**: R, GSEA    
-
-<br>
+**Data/Software**: mRNA-seq / R, GSEA    
 
 **Project Highlights**:  
 
-- Second-author publication (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875768)  
+- [Second-author publication in Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8)
+
+***  
+
+##### 2. Role of NF activated T-cells in the Pathogenesis of Coxsackievirus-induced Myocarditis  
+
+*In progress*  
+
+**Data/Software**: murine mRNA-seq / R, GSEA  
+
+
+***  
+
+##### 3. Telmisartan treated tumours show an improved response to radiaition therapy  
+
+*In progress*  
+
+**Data/Software**: human + murine single-cell RNA-seq / R
+
 
 ***  
 
