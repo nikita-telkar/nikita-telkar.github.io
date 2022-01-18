@@ -17,6 +17,8 @@ navbar:
     href: projects.html
   - text: Fun
     href: fun.html
+  - text: Academic CV
+    href: cv.html
   right:
   - href: https://www.linkedin.com/in/nikitatelkar/
     icon: fa-linkedin

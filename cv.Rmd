@@ -1,0 +1,26 @@
+---
+title: "Academic CV"
+output: 
+  html_document: 
+    theme: flatly
+    highlight: monochrome
+    keep_md: yes 
+    # toc: true  
+    # toc_depth: 6
+    # toc_float: 
+    #   collapsed: true 
+    #   smooth_scroll: true
+--- 
+
+***  
+
+```{r, echo=FALSE}
+
+library(knitr)
+
+include_graphics(path = "CV1.png")
+include_graphics(path = "CV2.png")
+include_graphics(path = "CV3.png")
+
+```
+
