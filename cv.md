@@ -117,5 +117,5 @@ a.navbar-brand:hover {
 }
 </style>
 
-<img src="CV1.png" width="1332" /><img src="CV2.png" width="1164" /><img src="CV3.png" width="1127" />
+![](Nikita_Telkar_Academic_CV.pdf)<!-- -->
 

@@ -125,13 +125,5 @@ a.navbar-brand:hover {
 }
 ```
 
-```{r, echo=FALSE}
-
-library(knitr)
-
-include_graphics(path = "CV1.png")
-include_graphics(path = "CV2.png")
-include_graphics(path = "CV3.png")
-
-```
+[View my Academic CV here!]()
 
