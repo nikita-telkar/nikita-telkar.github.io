@@ -117,5 +117,5 @@ a.navbar-brand:hover {
 }
 </style>
 
-![](Nikita_Telkar_Academic_CV.pdf)<!-- -->
+[View my Academic CV here!](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Nikita_Telkar_Academic_CV.pdf)
 
