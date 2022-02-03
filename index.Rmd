@@ -16,6 +16,9 @@ output:
 
 ```{r, echo=FALSE, include=FALSE, message=FALSE, error=FALSE, warning=FALSE}
 
+# remotes::install_github("mitchelloharawild/icons")
+# install.packages("fontawesome")
+
 library(knitr)
 library(rmarkdown)
 library(here)
@@ -334,11 +337,12 @@ Department of Neuroscience, University College London (Nov 2017 - Jan 2018)
 
 <br> 
 
-##### **Co-Chair**       
+##### [**Co-Chair**](#co-chair)       
 [Trainee Omics Group (TOG) Committee](https://bcchr.ca/tog), BC Children’s Hospital Research Institute (September 2021 - Present)  
 
- * A graduate trainee-led bioinformatics and data analysis support group teaching and guiding students/trainees in statistical analyses and methodologies undertaken in biomedical/health research  
- * *Co-ordinator (December 2020 - September 2021)*: Exclusively [created (coded) and taught](https://github.com/BCCHR-trainee-omics-group/StudyGroup/tree/master/workshops/RNA-seq-Workshop-2021) RNA-seq genomic data analysis workshop  
+ * A graduate trainee-led [bioinformatics and data analysis support group](https://github.com/BCCHR-trainee-omics-group/StudyGroup) teaching and guiding students/trainees in statistical analyses and methodologies undertaken in biomedical/health research  
+ * Hosting weekly workshops and seminars on topics requested for by trainees, maintaining the TOG GitHub, inviting guest instructors, event planning - event registration up by 
+ * Designed, coded, and delivered a [2-part RNA-seq Workshop](https://github.com/BCCHR-trainee-omics-group/StudyGroup/tree/master/workshops/RNA-seq-Workshop-2021) detailing all steps from raw sequence alignment to gene/pathway enrichment  
 
 <br> 
 
@@ -415,13 +419,21 @@ University of British Columbia, Canada (Sept - Dec 2020)
 
 <br> 
 
-##### **RNA-seq Workshop Lead**  
+##### **Workshop Lead**  
 [Trainee Omics Group (TOG) Committee](https://bcchr.ca/tog), BC Children’s Hospital Research Institute (September 2021 - Present)  
 
-* Designed, coded, and taught a [2-part RNA-seq Workshop](https://github.com/BCCHR-trainee-omics-group/StudyGroup/tree/master/workshops/RNA-seq-Workshop-2021) detailing all steps from raw sequence alignment to gene/pathway enrichment  
-* Invited to run the above workshop for [BC Cancer Research Centre Graduate Student and Post Doctoral Society (GrasPods)](https://www.graspods.com/events-list/2021/10/7/rna-seq-workshop-part-1-from-raw-to-processed-data)
+* Invited to run my <a style = "color:purple;" href="#co-chair"> RNA-seq Workshop </a> for [BC Cancer Research Centre Graduate Student and Post Doctoral Society (GrasPods)](https://www.graspods.com/events-list/2021/10/7/rna-seq-workshop-part-1-from-raw-to-processed-data)'s Welcome Week  
 * YouTube Videos: [Part 1](https://youtu.be/SqzOvPOxga4) and [Part 2]()  
 * Honoraria received  
+
+<br> 
+
+
+##### **Graduate Instructional Skills Workshop**   
+Centre for Teaching, Learning and Technology, UBC  
+
+* 4-day workshop (24-hour) conisiting of teaching practice, theory application, and topical sessions specifically relevant for Teaching Assistants. Delivered 3 short lectures on the genetics of the ABO blood groups      
+* Feedback from fellow team member: `"Nikita, your students will be lucky to have you, you make everything so easy to understand.”`  
 
 <br> 
 

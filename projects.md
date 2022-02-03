@@ -139,9 +139,9 @@ The human placenta is the indispensible organ necessary for all water, nutrient,
 
 DNA methylation is another epigenetic regulatory mechanism, and [the placenta has been recognized for its unique epigenetic landscape](https://10.1101/cshperspect.a023044). The sncRNA expression data observed will be integrated with sample-matched DNAm data to investigate whether any correlation in expression exists between the two gene regulation mechansisms. [The placental gene expression profile also resembles that of cancer](https://10.1098/rsob.180081), and the top sncRNAs of interest will be examined for their connection to cancer progression.     
 
-**Software**: R Programming. Some of my code is available on my [GitHub](https://github.com/nikita-telkar/Projects).    
+`Software`: R Programming. Some of my code is available on my [GitHub](https://github.com/nikita-telkar/Projects).    
 
-**Project Highlights**:     
+`Project Impact`:     
 
 - Self-taught R, RMarkdown, and RNA-seq data analysis  
   - quality control, normalization, PCA, linear modeling, DNAm correlation, gene/pathway enrichment 
@@ -151,7 +151,7 @@ DNA methylation is another epigenetic regulatory mechanism, and [the placenta ha
 - Pilot analysis showed that there indeed are microRNAs differentially-expressed by trimester  
 
 
-**Communication**:   
+`Communication`:   
 
 [Project Overview](https://drive.google.com/file/d/1OL7ODzJILB5Q56cb9N2DDmLlxZmwdvTz/view?usp=sharing)  
 [BCCHR: Healthy Starts Research Day 2021 - Poster](https://drive.google.com/file/d/1K4JreNCGIXvbKClrT0TwzAF8Sf3B23Yh/view?usp=sharing)  
@@ -162,34 +162,40 @@ DNA methylation is another epigenetic regulatory mechanism, and [the placenta ha
 
 <br>  
 
-##### 1. An IBD-mimic human colonoid chronic-injury model   
+##### 1. BC Children's Hospital Research Institute / [The Ted Steiner Lab](https://www.bcchr.ca/tsteiner)  
+
+**An IBD-mimic human colonoid chronic-injury model**     
 
 Intestinal cells undergo regeneration after acute injury. However, the feasibility and capacity of these cells to undergo repeated renewal and regeneration on chronic injury is still not well understood. Using intestinal epithelial cells collected from 2 human  patients, colonoid organoids were generated in the lab and were further subjected to rounds of induced damage, inflammation and rescue to observe the renewal mechanisms of these cells  
 
-**I was recruited as a Bioinformatician for this exploratory project by the [Ted Steiner's lab at BC Children's Hospital Research Institute](https://www.bcchr.ca/tsteiner) to analyze their RNA-seq data, for which I was given second-authorship on the respective manuscript** 
+**I was recruited as a Bioinformatician for this exploratory project to analyze their RNA-seq data, for which I was given second-authorship on the respective manuscript** 
 
-**Data/Software**: mRNA-seq / R, GSEA    
+`Data/Software`: mRNA-seq / R, GSEA    
 
-**Project Highlights**:  
+`Project Impact`:  
 
 - [Second-author publication in Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8)
 
 ***  
 
-##### 2. Role of NF activated T-cells in the Pathogenesis of Coxsackievirus-induced Myocarditis  
+##### 2. Centre for Heart Lung Innovation: St. Paul's Hospital / [The Decheng Yang Lab](https://www.hli.ubc.ca/researchers/decheng-yang/)  
+
+**Role of NF activated T-cells in the Pathogenesis of Coxsackievirus-induced Myocarditis**    
 
 *In progress*  
 
-**Data/Software**: murine mRNA-seq / R, GSEA  
+`Data/Software`: murine mRNA-seq / R, GSEA  
 
 
 ***  
 
-##### 3. Telmisartan treated tumours show an improved response to radiaition therapy  
+##### 3. BC Cancer Research Centre / [The Kevin Beenewith Lab](https://www.bccrc.ca/dept/io/people/kevin-bennewith)  
+
+**Telmisartan treated tumours show an improved response to radiaition therapy**    
 
 *In progress*  
 
-**Data/Software**: human + murine single-cell RNA-seq / R
+`Data/Software`: human + murine single-cell RNA-seq / R
 
 
 ***  
@@ -205,18 +211,18 @@ The majority of Genome-wide Association Studies, even now, focus on Caucasian, E
 
 **I collected GWAS summary statistics of three lipid (cholesterol) biomarkers from seven different populations (British, two Greek isolates, Chinese, Japanese, East Asian, Ugandan) calculated the Polygeneic Risk Scores (PRSs) of each individual using the commonly overlapping lipid SNPs to assess if these scores varied across the  populations. The heritability as well as trans-ancestral correlation was also calculated. The measured blood lipid biomarker levels were then examined across the genetic scores, to investigate the correlation between the blood lipid levels of one biomarker against the genetic score of another (biomarker-score cross association).**  
 
-**Software**: UNIX, command-line R, PLINK, GEMMA, Popcorn  
+`Software`: UNIX, command-line R, PLINK, GEMMA, Popcorn  
 
 <br>
 
-**Results**:  
+`Results`:  
 
 - The majority of European CVD/lipid loci overlap with the Japanese, Chinese, Greek-isolate, and African Ugandan populations.  
 - HDL biomarker/score showed an inverse relationship with LDL biomarker score; LDL and Triglycerides had a linear relationship, except for in the Ugandan population where triglyceride score did not correlate with biomarker score.  
 - The two Greek-isolate populations showed near perfect heritability and trans-ethnic correlation with the UK population, same as the Japanese and Chinese population with the East Asian population.  
 
 
-**Project Highlights**:  
+`Project Impact`:  
 
 - Opportunity to work as as a Visiting Scientist at the [Wellcome Sanger Institute](https://www.sanger.ac.uk/)  
 - Second-author publication in [Nature Communications](https://doi.org/10.1038/s41467-019-12026-7)  
@@ -237,7 +243,7 @@ The [WNT genes](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2001
 
 <br>  
 
-**Project Highlights**:  
+`Project Impact`:  
 
 - Received the UK-wide competitive [Genetics Society Summer Studentship Award](https://genetics.org.uk/grants/summer-studentships/) 2016.  
 - Trained in MAPaint and Amira software on Linux, which involved transferring the wet-lab protein expression results into a computer-based 3D model.  
