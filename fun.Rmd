@@ -139,6 +139,9 @@ a.navbar-brand:hover {
 
 `r fa("book", fill = "black")` Check out my Goodreads ['Books I've Read'](https://www.goodreads.com/review/list/16297220-nikita-t?utf8=%E2%9C%93&ref=nav_mybooks&shelf=read&title=nikita-t&sort=date_updated&order=d) Bookshelf  
 
+`r fa("xbox", fill = "black")` I'm Team Xbox  
+`r fa("xbox", fill = "white")` Some of my favourites include the Assassin's Creed series, Watch Dogs: Legion     
+
  <br>
 
 **Skills**:  
