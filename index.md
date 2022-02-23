@@ -159,11 +159,11 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
 
 `Programming:` R, Linux/BASH, HPC, Git/GitHub, Jupyter
 
-`Databases:` NCBI, OMIM, GEO, UCSC Genome Browser, ClinVar, GeneCards, UniProt, GTex, miRBase, RNACentral  
+`Database Usuage:` NCBI, OMIM, GEO, UCSC Genome Browser, ClinVar, GeneCards, UniProt, GTex, miRBase, RNACentral  
 
 `Genomics Analysis Tools:` IGV, PLINK, GEMMA, miRMaster  
 
-`Data Types:` GWAS Summary Statistics/SNP, RNA sequencing (total and small), single-cell RNA sequencing (scRNA-seq), DNA methylation (850/450K)  
+`Data Types:` GWAS Summary Statistics/SNP (UK/China Kadoorie/Japan Biobanks), RNA sequencing (total and small), single-cell RNA sequencing (scRNA-seq), DNA methylation (850/450K)  
 
 ***  
 
@@ -194,18 +194,27 @@ President's Academic Excellence Initiative PhD Award (2020-2024) – University 
 International Tuition Award (2019-2024) – University of British Columbia  
 
 **Pubs**:  
-Martinez, V.D., Cohn D.E., Telkar N, Minatel B.C., Pewarchuk M.E., Marshall, E.A., Price M.E., Robinson W.P., Lam W.L. [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1).  Sci Data 2021; 8, 166.  
+Martinez VD, Cohn DE, Telkar N, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1).  Sci Data 2021; 8, 166.  
 
-Cohn D.E., Barros-Filho M.C., Minatel B.C., Pewarchuk M.E., Marshall, E.A., Vucic E.A., Sage A.P., Telkar N, Stewart G.L., Jurisica I, Reis P.P., Robinson W.P, Lam W.L. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). Cancers 2021, 13, 2686.  
+Cohn DE, Barros-Filho MC, Minatel BC, Pewarchuk ME, Marshall EA, Vucic EA, Sage AP, Telkar N, Stewart GL, Jurisica I, Reis PP, Robinson WP, Lam WL. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). Cancers 2021, 13, 2686.  
 
 Marshall EA, Telkar N, Lam WL. [Functional role of the cancer microbiome in the solid tumour niche](https://doi.org/10.1016/j.crimmu.2021.01.001). Current Research in Immunology 2021; 2: 1–6  
 
-Rees W.D., Telkar N, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers. [Submitted]   
+Rees WD, Telkar N, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). Cell Reports 2022; 38(3)  
+
+Telkar N, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility. Frontiers in Genetics 2022, *[Submitted]*  
+
+Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, Telkar N, Martinez VD, Reis PP, Robinson WP, Lam WL. Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma. International Journal of Molecular Sciences 2022, *[Submitted]*  
+
+
+**Communication**:  
+
+[Interview with The Genetics Society UK](https://genetics.org.uk/wp-content/uploads/2018/06/Issue-86-lr.pdf#page=43)
 
 
 ##### Poster Example  
 
-<img src="/Users/nikitatelkar/Github/github_io/nikita-telkar.github.io/static/Telkar_Nikita_EMBO-EMBL.png" width="9600" />
+<img src="/Users/nikitatelkar/Github/github_io/nikita-telkar.github.io/static/MEDGEN_RS_2021.png" width="4800" />
 
 
 #### {.tabset .unlisted .unnumbered}
