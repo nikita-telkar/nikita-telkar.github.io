@@ -159,7 +159,7 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
 
 `Programming:` R, Linux/BASH, HPC, Git/GitHub, Jupyter
 
-`Database Usuage:` NCBI, OMIM, GEO, UCSC Genome Browser, ClinVar, GeneCards, UniProt, GTex, miRBase, RNACentral  
+`Database Usage:` NCBI, OMIM, GEO, UCSC Genome Browser, ClinVar, GeneCards, UniProt, GTex, miRBase, RNACentral  
 
 `Genomics Analysis Tools:` IGV, PLINK, GEMMA, miRMaster  
 
@@ -177,8 +177,7 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
 (2019 -  )   
   
 <br> 
-Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](https://nikita-telkar.netlify.app/project/phd/)  
-[Dr. Wendy Robinson]((https://www.bcchr.ca/wrobinson)) - BC Children's Hospital Research Institute | [Lab Website](https://robinsonresearch.ca)  
+Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](https://nikita-telkar.github.io/projects.html) - BC Children's Hospital Research Institute | [Lab Website](https://robinsonresearch.ca)  
 [Dr. Wan Lam](https://wanlamlab.wordpress.ca) - BC Cancer Research Centre | [Lab Website](https://www.bccrc.ca/dept/io/labs/wan-lam-lab)  
 
 <br> 
