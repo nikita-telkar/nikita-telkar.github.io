@@ -204,10 +204,9 @@ Rees WD, Telkar N, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An i
 Telkar N, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility. Frontiers in Genetics 2022, *[Submitted]*  
 
 Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, Telkar N, Martinez VD, Reis PP, Robinson WP, Lam WL. Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma. International Journal of Molecular Sciences 2022, *[Submitted]*  
-
+  
 
 **Communication**:  
-
 [Interview with The Genetics Society UK](https://genetics.org.uk/wp-content/uploads/2018/06/Issue-86-lr.pdf#page=43)
 
 
