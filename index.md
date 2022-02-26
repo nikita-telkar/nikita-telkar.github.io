@@ -139,7 +139,12 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
 
 <br>
 <a href = "mailto:nikita.telkar@bcchr.ca"><i class="fas fa-envelope"></i></a> | <a href = "https://www.linkedin.com/in/nikitatelkar/"><i class = "fa fa-linkedin" ></i></a> | <a href = "https://github.com/nikita-telkar"><i class = "fa fa-github" ></i></a> | <a href = "https://twitter.com/nikita_telkar"><i class = "fa fa-twitter" ></i></a> | 
-<a href = "https://scholar.google.com/citations?hl=en&authuser=2&user=3EwE6tAAAAAJ/">Google Scholar</a> 
+<a href = "https://scholar.google.com/citations?hl=en&authuser=2&user=3EwE6tAAAAAJ/">Google Scholar</a>  
+  
+<br> 
+
+`Latest Highlight:`    
+[The Genetics Society Newsletter Interview](https://genetics.org.uk/wp-content/uploads/2018/06/Issue-86-lr.pdf#page=43)
 
 :::
 
