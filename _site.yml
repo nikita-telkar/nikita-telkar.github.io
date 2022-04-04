@@ -17,6 +17,8 @@ navbar:
     href: projects.html
   - text: Fun
     href: fun.html
+  - text: R Shiny App
+    href: database.html
   - text: Academic CV
     href: cv.html
   right:

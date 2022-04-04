@@ -154,7 +154,8 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
   
 <br> 
 
-`Latest Highlight:`    
+`Latest Highlights:`    
+[M first first-author journal publication](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full)  
 [The Genetics Society Newsletter Interview](https://genetics.org.uk/wp-content/uploads/2018/06/Issue-86-lr.pdf#page=43)
 
 :::
@@ -177,7 +178,7 @@ knitr::include_graphics(here::here("static", "NT_Profile_round.png"))
 
 `Research Background:` Genomics and bioinformatics - cardiovascular genetics, developmental/embryonic genetics, epidemiology, lung and liver cancer, RNA, biostatistics  
 
-`Programming:` R, Linux/BASH, HPC, Git/GitHub, Jupyter
+`Programming:` R/RMarkdown/R Shiny, Linux/BASH, HPC, Git/GitHub, Jupyter
 
 `Database Usage:` NCBI, OMIM, GEO, UCSC Genome Browser, ClinVar, GeneCards, UniProt, GTex, miRBase, RNACentral  
 
@@ -197,7 +198,8 @@ knitr::include_graphics(here::here("static", "NT_Profile_round.png"))
 (2019 -  )   
   
 <br> 
-Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](https://nikita-telkar.github.io/projects.html) - BC Children's Hospital Research Institute | [Lab Website](https://robinsonresearch.ca)  
+Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](https://nikita-telkar.github.io/projects.html)   
+[Dr. Wendy Robinson](https://bcchr.ca/wrobinson) - BC Children's Hospital Research Institute | [Lab Website](https://robinsonresearch.ca)  
 [Dr. Wan Lam](https://wanlamlab.wordpress.ca) - BC Cancer Research Centre | [Lab Website](https://www.bccrc.ca/dept/io/labs/wan-lam-lab)  
 
 <br> 
@@ -213,17 +215,17 @@ President's Academic Excellence Initiative PhD Award (2020-2024) – University 
 International Tuition Award (2019-2024) – University of British Columbia  
 
 **Pubs**:  
-Martinez VD, Cohn DE, Telkar N, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1).  Sci Data 2021; 8, 166.  
+Martinez VD, Cohn DE, **Telkar N**, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1).  Sci Data 2021; 8, 166.  
 
-Cohn DE, Barros-Filho MC, Minatel BC, Pewarchuk ME, Marshall EA, Vucic EA, Sage AP, Telkar N, Stewart GL, Jurisica I, Reis PP, Robinson WP, Lam WL. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). Cancers 2021, 13, 2686.  
+Cohn DE, Barros-Filho MC, Minatel BC, Pewarchuk ME, Marshall EA, Vucic EA, Sage AP, **Telkar N**, Stewart GL, Jurisica I, Reis PP, Robinson WP, Lam WL. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). Cancers 2021, 13, 2686.  
 
-Marshall EA, Telkar N, Lam WL. [Functional role of the cancer microbiome in the solid tumour niche](https://doi.org/10.1016/j.crimmu.2021.01.001). Current Research in Immunology 2021; 2: 1–6  
+Marshall EA, **Telkar N**, Lam WL. [Functional role of the cancer microbiome in the solid tumour niche](https://doi.org/10.1016/j.crimmu.2021.01.001). Current Research in Immunology 2021; 2: 1–6  
 
-Rees WD, Telkar N, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). Cell Reports 2022; 38(3)  
+Rees WD, **Telkar N**, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). Cell Reports 2022; 38(3)  
 
-Telkar N, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility. Frontiers in Genetics 2022, *[Submitted]*  
+**Telkar N**, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. [Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full). Frontiers in Genetics 2022; 13.
 
-Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, Telkar N, Martinez VD, Reis PP, Robinson WP, Lam WL. Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma. International Journal of Molecular Sciences 2022, *[Submitted]*  
+Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma. International Journal of Molecular Sciences 2022, *[Submitted]*  
   
 
 **Communication**:  
@@ -256,7 +258,7 @@ Supervisor: [Dr. Karoline Kuchenbaecker](https://www.ucl.ac.uk/biosciences/peopl
 
 ##### Publications / Awards / Communications:  
 
-Kuchenbaecker K, Telkar N, Reiker T, et al. [The transferability of lipid loci across African, Asian and European cohorts](https://doi.org/10.1038/s41467-019-12026-7). Nature Communications, 2019; 10: 4330.  
+Kuchenbaecker K, **Telkar N**, Reiker T, et al. [The transferability of lipid loci across African, Asian and European cohorts](https://doi.org/10.1038/s41467-019-12026-7). Nature Communications, 2019; 10: 4330.  
 
 Polygenics Risk Scores published on EMBL-EBI’s [PGS Catalog](http://www.pgscatalog.org/publication/PGP000046/) 
 
@@ -274,7 +276,6 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 
 ***  
-***  
 
 ##### Publications / Awards / Communications  
 
@@ -288,9 +289,8 @@ ncl+ Award – Newcastle University (for extracurricular achievement)
 
 **Pubs**:  
 
-Telkar N. [Using WNT5A Expression to Characterize Development in the Human Gut](https://www.genetics.org.uk/wp-content/uploads/2017/09/Issue-76-_-January-2017.pdf#page=49). The Genetics Society News Newsletter, January 2017, Issue 76.  
+**Telkar N**. [Using WNT5A Expression to Characterize Development in the Human Gut](https://www.genetics.org.uk/wp-content/uploads/2017/09/Issue-76-_-January-2017.pdf#page=49). The Genetics Society News Newsletter, January 2017, Issue 76.  
 
-***  
 ***  
 
 ##### Poster Example  
@@ -312,6 +312,14 @@ knitr::include_graphics(here::here("static", "WNT5A_Poster.png"))
 
 <br> 
 
+#####  **Biomedical Data Analyst**     
+[BenchSci](https://www.benchsci.com/), Toronto, Canada (April 2022 - )  
+
+* Labelling biomedical data for machine learning training    
+* Analyzing and categorizing biomedical product data collected from suppliers of scientific reagents  
+
+<br> 
+
 #####  **Biostatistics Expert**     
 [BC Children's Hospital Research Institute](https://www.bcchr.ca), Vancouver, Canada (Jan - June 2021)  
 
@@ -321,7 +329,6 @@ knitr::include_graphics(here::here("static", "WNT5A_Poster.png"))
 
 <br> 
 
-
 ##### **Biosciences Administration Assistant**       
 Department of Neuroscience, University College London (Nov 2017 - Jan 2018)  
 
@@ -329,7 +336,7 @@ Department of Neuroscience, University College London (Nov 2017 - Jan 2018)
 
 <br> 
 
-##### **Owner**       
+##### **Founder**       
 [ScribblezbyNiki](https://www.etsy.com/ca/shop/ScribblezbyNiki) (June 2021 - )  
 
  * Designing genetics/science-inspired merchandise sold on Etsy 
@@ -356,6 +363,7 @@ Department of Neuroscience, University College London (Nov 2017 - Jan 2018)
  * A graduate trainee-led [bioinformatics and data analysis support group](https://github.com/BCCHR-trainee-omics-group/StudyGroup) teaching and guiding students/trainees in statistical analyses and methodologies undertaken in biomedical/health research  
  * Hosting weekly workshops and seminars on topics requested for by trainees, maintaining the TOG GitHub, inviting guest instructors, event planning - event registration up by 
  * Designed, coded, and delivered a [2-part RNA-seq Workshop](https://github.com/BCCHR-trainee-omics-group/StudyGroup/tree/master/workshops/RNA-seq-Workshop-2021) detailing all steps from raw sequence alignment to gene/pathway enrichment  
+ * Developing a university-wide High Performance Computing (HPC) Genomic Analyses Workshop Series for Summer 2022  
 
 <br> 
 
@@ -420,7 +428,7 @@ University of British Columbia, Canada (Sept - Dec 2020)
 * Instrumental in restructuring the course and assignment format for the year  
 * Facilitated in transitioning this in-person, discussion-based course to a virtual environment (chose the platform for teaching and guided instructors through its usage)
 * Held real-time online tutorials on topics most requested by the students (as well as one-on-one meetings and discussions)
-* Named `the best TA he's ever worked with` by the Head of the Medical Genetics Graduate Program : *“Nikita always responded promptly and thoughtfully to requests for advice. Her input and assistance helped guide the learning process. She did everything I think a good teacher should, and went above and beyond the time and effort I would expect from a TA. She was the best part of the course.”*  
+* Named `"the best TA he's ever worked with"` by the Head of the Medical Genetics Graduate Program : `“Nikita always responded promptly and thoughtfully to requests for advice. Her input and assistance helped guide the learning process. She did everything I think a good teacher should, and went above and beyond the time and effort I would expect from a TA. She was the best part of the course.”`  
 
 <br> 
 
