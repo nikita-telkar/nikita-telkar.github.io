@@ -143,7 +143,11 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
   
 <br> 
 
-`Latest Highlights:`    
+View my [latest CV](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Nikita_Telkar_Academic_CV.pdf)  
+
+<br>  
+
+`Latest Highlights:`      
 [My first first-author journal publication](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full)  
 [The Genetics Society Newsletter Interview](https://genetics.org.uk/wp-content/uploads/2018/06/Issue-86-lr.pdf#page=43)
 
@@ -196,6 +200,7 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 **Awards**:  
 Diversity Scholar 2022 - [RStudio PBC](https://www.rstudio.com/conference/2022/2022-conference-diversity-scholarships/)   
 Virtual Knowledge Exchange Grant 2021 – BC Children’s Hospital Research Institute   
+Trainee Travel Grant 2022 - BC Children’s Hospital Research Institute  
 [4 Year Doctoral Fellowship (4YF) Award](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) (2020-2024) – University of British Columbia   
 President's Academic Excellence Initiative PhD Award (2020-2024) – University of British Columbia   
 International Tuition Award (2019-2024) – University of British Columbia  
@@ -442,8 +447,6 @@ Centre for Teaching, Learning and Technology, UBC
 ***  
 
 #### **Extras**    
-
-<br> 
 
 * Judges' Choice Award - GrasRoots Case Competition 2021, University of British Columbia  
 * UCL Business Game 2017 – University College London  

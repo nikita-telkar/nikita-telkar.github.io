@@ -163,6 +163,10 @@ DNA methylation is another epigenetic regulatory mechanism, and [the placenta ha
 
 [Project Overview](https://drive.google.com/file/d/1OL7ODzJILB5Q56cb9N2DDmLlxZmwdvTz/view?usp=sharing)  
 [BCCHR: Healthy Starts Research Day 2021 - Poster](https://drive.google.com/file/d/1K4JreNCGIXvbKClrT0TwzAF8Sf3B23Yh/view?usp=sharing)  
+UBC Department of Medical Genetics Research Day (2020,2021)  
+EMBO–EMBL Symposium: The Non-Coding Genome  
+International Federation of Placental Research (IFPA) 2021  
+University of Toronto Health Network (UHN) Seminar Series - Invited  
 
 ***  
 
@@ -219,9 +223,7 @@ The majority of Genome-wide Association Studies, even now, focus on Caucasian, E
 
 **I collected GWAS summary statistics of three lipid (cholesterol) biomarkers from seven different populations (British, two Greek isolates, Chinese, Japanese, East Asian, Ugandan) calculated the Polygeneic Risk Scores (PRSs) of each individual using the commonly overlapping lipid SNPs to assess if these scores varied across the  populations. The heritability as well as trans-ancestral correlation was also calculated. The measured blood lipid biomarker levels were then examined across the genetic scores, to investigate the correlation between the blood lipid levels of one biomarker against the genetic score of another (biomarker-score cross association).**  
 
-`Software`: UNIX, command-line R, PLINK, GEMMA, Popcorn  
-
-<br>
+`Software`: UNIX, command-line R, PLINK, GEMMA, Popcorn   
 
 `Results`:  
 
