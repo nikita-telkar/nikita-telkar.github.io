@@ -137,7 +137,9 @@ a.navbar-brand:hover {
 `r fa("utensils", fill = "black")` I try to learn a new recipe every week  
 `r fa("utensils", fill = "white")` Some of my personal favourites include coq au vin blanc, egg drop soup, and mini lemon-white chocolate cheesecakes    
 
-`r fa("book", fill = "black")` Check out my Goodreads ['Books I've Read'](https://www.goodreads.com/review/list/16297220-nikita-t?utf8=%E2%9C%93&ref=nav_mybooks&shelf=read&title=nikita-t&sort=date_updated&order=d) Bookshelf  
+`r fa("book", fill = "black")` I'm a complete bookworm  
+`r fa("book", fill = "white")` I used to devour books when I was younger, and now try to read at least one book per month.  
+`r fa("book", fill = "white")` Some of my all time favourite reads include [Pride and Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice?ac=1&from_search=true&qid=wJPVLiJ8gY&rank=1), [Becoming](https://www.goodreads.com/book/show/38746485-becoming?ac=1&from_search=true&qid=IcUQ5yKVD8&rank=1), [Talking to Strangers](https://www.goodreads.com/book/show/43848929-talking-to-strangers?ac=1&from_search=true&qid=LFr6PNDNHS&rank=2), [The Five People You Meet in Heaven](https://www.goodreads.com/book/show/3431.The_Five_People_You_Meet_in_Heaven?ac=1&from_search=true&qid=Wr6kgBcu6B&rank=1), and [The Genetic Lottery: Why DNA Matters for Social Equality](https://www.goodreads.com/book/show/57423806-the-genetic-lottery?ac=1&from_search=true&qid=BhUqC0woxR&rank=2)   
 
 `r fa("xbox", fill = "black")` I'm Team Xbox  
 `r fa("xbox", fill = "white")` Some of my favourites include the Assassin's Creed series, Watch Dogs: Legion     
