@@ -158,9 +158,9 @@ View my [latest CV](https://github.com/nikita-telkar/nikita-telkar.github.io/blo
 
 <br>  
 
-`Latest Highlights:`      
+`Latest Highlights:`    
+RStudio Diversity Scholar 2022
 [My first first-author journal publication](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full)  
-[The Genetics Society Newsletter Interview](https://genetics.org.uk/wp-content/uploads/2018/06/Issue-86-lr.pdf#page=43)
 
 :::
 
