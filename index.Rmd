@@ -213,41 +213,56 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 <br>
 
 **Awards**:  
-Diversity Scholar 2022 - [RStudio PBC](https://www.rstudio.com/conference/2022/2022-conference-diversity-scholarships/)   
-Virtual Knowledge Exchange Grant 2021 – BC Children’s Hospital Research Institute   
-Trainee Travel Grant 2022 - BC Children’s Hospital Research Institute  
-[4 Year Doctoral Fellowship (4YF) Award](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) (2020-2024) – University of British Columbia   
-President's Academic Excellence Initiative PhD Award (2020-2024) – University of British Columbia   
-International Tuition Award (2019-2024) – University of British Columbia  
+
+- [4 Year Doctoral Fellowship (4YF) Award](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) (2020-2024) – University of British Columbia    
+
+- President's Academic Excellence Initiative PhD Award (2020-2024) – University of British Columbia   
+
+- International Tuition Award (2019-2024) – University of British Columbia
+
+- Diversity Scholar 2022 - [RStudio PBC](https://www.rstudio.com/conference/2022/2022-conference-diversity-scholarships/)    
+
+- Trainee Travel Grant 2022 - BC Children’s Hospital Research Institute   
+
+- Virtual Knowledge Exchange Grant 2021 – BC Children’s Hospital Research Institute   
 
 **Pubs**:  
-Martinez VD, Cohn DE, **Telkar N**, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1).  Sci Data 2021; 8, 166.  
 
-Cohn DE, Barros-Filho MC, Minatel BC, Pewarchuk ME, Marshall EA, Vucic EA, Sage AP, **Telkar N**, Stewart GL, Jurisica I, Reis PP, Robinson WP, Lam WL. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). Cancers 2021, 13, 2686.  
+- Martinez VD, Cohn DE, **Telkar N**, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1).  Sci Data 2021; 8, 166.  
 
-Marshall EA, **Telkar N**, Lam WL. [Functional role of the cancer microbiome in the solid tumour niche](https://doi.org/10.1016/j.crimmu.2021.01.001). Current Research in Immunology 2021; 2: 1–6  
+- Cohn DE, Barros-Filho MC, Minatel BC, Pewarchuk ME, Marshall EA, Vucic EA, Sage AP, **Telkar N**, Stewart GL, Jurisica I, Reis PP, Robinson WP, Lam WL. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). Cancers 2021, 13, 2686.   
 
-Rees WD, **Telkar N**, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). Cell Reports 2022; 38(3)  
+- Marshall EA, **Telkar N**, Lam WL. [Functional role of the cancer microbiome in the solid tumour niche](https://doi.org/10.1016/j.crimmu.2021.01.001). Current Research in Immunology 2021; 2: 1–6    
 
-**Telkar N**, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. [Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full). Frontiers in Genetics 2022; 13.
+- Rees WD, **Telkar N**, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). Cell Reports 2022; 38(3)    
 
-Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma. International Journal of Molecular Sciences 2022, *[Submitted]*  
+- **Telkar N**, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. [Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full). Frontiers in Genetics 2022; 13.  
+
+- Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma. International Journal of Molecular Sciences 2022, *[Submitted]*    
   
 
 **Communication**:  
-University of Toronto Health Network (UHN) Seminar Series - Invited  
-ONCO548: Knowledge Translation, Interdisciplinary Oncology Program, UBC - Invited  
-[Interview with The Genetics Society UK](https://genetics.org.uk/wp-content/uploads/2018/06/Issue-86-lr.pdf#page=43)  
-[Interview with The Interview Portal](https://theinterviewportal.com/2022/04/13/medical-genetics-professional-interview/)    
 
-##### Poster Example  
+- University of Toronto Health Network (UHN) Seminar Series - Invited   
 
-```{r, echo=FALSE}
+- ONCO548: Knowledge Translation, Interdisciplinary Oncology Program, UBC - Invited   
 
-knitr::include_graphics(here::here("static", "MEDGEN_RS_2021.png"))
+- [Interview with The Genetics Society UK](https://genetics.org.uk/wp-content/uploads/2018/06/Issue-86-lr.pdf#page=43)   
 
-```  
+- [Interview with The Interview Portal](https://theinterviewportal.com/2022/04/13/medical-genetics-professional-interview/)     
 
+***  
+
+<!-- ##### Poster Example   -->
+
+<!-- ```{r, echo=FALSE} -->
+
+<!-- knitr::include_graphics(here::here("static", "MEDGEN_RS_2021.png")) -->
+
+<!-- ```   -->
+
+
+***
 
 #### {.tabset .unlisted .unnumbered}
   
@@ -259,6 +274,7 @@ knitr::include_graphics(here::here("static", "MEDGEN_RS_2021.png"))
 (2017 - 2018)  
  
 <br> 
+
 Dissertation: [Comparing the Genetic Architecture of Lipid Traits between Populations](https://nikita-telkar.netlify.app/project/masters/)   
 Supervisor: [Dr. Karoline Kuchenbaecker](https://www.ucl.ac.uk/biosciences/people/dr-karoline-kuchenbaecker)   
 
@@ -270,6 +286,9 @@ Kuchenbaecker K, **Telkar N**, Reiker T, et al. [The transferability of lipid lo
 
 Polygenics Risk Scores published on EMBL-EBI’s [PGS Catalog](http://www.pgscatalog.org/publication/PGP000046/) 
 
+<br> 
+
+***  
 
 #### {.tabset .unlisted .unnumbered}
 
@@ -279,9 +298,11 @@ Polygenics Risk Scores published on EMBL-EBI’s [PGS Catalog](http://www.pgscat
 (2014 -2017)    
 
 <br> 
+
 Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitochondrial Disease  
 [University Profile](https://www.ncl.ac.uk/bns/alumni/nikita/)  
 
+<br> 
 
 ***  
 
@@ -289,27 +310,34 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 **Awards**:  
 
-[Genes and Development Summer Studentship 2016](https://www.genetics.org.uk/wp-content/uploads/2017/11/15027387_10211122879777688_5581119349267154163_n.jpg) – The Genetics Society UK  
-Faculty of Medical Sciences Undergraduate Research Scholarship 2016 – Newcastle University  
-[Commendation Award](https://research.ncl.ac.uk/expeditionresearchscholarships/prizewinners/2016winners/) – Newcastle University Student Research Scholarships and Expeditions 2016  
-Second Place Poster Award 2016 – Newcastle University Faculty of Medicine  
-ncl+ Award – Newcastle University (for extracurricular achievement)
+- [Genes and Development Summer Studentship 2016](https://www.genetics.org.uk/wp-content/uploads/2017/11/15027387_10211122879777688_5581119349267154163_n.jpg) – The Genetics Society UK  
+
+- Faculty of Medical Sciences Undergraduate Research Scholarship 2016 – Newcastle University   
+
+- [Commendation Award](https://research.ncl.ac.uk/expeditionresearchscholarships/prizewinners/2016winners/) –  Newcastle University Student Research Scholarships and Expeditions 2016  
+
+- Second Place Poster Award 2016 – Newcastle University Faculty of Medicine  
+
+- ncl+ Award – Newcastle University (for extracurricular achievement)  
 
 **Pubs**:  
 
-**Telkar N**. [Using WNT5A Expression to Characterize Development in the Human Gut](https://www.genetics.org.uk/wp-content/uploads/2017/09/Issue-76-_-January-2017.pdf#page=49). The Genetics Society News Newsletter, January 2017, Issue 76.  
+- **Telkar N**. [Using WNT5A Expression to Characterize Development in the Human Gut](https://www.genetics.org.uk/wp-content/uploads/2017/09/Issue-76-_-January-2017.pdf#page=49). The Genetics Society News Newsletter, January 2017, Issue 76.  
 
-***  
+<br> 
 
-##### Poster Example  
+<!-- ***   -->
+
+<!-- ##### Poster Example   -->
 
 
-```{r, echo=FALSE}
+<!-- ```{r, echo=FALSE} -->
 
-knitr::include_graphics(here::here("static", "WNT5A_Poster.png"))
+<!-- knitr::include_graphics(here::here("static", "WNT5A_Poster.png")) -->
 
-```  
+<!-- ```   -->
 
+<!-- <br>  -->
 
 ***  
 
@@ -317,6 +345,8 @@ knitr::include_graphics(here::here("static", "WNT5A_Poster.png"))
 
 
 #### **Academic and Professional Experience**    
+
+<br> 
 
 <br> 
 
@@ -357,7 +387,6 @@ Department of Neuroscience, University College London (Nov 2017 - Jan 2018)
 
  * Started a business selling original artwork, handling all workflow from procuring raw material, assembly, marketing, to shipping  
  * 60% profit margin, 25% of profits directed to the HelpAge India NGO - a non-profit focused on the elderly  
-
 
 ***  
 

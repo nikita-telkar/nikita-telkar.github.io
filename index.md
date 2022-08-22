@@ -121,7 +121,7 @@ a.navbar-brand:hover {
 ***  
 
 > *Investigating genetic regulation in the human placenta, while sipping on my flat white.  
-> Big fan of `ggplot2` and Jazz music. Jack-of-all-Trades kinda person*  `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:black;overflow:visible;position:relative;"><path d="M204.3 5C104.9 24.4 24.8 104.3 5.2 203.4c-37 187 131.7 326.4 258.8 306.7 41.2-6.4 61.4-54.6 42.5-91.7-23.1-45.4 9.9-98.4 60.9-98.4h79.7c35.8 0 64.8-29.6 64.9-65.3C511.5 97.1 368.1-26.9 204.3 5zM96 320c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm32-128c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm128-64c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm128 64c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32z"/></svg>`{=html}   
+> Big fan of `ggplot2` and Jazz music. Jack-of-all-Trades kinda person*  `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:black;overflow:visible;position:relative;"><path d="M512 255.1C512 256.9 511.1 257.8 511.1 258.7C511.6 295.2 478.4 319.1 441.9 319.1H344C317.5 319.1 296 341.5 296 368C296 371.4 296.4 374.7 297 377.9C299.2 388.1 303.5 397.1 307.9 407.8C313.9 421.6 320 435.3 320 449.8C320 481.7 298.4 510.5 266.6 511.8C263.1 511.9 259.5 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256V255.1zM96 255.1C78.33 255.1 64 270.3 64 287.1C64 305.7 78.33 319.1 96 319.1C113.7 319.1 128 305.7 128 287.1C128 270.3 113.7 255.1 96 255.1zM128 191.1C145.7 191.1 160 177.7 160 159.1C160 142.3 145.7 127.1 128 127.1C110.3 127.1 96 142.3 96 159.1C96 177.7 110.3 191.1 128 191.1zM256 63.1C238.3 63.1 224 78.33 224 95.1C224 113.7 238.3 127.1 256 127.1C273.7 127.1 288 113.7 288 95.1C288 78.33 273.7 63.1 256 63.1zM384 191.1C401.7 191.1 416 177.7 416 159.1C416 142.3 401.7 127.1 384 127.1C366.3 127.1 352 142.3 352 159.1C352 177.7 366.3 191.1 384 191.1z"/></svg>`{=html}   
 
 ***  
 
@@ -147,15 +147,15 @@ View my [latest CV](https://github.com/nikita-telkar/nikita-telkar.github.io/blo
 
 <br>  
 
-`Latest Highlights:`      
+`Latest Highlights:`    
+RStudio Diversity Scholar 2022
 [My first first-author journal publication](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full)  
-[The Genetics Society Newsletter Interview](https://genetics.org.uk/wp-content/uploads/2018/06/Issue-86-lr.pdf#page=43)
 
 :::
 
 ::: {}
 
-<img src="/Users/nikitatelkar/Github/github_io/nikita-telkar.github.io/static/NT_Profile_round.png" width="90%" />
+<img src="static/NT_Profile_round.png" width="90%" />
 
 :::
 
@@ -198,37 +198,56 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 <br>
 
 **Awards**:  
-Diversity Scholar 2022 - [RStudio PBC](https://www.rstudio.com/conference/2022/2022-conference-diversity-scholarships/)   
-Virtual Knowledge Exchange Grant 2021 – BC Children’s Hospital Research Institute   
-Trainee Travel Grant 2022 - BC Children’s Hospital Research Institute  
-[4 Year Doctoral Fellowship (4YF) Award](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) (2020-2024) – University of British Columbia   
-President's Academic Excellence Initiative PhD Award (2020-2024) – University of British Columbia   
-International Tuition Award (2019-2024) – University of British Columbia  
+
+- [4 Year Doctoral Fellowship (4YF) Award](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) (2020-2024) – University of British Columbia    
+
+- President's Academic Excellence Initiative PhD Award (2020-2024) – University of British Columbia   
+
+- International Tuition Award (2019-2024) – University of British Columbia
+
+- Diversity Scholar 2022 - [RStudio PBC](https://www.rstudio.com/conference/2022/2022-conference-diversity-scholarships/)    
+
+- Trainee Travel Grant 2022 - BC Children’s Hospital Research Institute   
+
+- Virtual Knowledge Exchange Grant 2021 – BC Children’s Hospital Research Institute   
 
 **Pubs**:  
-Martinez VD, Cohn DE, **Telkar N**, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1).  Sci Data 2021; 8, 166.  
 
-Cohn DE, Barros-Filho MC, Minatel BC, Pewarchuk ME, Marshall EA, Vucic EA, Sage AP, **Telkar N**, Stewart GL, Jurisica I, Reis PP, Robinson WP, Lam WL. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). Cancers 2021, 13, 2686.  
+- Martinez VD, Cohn DE, **Telkar N**, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1).  Sci Data 2021; 8, 166.  
 
-Marshall EA, **Telkar N**, Lam WL. [Functional role of the cancer microbiome in the solid tumour niche](https://doi.org/10.1016/j.crimmu.2021.01.001). Current Research in Immunology 2021; 2: 1–6  
+- Cohn DE, Barros-Filho MC, Minatel BC, Pewarchuk ME, Marshall EA, Vucic EA, Sage AP, **Telkar N**, Stewart GL, Jurisica I, Reis PP, Robinson WP, Lam WL. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). Cancers 2021, 13, 2686.   
 
-Rees WD, **Telkar N**, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). Cell Reports 2022; 38(3)  
+- Marshall EA, **Telkar N**, Lam WL. [Functional role of the cancer microbiome in the solid tumour niche](https://doi.org/10.1016/j.crimmu.2021.01.001). Current Research in Immunology 2021; 2: 1–6    
 
-**Telkar N**, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. [Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full). Frontiers in Genetics 2022; 13.
+- Rees WD, **Telkar N**, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). Cell Reports 2022; 38(3)    
 
-Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma. International Journal of Molecular Sciences 2022, *[Submitted]*  
+- **Telkar N**, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. [Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full). Frontiers in Genetics 2022; 13.  
+
+- Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma. International Journal of Molecular Sciences 2022, *[Submitted]*    
   
 
 **Communication**:  
-University of Toronto Health Network (UHN) Seminar Series - Invited  
-ONCO548: Knowledge Translation, Interdisciplinary Oncology Program, UBC - Invited  
-[Interview with The Genetics Society UK](https://genetics.org.uk/wp-content/uploads/2018/06/Issue-86-lr.pdf#page=43)  
-[Interview with The Interview Portal](https://theinterviewportal.com/2022/04/13/medical-genetics-professional-interview/)    
 
-##### Poster Example  
+- University of Toronto Health Network (UHN) Seminar Series - Invited   
 
-<img src="/Users/nikitatelkar/Github/github_io/nikita-telkar.github.io/static/MEDGEN_RS_2021.png" width="4800" />
+- ONCO548: Knowledge Translation, Interdisciplinary Oncology Program, UBC - Invited   
 
+- [Interview with The Genetics Society UK](https://genetics.org.uk/wp-content/uploads/2018/06/Issue-86-lr.pdf#page=43)   
+
+- [Interview with The Interview Portal](https://theinterviewportal.com/2022/04/13/medical-genetics-professional-interview/)     
+
+***  
+
+<!-- ##### Poster Example   -->
+
+<!-- ```{r, echo=FALSE} -->
+
+<!-- knitr::include_graphics(here::here("static", "MEDGEN_RS_2021.png")) -->
+
+<!-- ```   -->
+
+
+***
 
 #### {.tabset .unlisted .unnumbered}
   
@@ -240,6 +259,7 @@ ONCO548: Knowledge Translation, Interdisciplinary Oncology Program, UBC - Invite
 (2017 - 2018)  
  
 <br> 
+
 Dissertation: [Comparing the Genetic Architecture of Lipid Traits between Populations](https://nikita-telkar.netlify.app/project/masters/)   
 Supervisor: [Dr. Karoline Kuchenbaecker](https://www.ucl.ac.uk/biosciences/people/dr-karoline-kuchenbaecker)   
 
@@ -251,6 +271,9 @@ Kuchenbaecker K, **Telkar N**, Reiker T, et al. [The transferability of lipid lo
 
 Polygenics Risk Scores published on EMBL-EBI’s [PGS Catalog](http://www.pgscatalog.org/publication/PGP000046/) 
 
+<br> 
+
+***  
 
 #### {.tabset .unlisted .unnumbered}
 
@@ -260,9 +283,11 @@ Polygenics Risk Scores published on EMBL-EBI’s [PGS Catalog](http://www.pgscat
 (2014 -2017)    
 
 <br> 
+
 Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitochondrial Disease  
 [University Profile](https://www.ncl.ac.uk/bns/alumni/nikita/)  
 
+<br> 
 
 ***  
 
@@ -270,23 +295,34 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 **Awards**:  
 
-[Genes and Development Summer Studentship 2016](https://www.genetics.org.uk/wp-content/uploads/2017/11/15027387_10211122879777688_5581119349267154163_n.jpg) – The Genetics Society UK  
-Faculty of Medical Sciences Undergraduate Research Scholarship 2016 – Newcastle University  
-[Commendation Award](https://research.ncl.ac.uk/expeditionresearchscholarships/prizewinners/2016winners/) – Newcastle University Student Research Scholarships and Expeditions 2016  
-Second Place Poster Award 2016 – Newcastle University Faculty of Medicine  
-ncl+ Award – Newcastle University (for extracurricular achievement)
+- [Genes and Development Summer Studentship 2016](https://www.genetics.org.uk/wp-content/uploads/2017/11/15027387_10211122879777688_5581119349267154163_n.jpg) – The Genetics Society UK  
+
+- Faculty of Medical Sciences Undergraduate Research Scholarship 2016 – Newcastle University   
+
+- [Commendation Award](https://research.ncl.ac.uk/expeditionresearchscholarships/prizewinners/2016winners/) –  Newcastle University Student Research Scholarships and Expeditions 2016  
+
+- Second Place Poster Award 2016 – Newcastle University Faculty of Medicine  
+
+- ncl+ Award – Newcastle University (for extracurricular achievement)  
 
 **Pubs**:  
 
-**Telkar N**. [Using WNT5A Expression to Characterize Development in the Human Gut](https://www.genetics.org.uk/wp-content/uploads/2017/09/Issue-76-_-January-2017.pdf#page=49). The Genetics Society News Newsletter, January 2017, Issue 76.  
+- **Telkar N**. [Using WNT5A Expression to Characterize Development in the Human Gut](https://www.genetics.org.uk/wp-content/uploads/2017/09/Issue-76-_-January-2017.pdf#page=49). The Genetics Society News Newsletter, January 2017, Issue 76.  
 
-***  
+<br> 
 
-##### Poster Example  
+<!-- ***   -->
+
+<!-- ##### Poster Example   -->
 
 
-<img src="/Users/nikitatelkar/Github/github_io/nikita-telkar.github.io/static/WNT5A_Poster.png" width="3311" />
+<!-- ```{r, echo=FALSE} -->
 
+<!-- knitr::include_graphics(here::here("static", "WNT5A_Poster.png")) -->
+
+<!-- ```   -->
+
+<!-- <br>  -->
 
 ***  
 
@@ -294,6 +330,8 @@ ncl+ Award – Newcastle University (for extracurricular achievement)
 
 
 #### **Academic and Professional Experience**    
+
+<br> 
 
 <br> 
 
@@ -334,7 +372,6 @@ Department of Neuroscience, University College London (Nov 2017 - Jan 2018)
 
  * Started a business selling original artwork, handling all workflow from procuring raw material, assembly, marketing, to shipping  
  * 60% profit margin, 25% of profits directed to the HelpAge India NGO - a non-profit focused on the elderly  
-
 
 ***  
 
