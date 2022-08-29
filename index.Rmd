@@ -142,9 +142,11 @@ a.navbar-brand:hover {
 
 ::: {}
 
-A 3rd year PhD Candidate in the [Medical Genetics Graduate Program](https://medgen.med.ubc.ca/) at [The University of British Columbia](https://ubc.ca/), I currently reside in the lovely and vibrant city of Vancouver in British Columbia, Canada.
+A PhD Candidate in the [Medical Genetics Graduate Program](https://medgen.med.ubc.ca/) at [The University of British Columbia](https://ubc.ca/), I currently reside in the lovely and vibrant city of Vancouver in British Columbia, Canada.
 
-My research interests lie in developmental, cardiovascular, and population genetics. My curiosity is driven by wanting to elucidate the genetic differences that exist between populations of different ancestries.
+My research interests lie in developmental, cardiovascular, and population genetics. My curiosity is driven by wanting to elucidate the genetic differences that exist between populations of different ancestries.  
+
+I firmly believe that the more you give, the more you get, and as such, I try to give back as much as I can to the community.  
 
 I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also make and sell custom genetics-themed graphics and merchandise on [Etsy](https://www.etsy.com/ca/shop/ScribblezbyNiki)!  
 
@@ -154,13 +156,13 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
   
 <br> 
 
-View my [latest CV](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Nikita_Telkar_Academic_CV.pdf)  
+View my [latest Academic CV](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Telkar_Nikita_Academic_CV.pdf)  
 
 <br>  
 
 `Latest Highlights:`    
-RStudio Diversity Scholar 2022
-[My first first-author journal publication](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full)  
+RStudio Diversity Scholar 2022  
+[My first first-author journal publication](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full)   
 
 :::
 
@@ -228,17 +230,17 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 **Pubs**:  
 
-- Martinez VD, Cohn DE, **Telkar N**, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1).  Sci Data 2021; 8, 166.  
+- Martinez VD, Cohn DE, **Telkar N**, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1). 2021. Sci Data; 8, 166.  
 
-- Cohn DE, Barros-Filho MC, Minatel BC, Pewarchuk ME, Marshall EA, Vucic EA, Sage AP, **Telkar N**, Stewart GL, Jurisica I, Reis PP, Robinson WP, Lam WL. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). Cancers 2021, 13, 2686.   
+- Cohn DE, Barros-Filho MC, Minatel BC, Pewarchuk ME, Marshall EA, Vucic EA, Sage AP, **Telkar N**, Stewart GL, Jurisica I, Reis PP, Robinson WP, Lam WL. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). 2021. Cancers, 13, 2686.   
 
-- Marshall EA, **Telkar N**, Lam WL. [Functional role of the cancer microbiome in the solid tumour niche](https://doi.org/10.1016/j.crimmu.2021.01.001). Current Research in Immunology 2021; 2: 1–6    
+- Marshall EA, **Telkar N**, Lam WL. [Functional role of the cancer microbiome in the solid tumour niche](https://doi.org/10.1016/j.crimmu.2021.01.001). 2021. Current Research in Immunology; 2: 1–6    
 
-- Rees WD, **Telkar N**, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). Cell Reports 2022; 38(3)    
+- Rees WD, **Telkar N**, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). 2022. Cell Reports; 38(3)    
 
 - **Telkar N**, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. [Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full). Frontiers in Genetics 2022; 13.  
 
-- Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma. International Journal of Molecular Sciences 2022, *[Submitted]*    
+- Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. [Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma](https://www.frontiersin.org/article/10.3389/fgene.2022.910221). 2022. Frontiers in Genetics; 13.
   
 
 **Communication**:  
@@ -251,7 +253,6 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 - [Interview with The Interview Portal](https://theinterviewportal.com/2022/04/13/medical-genetics-professional-interview/)     
 
-***  
 
 <!-- ##### Poster Example   -->
 
@@ -282,7 +283,7 @@ Supervisor: [Dr. Karoline Kuchenbaecker](https://www.ucl.ac.uk/biosciences/peopl
 
 ##### Publications / Awards / Communications:  
 
-Kuchenbaecker K, **Telkar N**, Reiker T, et al. [The transferability of lipid loci across African, Asian and European cohorts](https://doi.org/10.1038/s41467-019-12026-7). Nature Communications, 2019; 10: 4330.  
+- Kuchenbaecker K, **Telkar N**, Reiker T, et al. [The transferability of lipid loci across African, Asian and European cohorts](https://doi.org/10.1038/s41467-019-12026-7). 2019. Nature Communications; 10: 4330.  
 
 Polygenics Risk Scores published on EMBL-EBI’s [PGS Catalog](http://www.pgscatalog.org/publication/PGP000046/) 
 
@@ -344,7 +345,7 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 #### {.unlisted .unnumbered}  
 
 
-#### **Academic and Professional Experience**    
+#### **Professional Experience**    
 
 <br> 
 
@@ -353,17 +354,62 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 #####  **Biomedical Data Analyst**     
 [BenchSci](https://www.benchsci.com/), Toronto, Canada (April 2022 - )  
 
-* Labelling biomedical data for machine learning training    
-* Analyzing and categorizing biomedical product data collected from suppliers of scientific reagents  
+* Labelling biomedical data for the platform’s ML training model (~20,000 labels till date)  
+* Annotating scientific publication figures for image to text (vision) training  
+* Contributing to the platform’s UX design as part of the internal Discovery and Validation team  
 
-<br> 
+<br>   
+
+##### [**Co-Chair**](#co-chair)       
+[Trainee Omics Group (TOG) Committee](https://bcchr.ca/tog), BC Children’s Hospital Research Institute (September 2021 - Present)  
+
+ * A graduate trainee-led [bioinformatics and data analysis support group](https://github.com/BCCHR-trainee-omics-group/StudyGroup) teaching and guiding students/trainees in statistical analyses and methodologies undertaken in biomedical/health research  
+ * Hosting weekly workshops and seminars on topics requested for by trainees, maintaining the TOG GitHub, inviting guest instructors, event planning  
+ * Extended outreach inter- and intra-UBC, with a ~200% increase in registrations, and 62% of first-time participants  
+ * Designed, coded, and delivered a [2-part RNA-seq Workshop](https://github.com/BCCHR-trainee-omics-group/StudyGroup/tree/master/workshops/RNA-seq-Workshop-2021) detailing all steps from raw sequence alignment to gene/pathway enrichment, multiple times by invitation    
+ * Developed a university-wide High Performance Computing (HPC) [Genomic Analyses Workshop Series](https://github.com/Phillip-a-richmond/PrecisionHealthVirtualEnvironment/tree/main/Workshops/Applied_RNA-seq) for Summer 2022  
+ 
+ <br>  
 
 #####  **Biostatistics Expert**     
 [BC Children's Hospital Research Institute](https://www.bcchr.ca), Vancouver, Canada (Jan - June 2021)  
 
-* Developed open access videos and resources focused on the statistical terms, concepts, and analyses undertaken in health research at all educational levels (beginner, intermediate and advanced) for the BCCHR 2021 Summer Student Research Program.  
-* Coded and designed an Introduction to Biomedical Data Analysis in R tutorial
-* Videos available on the [BCCHR website](https://bcchr.ca/summerprogram/statistical-videos).  
+* Developed open access videos and resources focused on the statistical terms, concepts, and analyses undertaken in health research at all educational levels (beginner, intermediate and advanced) for the BCCHR 2021 Summer Student Research Program    
+* Created an Introduction to Biomedical Data Analysis hands-on R tutorial  
+* Videos available on the [BCCHR website](https://bcchr.ca/summerprogram/statistical-videos)  
+
+<br> 
+
+##### **Teaching Assistant**        
+University of British Columbia, Canada (Sept - Dec 2020)   
+
+* TA for the [graduate MEDG 520 Advanced Human Molecular Genetics course](https://med-fom-medgen.sites.olt.ubc.ca/files/2020/10/MEDG520-syllabus-2020W-Final-1.pdf) in the [Department of Medical Genetics](https://medgen.med.ubc.ca/).  
+* Instrumental in restructuring the course and assignment format for the year  
+* Facilitated in transitioning this in-person, discussion-based course to a virtual environment (chose the platform for teaching and guided instructors through its usage)
+* Held real-time online tutorials on topics most requested by the students (as well as one-on-one meetings and discussions)
+* Named `"the best TA he's ever worked with"` by the Head of the Medical Genetics Graduate Program : `“Nikita always responded promptly and thoughtfully to requests for advice. Her input and assistance helped guide the learning process. She did everything I think a good teacher should, and went above and beyond the time and effort I would expect from a TA. She was the best part of the course.”`  
+
+<br>  
+
+##### **Visiting Scholar**       
+[MIT-ADT School of Bioengineering Sciences and Research](https://www.mitbio.edu.in/), Pune, India (Feb - July 2019)  
+
+* Invited Visiting Lecturer (3 lectures) in Genetics for the Bachelor of Technology-Bioengineering undergraduate program    
+
+
+<br> 
+
+
+##### **Founder**       
+[ScribblezbyNiki](https://www.etsy.com/ca/shop/ScribblezbyNiki) (June 2021 - )  
+
+ * Designing genetics/science-inspired merchandise sold on Etsy 
+ * Each order has received 5-star reviews    
+   
+[SPIRITFUL](https://www.instagram.com/thespiritfulshop/) (April - September 2019)  
+
+ * Started a business selling original artwork, handling all workflow from procuring raw material, assembly, marketing, to shipping  
+ * 60% profit margin, 25% of profits directed to the HelpAge India NGO - a non-profit focused on the elderly  
 
 <br> 
 
@@ -372,42 +418,15 @@ Department of Neuroscience, University College London (Nov 2017 - Jan 2018)
 
 * Responsible for sorting and filing a large amount of incoming PhD applications  
 
-<br> 
-
-##### **Founder**       
-[ScribblezbyNiki](https://www.etsy.com/ca/shop/ScribblezbyNiki) (June 2021 - )  
-
- * Designing genetics/science-inspired merchandise sold on Etsy 
- * Each order has received 5-star reviews    
- 
-<br>
-
-##### **Founder**       
-[SPIRITFUL](https://www.instagram.com/thespiritfulshop/) (April - September 2019)  
-
- * Started a business selling original artwork, handling all workflow from procuring raw material, assembly, marketing, to shipping  
- * 60% profit margin, 25% of profits directed to the HelpAge India NGO - a non-profit focused on the elderly  
-
 ***  
 
-#### **Leadership Initiatives**    
-
-<br> 
-
-##### [**Co-Chair**](#co-chair)       
-[Trainee Omics Group (TOG) Committee](https://bcchr.ca/tog), BC Children’s Hospital Research Institute (September 2021 - Present)  
-
- * A graduate trainee-led [bioinformatics and data analysis support group](https://github.com/BCCHR-trainee-omics-group/StudyGroup) teaching and guiding students/trainees in statistical analyses and methodologies undertaken in biomedical/health research  
- * Hosting weekly workshops and seminars on topics requested for by trainees, maintaining the TOG GitHub, inviting guest instructors, event planning - event registration up by 
- * Designed, coded, and delivered a [2-part RNA-seq Workshop](https://github.com/BCCHR-trainee-omics-group/StudyGroup/tree/master/workshops/RNA-seq-Workshop-2021) detailing all steps from raw sequence alignment to gene/pathway enrichment  
- * Developing a university-wide High Performance Computing (HPC) Genomic Analyses Workshop Series for Summer 2022  
-
-<br> 
+#### **Community Involvement**  
 
 ##### **Advisory Committee Member**       
 Department of Medical Genetics, UBC (2019 – Present)  
 
- * Part of the Advisory Committee for the Department of Medical Genetics  
+ * Student Representative of the Advisory Committee for the Department of Medical Genetics  
+ * Recruiting the new Head of Department of Medical Genetics under the Advisory Search Committee
  * [Singlehandedly redesigned and updated the department website](https://medgen.med.ubc.ca/) using WordPress with CSS and HTML  
 
 <br> 
@@ -454,38 +473,18 @@ Newcastle South Asian Society (2016 – 2017)
 
 ***  
 
-#### **Teaching**  
+#### **Workshops**  
 
-<br>  
+<br>
 
-##### **Teaching Assistant**        
-University of British Columbia, Canada (Sept - Dec 2020)   
+##### **[Building Production-Quality Shiny Applications](https://shinyprod.com)**   
+rstudio::conf(2022), Washington D.C.  
 
-* TA for the [graduate MEDG 520 Advanced Human Molecular Genetics course](https://med-fom-medgen.sites.olt.ubc.ca/files/2020/10/MEDG520-syllabus-2020W-Final-1.pdf) in the [Department of Medical Genetics](https://medgen.med.ubc.ca/).  
-* Instrumental in restructuring the course and assignment format for the year  
-* Facilitated in transitioning this in-person, discussion-based course to a virtual environment (chose the platform for teaching and guided instructors through its usage)
-* Held real-time online tutorials on topics most requested by the students (as well as one-on-one meetings and discussions)
-* Named `"the best TA he's ever worked with"` by the Head of the Medical Genetics Graduate Program : `“Nikita always responded promptly and thoughtfully to requests for advice. Her input and assistance helped guide the learning process. She did everything I think a good teacher should, and went above and beyond the time and effort I would expect from a TA. She was the best part of the course.”`  
+* Lead by [Eric Nantz](https://r-podcast.org/about/), this workshop taught best-practices to write UI and Server-side code for `Shiny for R` web application development  
 
 <br> 
 
-##### **Visiting Scholar**       
-[MIT-ADT School of Bioengineering Sciences and Research](https://www.mitbio.edu.in/), Pune, India (Feb - July 2019)  
-
-* Invited Visiting Lecturer (3 lectures) in Genetics for the Bachelor of Technology-Bioengineering undergraduate program    
-
-
-<br> 
-
-##### **Workshop Lead**  
-[Trainee Omics Group (TOG) Committee](https://bcchr.ca/tog), BC Children’s Hospital Research Institute (September 2021 - Present)  
-
-* Invited to run my <a style = "color:purple;" href="#co-chair"> RNA-seq Workshop </a> for [BC Cancer Research Centre Graduate Student and Post Doctoral Society (GrasPods)](https://www.graspods.com/events-list/2021/10/7/rna-seq-workshop-part-1-from-raw-to-processed-data)'s Welcome Week  
-* YouTube Videos: [Part 1](https://youtu.be/SqzOvPOxga4) and [Part 2]()  
-* Honoraria received  
-
-<br> 
-
+<br>
 
 ##### **Graduate Instructional Skills Workshop**   
 Centre for Teaching, Learning and Technology, UBC  

@@ -125,21 +125,9 @@ a.navbar-brand:hover {
 }
 ```
 
-[View my Academic CV here!](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Nikita_Telkar_Academic_CV.pdf)  
+[View my Academic CV here!](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Telkar_Nikita_Academic_CV.pdf)  
 
-Last updated: April 2022  
-
-***  
-
-And for all the accomplishments that I've achieved, here are the the ones that I didn't succeed in:   
-
-* Undergraduate degree program acceptances from the universities of Sheffield, Leeds, Exeter (for the program of my choice)  
-* Teaching Assistant position (even though I was overqualified), because I didn't belong to the degree program under which the course was offerred  
-* The UBC Killam Teaching Assistant Award and the Medical Genetics Graduate Program TA Award  
-* Summer Intern position at 23andMe (Statistical Genetics x 2, Computational Biologist) - because students studying at non-US institutions are not eligible  
-* Numerous research conference talk acceptances + poster prizes  
-
-***  
+Last updated: August 2022  
 
 
 
