@@ -37,32 +37,55 @@ a:visited {
     color: purple;
 }
 
+hr {
+  height: 1px;
+  background-color: #999999;
+  border: none;
+    }
+
 </style>
+
 
 <style type="text/css">
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400&display=swap');
 
+/* title of page */
 .title {
-  font-family: 'EB Garamond';
+  font-family: 'Bitter';
 }
 
+/* body of page */
 body {
     font-family: 'Open Sans';
     font-size: 15px;
     background-color: #F7F3F0;
 }
 
-
+/* styling for headings in TOC */
 h4, #TOC>ul>li {
-  color: #44074B;
+  font-family: 'Montserrat';
 }
 
-# h5, #TOC>ul>ul>li {
-#  color: #323b58;
-# }
+h5, #TOC>ul>ul>li {
+  font-family: 'Montserrat';
+}
+
+
+
+/* styling for headings on page */
+h4 {
+  font-family: 'Bitter';
+  font-size: 23px;
+  color: #853078;
+}
+
+h5 {
+  font-family: 'Bitter';
+  font-size: 20px;
+}
 
 .tocify {
   # position: -webkit-sticky;
@@ -72,23 +95,28 @@ h4, #TOC>ul>li {
   border: none;
 }
 
+
+/* styling for TOC overall */
 .list-group-item {
     color: #666666;
     font-size: 15px;
+    background-color: #F7F3F0;
 }
 
+/* styling for active item selected in TOC */
 .list-group-item.active {
     color: white;
     background-color: #853078;
     border: none;
 }
 
-
+/* styling for item/heading being hovered over in TOC */
 .list-group-item:hover, 
 .list-group-item.active:hover {
     color: #853078;
     background-color: white;
 }
+
 
 /*----------------NAVBAR ---------------*/
 .navbar-default {

@@ -513,11 +513,11 @@ Newcastle South Asian Society (2016 – 2017)
 ##### **[Building Production-Quality Shiny Applications](https://shinyprod.com)**   
 rstudio::conf(2022), Washington D.C.  
 
+* Chose this complimentary workshop awarded under RStudio's Diversity Scholarship  
 * Lead by [Eric Nantz](https://r-podcast.org/about/), this workshop taught best-practices to write UI and Server-side code for `Shiny for R` web application development  
 
 <br> 
 
-<br>
 
 ##### **Graduate Instructional Skills Workshop**   
 Centre for Teaching, Learning and Technology, UBC  
