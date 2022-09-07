@@ -45,26 +45,55 @@ a:visited {
     color: purple;
 }
 
+hr {
+  height: 1px;
+  background-color: #999999;
+  border: none;
+    }
+
 </style>
+
 
 ```{css, echo = FALSE}
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400&display=swap');
 
+/* title of page */
+.title {
+  font-family: 'Bitter';
+}
+
+/* body of page */
 body {
     font-family: 'Open Sans';
     font-size: 15px;
+    background-color: #F7F3F0;
 }
 
-
+/* styling for headings in TOC */
 h4, #TOC>ul>li {
   font-family: 'Montserrat';
 }
 
-# h5, #TOC>ul>ul>li {
-#  color: #323b58;
-# }
+h5, #TOC>ul>ul>li {
+  font-family: 'Montserrat';
+}
+
+
+
+/* styling for headings on page */
+h4 {
+  font-family: 'Bitter';
+  font-size: 23px;
+  color: #853078;
+}
+
+h5 {
+  font-family: 'Bitter';
+  font-size: 20px;
+}
 
 .tocify {
   # position: -webkit-sticky;
@@ -74,23 +103,28 @@ h4, #TOC>ul>li {
   border: none;
 }
 
+
+/* styling for TOC overall */
 .list-group-item {
     color: #666666;
     font-size: 15px;
+    background-color: #F7F3F0;
 }
 
+/* styling for active item selected in TOC */
 .list-group-item.active {
     color: white;
     background-color: #853078;
     border: none;
 }
 
-
+/* styling for item/heading being hovered over in TOC */
 .list-group-item:hover, 
 .list-group-item.active:hover {
     color: #853078;
     background-color: white;
 }
+
 
 /*----------------NAVBAR ---------------*/
 .navbar-default {
@@ -137,8 +171,8 @@ a.navbar-brand:hover {
 `r fa("utensils", fill = "black")` I try to learn a new recipe every week  
 `r fa("utensils", fill = "white")` Some of my personal favourites include coq au vin blanc, egg drop soup, and mini lemon-white chocolate cheesecakes    
 
-`r fa("book", fill = "black")` I'm a complete bookworm  
-`r fa("book", fill = "white")` I used to devour books when I was younger, and now try to read at least one book per month.  
+`r fa("book", fill = "black")` I love reading    
+`r fa("book", fill = "white")` I try to read at least one book per month    
 `r fa("book", fill = "white")` Some of my all time favourite reads include [Pride and Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice?ac=1&from_search=true&qid=wJPVLiJ8gY&rank=1), [Becoming](https://www.goodreads.com/book/show/38746485-becoming?ac=1&from_search=true&qid=IcUQ5yKVD8&rank=1), [Talking to Strangers](https://www.goodreads.com/book/show/43848929-talking-to-strangers?ac=1&from_search=true&qid=LFr6PNDNHS&rank=2), [The Five People You Meet in Heaven](https://www.goodreads.com/book/show/3431.The_Five_People_You_Meet_in_Heaven?ac=1&from_search=true&qid=Wr6kgBcu6B&rank=1), and [The Genetic Lottery: Why DNA Matters for Social Equality](https://www.goodreads.com/book/show/57423806-the-genetic-lottery?ac=1&from_search=true&qid=BhUqC0woxR&rank=2)   
 
 `r fa("xbox", fill = "black")` I'm Team Xbox  
@@ -148,8 +182,8 @@ a.navbar-brand:hover {
 
 **Skills**:  
 
-`r fa("concierge-bell", fill = "black")` I was the Head Server at a [well-known restaurant](https://www.mumbailocal.ca/) in Downtown Vancouver  
-`r fa("concierge-bell", fill = "white")` Several customers made reservations specifically during my work shift, wanting to experience my hospitality (they told me so!)
+`r fa("bell-concierge", fill = "black")` I was the Head Server at a [well-known restaurant](https://www.mumbailocal.ca/) in Downtown Vancouver  
+`r fa("bell-concierge", fill = "white")` Several customers made reservations specifically during my work shift, wanting to experience my hospitality (they told me so!)
 
 
 
