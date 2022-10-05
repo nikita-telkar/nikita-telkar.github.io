@@ -258,7 +258,9 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 - **Telkar N**, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. [Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full). Frontiers in Genetics 2022; 13.  
 
-- Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. [Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma](https://www.frontiersin.org/article/10.3389/fgene.2022.910221). 2022. Frontiers in Genetics; 13.
+- Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. [Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma](https://www.frontiersin.org/article/10.3389/fgene.2022.910221). 2022. Frontiers in Genetics; 13.  
+
+- Forder A, Stewart GL, Telkar N, Lam WL, Garnis C (2022). [New insights into the tumour immune microenvironment of nasopharyngeal carcinoma.](https://doi.org/10.1016/j.crimmu.2022.08.009) Current Research in Immunology; 3: 222–227.  
   
 
 **Communication**:  
@@ -382,8 +384,11 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
  * A graduate trainee-led [bioinformatics and data analysis support group](https://github.com/BCCHR-trainee-omics-group/StudyGroup) teaching and guiding students/trainees in statistical analyses and methodologies undertaken in biomedical/health research  
  * Hosting weekly workshops and seminars on topics requested for by trainees, maintaining the TOG GitHub, inviting guest instructors, event planning  
  * Extended outreach inter- and intra-UBC, with a ~200% increase in registrations, and 62% of first-time participants  
- * Designed, coded, and delivered a [2-part RNA-seq Workshop](https://github.com/BCCHR-trainee-omics-group/StudyGroup/tree/master/workshops/RNA-seq-Workshop-2021) detailing all steps from raw sequence alignment to gene/pathway enrichment, multiple times by invitation    
- * Developed a university-wide High Performance Computing (HPC) [Genomic Analyses Workshop Series](https://github.com/Phillip-a-richmond/PrecisionHealthVirtualEnvironment/tree/main/Workshops/Applied_RNA-seq) for Summer 2022  
+ * Developed the Precision Health Bootcamp, a university-wide High Performance Computing (HPC) [Genomic Analyses Workshop Series](https://github.com/Phillip-a-richmond/PrecisionHealthVirtualEnvironment/blob/main/Workshops/PrecisionHealthBootcamp2022WorkshopDescriptions.md) for Summer 2022   
+  * Designed, coded, and taught my 2-part RNA-sequencing Analysis Workshop detailing all steps from raw sequence alignment to gene/pathway enrichment at:  
+    - [TOG's April 2021 Workshop](https://github.com/BCCHR-trainee-omics-group/StudyGroup/tree/master/workshops/RNA-seq-Workshop-2021)  
+    - [The BC Cancer Graduate and Post-Doctoral Society Welcome Week](https://www.youtube.com/watch?v=SqzOvPOxga4&t=1s)    
+    - [The UBC Precision Health Bootcamp](https://github.com/Phillip-a-richmond/PrecisionHealthVirtualEnvironment/tree/main/Workshops/Applied_RNA-seq)  
  
  <br>  
 
