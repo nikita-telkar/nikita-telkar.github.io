@@ -194,7 +194,7 @@ View my [latest Academic CV](https://github.com/nikita-telkar/nikita-telkar.gith
 
 `Latest Highlights:`    
 
-- UBC Department of Medical Genetics, Overall Excellence Award - [The James Miller Memorial Prize](https://medgen.med.ubc.ca/graduate-program/awards-and-events/james-miller-memorial-prize/) - [Presentation Slides](https://docs.google.com/presentation/d/17Y6uHqN5u6lwgXoyqA5tB_zOaugLbrZ0/edit?usp=sharing&ouid=106221155523242281440&rtpof=true&sd=true)  
+- UBC Department of Medical Genetics, Overall Excellence Award - [The James Miller Memorial Prize](https://medgen.med.ubc.ca/graduate-program/awards-and-events/james-miller-memorial-prize/) (View my [presentation slides](https://docs.google.com/presentation/d/17Y6uHqN5u6lwgXoyqA5tB_zOaugLbrZ0/edit?usp=sharing&ouid=106221155523242281440&rtpof=true&sd=true))  
 - RStudio [Diversity Scholar](https://www.rstudio.com/conference/2022/2022-conference-diversity-scholarships/) 2022  
 - My first [first-author journal publication](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full)   
 
