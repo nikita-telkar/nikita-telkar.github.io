@@ -193,10 +193,6 @@ View my [latest Academic CV](https://github.com/nikita-telkar/nikita-telkar.gith
 
 <br>  
 
-`Latest Highlights:`    
-RStudio Diversity Scholar 2022  
-[My first first-author journal publication](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full)   
-
 :::
 
 ::: {}
@@ -210,6 +206,13 @@ knitr::include_graphics(here::here("static", "NT_Profile_round.png"))
 :::
 
 ::::
+
+`Latest Highlights:`    
+
+- UBC Department of Medical Genetics, Overall Excellence Award - [The James Miller Memorial Prize](https://medgen.med.ubc.ca/graduate-program/awards-and-events/james-miller-memorial-prize/) - [Presentation Slides](https://docs.google.com/presentation/d/17Y6uHqN5u6lwgXoyqA5tB_zOaugLbrZ0/edit?usp=sharing&ouid=106221155523242281440&rtpof=true&sd=true)  
+- RStudio [Diversity Scholar](https://www.rstudio.com/conference/2022/2022-conference-diversity-scholarships/) 2022  
+- My first [first-author journal publication](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full)   
+
 
 ***  
 
@@ -251,6 +254,8 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 - [4 Year Doctoral Fellowship (4YF) Award](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) (2020-2024) – University of British Columbia    
 
+- [The James Miller Memorial Prize](https://medgen.med.ubc.ca/graduate-program/awards-and-events/james-miller-memorial-prize/)  - Department of Medical Genetics, University of British Columbia  
+
 - President's Academic Excellence Initiative PhD Award (2020-2024) – University of British Columbia   
 
 - International Tuition Award (2019-2024) – University of British Columbia
@@ -275,7 +280,10 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 - Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. [Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma](https://www.frontiersin.org/article/10.3389/fgene.2022.910221). 2022. Frontiers in Genetics; 13.  
 
-- Forder A, Stewart GL, Telkar N, Lam WL, Garnis C (2022). [New insights into the tumour immune microenvironment of nasopharyngeal carcinoma.](https://doi.org/10.1016/j.crimmu.2022.08.009) Current Research in Immunology; 3: 222–227.  
+- Forder A, Stewart GL, Telkar N, Lam WL, Garnis C. [New insights into the tumour immune microenvironment of nasopharyngeal cacinoma.](https://doi.org/10.1016/j.crimmu.2022.08.009). 2022. Current Research in Immunology; 3: 222–227.  
+
+- Zhao G, Zhang HM, Nasseri AR, Yip F, **Telkar N**, Chen YT, Aghakeshmiri S, Küper C, Zhao J, Lam WL, Yang W, McManus BM, Yang D (2022). Conditional Heart-specific NFAT5 Knockout Suppresses Type I Interferon Signaling and Aggravates Coxsackievirus B3-induced Myocarditis. *Submitted*
+
   
 
 **Communication**:  
