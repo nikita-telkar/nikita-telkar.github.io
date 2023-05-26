@@ -13,7 +13,7 @@
 
 <title>Nikita Telkar, MSc</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -136,11 +136,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -169,8 +173,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -178,16 +182,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -409,7 +406,7 @@ hr {
 body {
     font-family: 'Open Sans';
     font-size: 15px;
-    background-color: #F7F3F0;
+    background-color: #fbf9f7;
 }
 
 /* styling for headings in TOC */
@@ -503,7 +500,7 @@ a.navbar-brand:hover {
 sipping on my flat white.<br />
 Big fan of <code>ggplot2</code> and Jazz music. Jack-of-all-Trades kinda
 person</em>
-<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:black;overflow:visible;position:relative;"><path d="M512 255.1C512 256.9 511.1 257.8 511.1 258.7C511.6 295.2 478.4 319.1 441.9 319.1H344C317.5 319.1 296 341.5 296 368C296 371.4 296.4 374.7 297 377.9C299.2 388.1 303.5 397.1 307.9 407.8C313.9 421.6 320 435.3 320 449.8C320 481.7 298.4 510.5 266.6 511.8C263.1 511.9 259.5 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256V255.1zM96 255.1C78.33 255.1 64 270.3 64 287.1C64 305.7 78.33 319.1 96 319.1C113.7 319.1 128 305.7 128 287.1C128 270.3 113.7 255.1 96 255.1zM128 191.1C145.7 191.1 160 177.7 160 159.1C160 142.3 145.7 127.1 128 127.1C110.3 127.1 96 142.3 96 159.1C96 177.7 110.3 191.1 128 191.1zM256 63.1C238.3 63.1 224 78.33 224 95.1C224 113.7 238.3 127.1 256 127.1C273.7 127.1 288 113.7 288 95.1C288 78.33 273.7 63.1 256 63.1zM384 191.1C401.7 191.1 416 177.7 416 159.1C416 142.3 401.7 127.1 384 127.1C366.3 127.1 352 142.3 352 159.1C352 177.7 366.3 191.1 384 191.1z"/></svg></p>
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:black;overflow:visible;position:relative;"><path d="M512 256c0 .9 0 1.8 0 2.7c-.4 36.5-33.6 61.3-70.1 61.3H344c-26.5 0-48 21.5-48 48c0 3.4 .4 6.7 1 9.9c2.1 10.2 6.5 20 10.8 29.9c6.1 13.8 12.1 27.5 12.1 42c0 31.8-21.6 60.7-53.4 62c-3.5 .1-7 .2-10.6 .2C114.6 512 0 397.4 0 256S114.6 0 256 0S512 114.6 512 256zM128 288c0-17.7-14.3-32-32-32s-32 14.3-32 32s14.3 32 32 32s32-14.3 32-32zm0-96c17.7 0 32-14.3 32-32s-14.3-32-32-32s-32 14.3-32 32s14.3 32 32 32zM288 96c0-17.7-14.3-32-32-32s-32 14.3-32 32s14.3 32 32 32s32-14.3 32-32zm96 96c17.7 0 32-14.3 32-32s-14.3-32-32-32s-32 14.3-32 32s14.3 32 32 32z"/></svg></p>
 </blockquote>
 <hr />
 <div id="about-me" class="section level4">
@@ -539,6 +536,7 @@ Scholar</a></p>
 <p>View my <a
 href="https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Telkar_Nikita_Academic_CV.pdf">latest
 Academic CV</a></p>
+<p>Last updated: May 2023</p>
 <p><br></p>
 </div>
 <div>
@@ -547,19 +545,15 @@ Academic CV</a></p>
 </div>
 <p><code>Latest Highlights:</code></p>
 <ul>
+<li>Research abstract selected for a Oral Presentation - <a
+href="https://2023.eshg.org/">European Society of Human Genetics (ESHG)
+2023 Conference</a><br />
+</li>
 <li>UBC Department of Medical Genetics, Overall Excellence Award - <a
 href="https://medgen.med.ubc.ca/graduate-program/awards-and-events/james-miller-memorial-prize/">The
 James Miller Memorial Prize</a> (View my <a
 href="https://docs.google.com/presentation/d/17Y6uHqN5u6lwgXoyqA5tB_zOaugLbrZ0/edit?usp=sharing&amp;ouid=106221155523242281440&amp;rtpof=true&amp;sd=true">presentation
-slides</a>)<br />
-</li>
-<li>RStudio <a
-href="https://www.rstudio.com/conference/2022/2022-conference-diversity-scholarships/">Diversity
-Scholar</a> 2022<br />
-</li>
-<li>My first <a
-href="https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full">first-author
-journal publication</a></li>
+slides</a>)</li>
 </ul>
 <hr />
 </div>
@@ -660,6 +654,22 @@ hepatocellular carcinoma</a>. 2022. Frontiers in Genetics; 13.</p></li>
 href="https://doi.org/10.1016/j.crimmu.2022.08.009">New insights into
 the tumour immune microenvironment of nasopharyngeal cacinoma.</a>.
 2022. Current Research in Immunology; 3: 222–227.</p></li>
+<li><p>Forder A, Zhuang R, Souza VGP, Brockley LJ, Pewarchuk ME,
+<strong>Telkar N</strong>, Stewart GL, Benard K, Marshall EA, Reis PP,
+Lam WL (2023). Mechanisms Contributing to the Comorbidity of COPD and
+Lung Cancer. International Journal of Molecular Sciences;
+24(3):2859</p></li>
+<li><p>Brockley LJ, Souza VGP, Forder A, Pewarchuk ME, Erkan M,
+<strong>Telkar N</strong>, Benard KH, Trejo J, Stewart MD, Stewart GL,
+Reis PP, Lam WL, Martinez VD (2023). Sequence-Based Platforms for
+Discovering Biomarkers in Liquid Biopsy of Non- Small-Cell Lung Cancer.
+Cancers; 15(8), 2275</p></li>
+<li><p>Souza VGP, Forder A, Brockley LJ, Pewarchuk ME, <strong>Telkar
+N</strong>, de Araújo RP, Trejo J, Benard KH, Seneda AL, Minutentag IW,
+Erkan M, Stewart GL, Hasimoto EN, Garnis C, Lam WL, Martinez VD, Reis PP
+(2023). Liquid Biopsy in Lung Cancer: Biomarkers for the Management of
+Recurrence and Metastasis. International Journal of Molecular Sciences;
+24(10):8894</p></li>
 <li><p>Zhao G, Zhang HM, Nasseri AR, Yip F, <strong>Telkar N</strong>,
 Chen YT, Aghakeshmiri S, Küper C, Zhao J, Lam WL, Yang W, McManus BM,
 Yang D (2022). Conditional Heart-specific NFAT5 Knockout Suppresses Type
@@ -725,8 +735,9 @@ Catalog</a></p>
 (2014 -2017)</p>
 <p><br></p>
 <p>Dissertation: Genome-wide RNAi Screening to identify new genes
-involved in Mitochondrial Disease<br />
-<a href="https://www.ncl.ac.uk/bns/alumni/nikita/">University
+involved in Mitochondrial Disease</p>
+<p><br></p>
+<p><a href="https://www.ncl.ac.uk/bns/alumni/nikita/">University
 Profile</a></p>
 <p><br></p>
 <hr />
@@ -779,13 +790,24 @@ Genetics Society News Newsletter, January 2017, Issue 76.</li>
 (April 2022 - )</p>
 <ul>
 <li>Labelling biomedical data for the platform’s ML training model
-(~20,000 labels till date)<br />
+(&gt;100k labels till date)<br />
 </li>
 <li>Annotating scientific publication figures for image to text (vision)
 training<br />
 </li>
 <li>Contributing to the platform’s UX design as part of the internal
 Discovery and Validation team</li>
+</ul>
+<p><br></p>
+</div>
+<div id="bioinnovation-scientist-trainee" class="section level5">
+<h5><strong>Bioinnovation Scientist Trainee</strong></h5>
+<p><a href="https://www.admarebio.com/en/">adMare Bioinnovations</a>,
+Canada (April - June 2023)</p>
+<ul>
+<li>Hands-on training about the Canadian life sciences industry, scaling
+small molecule and biologics discovery, pre-clinical and clinical
+development, and therapeutics commercialization</li>
 </ul>
 <p><br></p>
 </div>
@@ -933,6 +955,25 @@ HTML</li>
 </ul>
 <p><br></p>
 </div>
+<div id="research-mentor" class="section level5">
+<h5><strong>Research Mentor</strong></h5>
+<p>Newcastle University and UBC (2015 – 2016 / 2020 – Present)</p>
+<ul>
+<li>Guiding and assisting incoming graduate students, both
+professionally and personally<br />
+</li>
+<li>Aiding in formulating research questions, analysis methodologies,
+and interpretation of data
+<ul>
+<li><a href="https://www.linkedin.com/in/sadigfidan/">Fidan Sadig, BSc
+Biochemistry</a><br />
+</li>
+<li><a href="https://www.linkedin.com/in/katya-benard-a53390208/">Katya
+Benard, BSc Animal Biology</a></li>
+</ul></li>
+</ul>
+<p><br></p>
+</div>
 <div id="executive-consultant" class="section level5">
 <h5><strong>Executive Consultant</strong></h5>
 <p><a href="https://mggsa.ca/">UBC Medical Genetics Graduate Student
@@ -973,18 +1014,6 @@ at local schools in Vancouver<br />
 </li>
 <li>Committee Member at the Girls and STEAM Symposium 2019 hosted by BC
 Science World</li>
-</ul>
-<p><br></p>
-</div>
-<div id="research-mentor" class="section level5">
-<h5><strong>Research Mentor</strong></h5>
-<p>Newcastle University and UBC (2015 – 2016 / 2020 – Present)</p>
-<ul>
-<li>Guiding and assisting incoming graduate students, both
-professionally and personally<br />
-</li>
-<li>Aiding in formulating research questions, analysis methodologies,
-and interpretation of data</li>
 </ul>
 <p><br></p>
 </div>
@@ -1029,7 +1058,7 @@ workshop taught best-practices to write UI and Server-side code for
 <h5><strong>Graduate Instructional Skills Workshop</strong></h5>
 <p>Centre for Teaching, Learning and Technology, UBC</p>
 <ul>
-<li>4-day workshop (24-hour) conisiting of teaching practice, theory
+<li>4-day workshop (24-hour) consisting of teaching practice, theory
 application, and topical sessions specifically relevant for Teaching
 Assistants. Delivered 3 short lectures on the genetics of the ABO blood
 groups<br />

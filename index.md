@@ -63,7 +63,7 @@ hr {
 body {
     font-family: 'Open Sans';
     font-size: 15px;
-    background-color: #F7F3F0;
+    background-color: #fbf9f7;
 }
 
 /* styling for headings in TOC */
@@ -154,7 +154,7 @@ a.navbar-brand:hover {
 <br>
 
 > *Investigating genetic regulation in the human placenta, while sipping on my flat white.  
-> Big fan of `ggplot2` and Jazz music. Jack-of-all-Trades kinda person*  `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:black;overflow:visible;position:relative;"><path d="M512 255.1C512 256.9 511.1 257.8 511.1 258.7C511.6 295.2 478.4 319.1 441.9 319.1H344C317.5 319.1 296 341.5 296 368C296 371.4 296.4 374.7 297 377.9C299.2 388.1 303.5 397.1 307.9 407.8C313.9 421.6 320 435.3 320 449.8C320 481.7 298.4 510.5 266.6 511.8C263.1 511.9 259.5 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256V255.1zM96 255.1C78.33 255.1 64 270.3 64 287.1C64 305.7 78.33 319.1 96 319.1C113.7 319.1 128 305.7 128 287.1C128 270.3 113.7 255.1 96 255.1zM128 191.1C145.7 191.1 160 177.7 160 159.1C160 142.3 145.7 127.1 128 127.1C110.3 127.1 96 142.3 96 159.1C96 177.7 110.3 191.1 128 191.1zM256 63.1C238.3 63.1 224 78.33 224 95.1C224 113.7 238.3 127.1 256 127.1C273.7 127.1 288 113.7 288 95.1C288 78.33 273.7 63.1 256 63.1zM384 191.1C401.7 191.1 416 177.7 416 159.1C416 142.3 401.7 127.1 384 127.1C366.3 127.1 352 142.3 352 159.1C352 177.7 366.3 191.1 384 191.1z"/></svg>`{=html}   
+> Big fan of `ggplot2` and Jazz music. Jack-of-all-Trades kinda person*  `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:black;overflow:visible;position:relative;"><path d="M512 256c0 .9 0 1.8 0 2.7c-.4 36.5-33.6 61.3-70.1 61.3H344c-26.5 0-48 21.5-48 48c0 3.4 .4 6.7 1 9.9c2.1 10.2 6.5 20 10.8 29.9c6.1 13.8 12.1 27.5 12.1 42c0 31.8-21.6 60.7-53.4 62c-3.5 .1-7 .2-10.6 .2C114.6 512 0 397.4 0 256S114.6 0 256 0S512 114.6 512 256zM128 288c0-17.7-14.3-32-32-32s-32 14.3-32 32s14.3 32 32 32s32-14.3 32-32zm0-96c17.7 0 32-14.3 32-32s-14.3-32-32-32s-32 14.3-32 32s14.3 32 32 32zM288 96c0-17.7-14.3-32-32-32s-32 14.3-32 32s14.3 32 32 32s32-14.3 32-32zm96 96c17.7 0 32-14.3 32-32s-14.3-32-32-32s-32 14.3-32 32s14.3 32 32 32z"/></svg>`{=html}   
 
 ***  
 
@@ -180,6 +180,8 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
 
 View my [latest Academic CV](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Telkar_Nikita_Academic_CV.pdf)  
 
+Last updated: May 2023
+
 <br>  
 
 :::
@@ -193,10 +195,9 @@ View my [latest Academic CV](https://github.com/nikita-telkar/nikita-telkar.gith
 ::::
 
 `Latest Highlights:`    
-
+  
+- Research abstract selected for a Oral Presentation - [European Society of Human Genetics (ESHG) 2023 Conference](https://2023.eshg.org/)  
 - UBC Department of Medical Genetics, Overall Excellence Award - [The James Miller Memorial Prize](https://medgen.med.ubc.ca/graduate-program/awards-and-events/james-miller-memorial-prize/) (View my [presentation slides](https://docs.google.com/presentation/d/17Y6uHqN5u6lwgXoyqA5tB_zOaugLbrZ0/edit?usp=sharing&ouid=106221155523242281440&rtpof=true&sd=true))  
-- RStudio [Diversity Scholar](https://www.rstudio.com/conference/2022/2022-conference-diversity-scholarships/) 2022  
-- My first [first-author journal publication](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full)   
 
 
 ***  
@@ -265,9 +266,15 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 - Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. [Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma](https://www.frontiersin.org/article/10.3389/fgene.2022.910221). 2022. Frontiers in Genetics; 13.  
 
-- Forder A, Stewart GL, Telkar N, Lam WL, Garnis C. [New insights into the tumour immune microenvironment of nasopharyngeal cacinoma.](https://doi.org/10.1016/j.crimmu.2022.08.009). 2022. Current Research in Immunology; 3: 222–227.  
+- Forder A, Stewart GL, Telkar N, Lam WL, Garnis C. [New insights into the tumour immune microenvironment of nasopharyngeal cacinoma.](https://doi.org/10.1016/j.crimmu.2022.08.009). 2022. Current Research in Immunology; 3: 222–227.   
 
-- Zhao G, Zhang HM, Nasseri AR, Yip F, **Telkar N**, Chen YT, Aghakeshmiri S, Küper C, Zhao J, Lam WL, Yang W, McManus BM, Yang D (2022). Conditional Heart-specific NFAT5 Knockout Suppresses Type I Interferon Signaling and Aggravates Coxsackievirus B3-induced Myocarditis. *Submitted*
+- Forder A, Zhuang R, Souza VGP, Brockley LJ, Pewarchuk ME, **Telkar N**, Stewart GL, Benard K, Marshall EA, Reis PP, Lam WL (2023). Mechanisms Contributing to the Comorbidity of COPD and Lung Cancer. International Journal of Molecular Sciences; 24(3):2859  
+  
+- Brockley LJ, Souza VGP, Forder A, Pewarchuk ME, Erkan M, **Telkar N**, Benard KH, Trejo J, Stewart MD, Stewart GL, Reis PP, Lam WL, Martinez VD (2023). Sequence-Based Platforms for Discovering Biomarkers in Liquid Biopsy of Non- Small-Cell Lung Cancer. Cancers; 15(8), 2275  
+  
+- Souza VGP, Forder A, Brockley LJ, Pewarchuk ME, **Telkar N**, de Araújo RP, Trejo J, Benard KH, Seneda AL, Minutentag IW, Erkan M, Stewart GL, Hasimoto EN, Garnis C, Lam WL, Martinez VD, Reis PP (2023). Liquid Biopsy in Lung Cancer: Biomarkers for the Management of Recurrence and Metastasis. International Journal of Molecular Sciences; 24(10):8894  
+  
+- Zhao G, Zhang HM, Nasseri AR, Yip F, **Telkar N**, Chen YT, Aghakeshmiri S, Küper C, Zhao J, Lam WL, Yang W, McManus BM, Yang D (2022). Conditional Heart-specific NFAT5 Knockout Suppresses Type I Interferon Signaling and Aggravates Coxsackievirus B3-induced Myocarditis. *Submitted*  
 
   
 
@@ -329,6 +336,9 @@ Polygenics Risk Scores published on EMBL-EBI’s [PGS Catalog](http://www.pgscat
 <br> 
 
 Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitochondrial Disease  
+
+<br> 
+
 [University Profile](https://www.ncl.ac.uk/bns/alumni/nikita/)  
 
 <br> 
@@ -380,11 +390,18 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 #####  **Biomedical Data Analyst**     
 [BenchSci](https://www.benchsci.com/), Toronto, Canada (April 2022 - )  
 
-* Labelling biomedical data for the platform’s ML training model (~20,000 labels till date)  
+* Labelling biomedical data for the platform’s ML training model (>100k labels till date)  
 * Annotating scientific publication figures for image to text (vision) training  
 * Contributing to the platform’s UX design as part of the internal Discovery and Validation team  
 
 <br>   
+
+#####  **Bioinnovation Scientist Trainee**     
+[adMare Bioinnovations](https://www.admarebio.com/en/), Canada (April - June 2023)  
+
+* Hands-on training about the Canadian life sciences industry, scaling small molecule and biologics discovery, pre-clinical and clinical development, and therapeutics commercialization  
+
+<br>  
 
 ##### [**Co-Chair**](#co-chair)       
 [Trainee Omics Group (TOG) Committee](https://bcchr.ca/tog), BC Children’s Hospital Research Institute (September 2021 - Present)  
@@ -449,6 +466,9 @@ Department of Neuroscience, University College London (Nov 2017 - Jan 2018)
 
 ***  
 
+
+
+
 #### **Community Involvement**  
 
 <br>
@@ -459,6 +479,16 @@ Department of Medical Genetics, UBC (2019 – Present)
  * Student Representative of the Advisory Committee for the Department of Medical Genetics  
  * Recruiting the new Head of Department of Medical Genetics under the Advisory Search Committee
  * [Singlehandedly redesigned and updated the department website](https://medgen.med.ubc.ca/) using WordPress with CSS and HTML  
+
+<br> 
+
+##### **Research Mentor**       
+Newcastle University and UBC (2015 – 2016 / 2020 – Present)  
+
+ * Guiding and assisting incoming graduate students, both professionally and personally     
+ * Aiding in formulating research questions, analysis methodologies, and interpretation of data  
+    - [Fidan Sadig, BSc Biochemistry](https://www.linkedin.com/in/sadigfidan/)    
+    - [Katya Benard, BSc Animal Biology](https://www.linkedin.com/in/katya-benard-a53390208/)  
 
 <br> 
 
@@ -486,13 +516,6 @@ Department of Medical Genetics, UBC (2019 – Present)
 
 <br> 
 
-##### **Research Mentor**       
-Newcastle University and UBC (2015 – 2016 / 2020 – Present)  
-
- * Guiding and assisting incoming graduate students, both professionally and personally     
- * Aiding in formulating research questions, analysis methodologies, and interpretation of data  
-
-<br> 
 
 ##### **Vice President**  
 Newcastle South Asian Society (2016 – 2017)  
@@ -503,6 +526,8 @@ Newcastle South Asian Society (2016 – 2017)
  * *Publicity Officer* (2015 – 2016) – Management of all social media accounts of the committee, main email correspondent, digitization of all posters and tickets.
 
 ***  
+
+
 
 #### **Workshops**  
 
@@ -520,13 +545,15 @@ rstudio::conf(2022), Washington D.C.
 ##### **Graduate Instructional Skills Workshop**   
 Centre for Teaching, Learning and Technology, UBC  
 
-* 4-day workshop (24-hour) conisiting of teaching practice, theory application, and topical sessions specifically relevant for Teaching Assistants. Delivered 3 short lectures on the genetics of the ABO blood groups      
+* 4-day workshop (24-hour) consisting of teaching practice, theory application, and topical sessions specifically relevant for Teaching Assistants. Delivered 3 short lectures on the genetics of the ABO blood groups      
 * Feedback from fellow team member: `"Nikita, your students will be lucky to have you, you make everything so easy to understand.”`  
 
 <br> 
 
 
 ***  
+
+
 
 #### **Extras**    
 

@@ -70,7 +70,7 @@ hr {
 body {
     font-family: 'Open Sans';
     font-size: 15px;
-    background-color: #F7F3F0;
+    background-color: #fbf9f7;
 }
 
 /* styling for headings in TOC */
