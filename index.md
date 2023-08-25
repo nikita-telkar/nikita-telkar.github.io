@@ -174,13 +174,13 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
 
 <br>
 <a href = "mailto:nikita.telkar@bcchr.ca"><i class="fas fa-envelope"></i></a> | <a href = "https://www.linkedin.com/in/nikitatelkar/"><i class = "fa fa-linkedin" ></i></a> | <a href = "https://github.com/nikita-telkar"><i class = "fa fa-github" ></i></a> | <a href = "https://twitter.com/nikita_telkar"><i class = "fa fa-twitter" ></i></a> | 
-<a href = "https://scholar.google.com/citations?hl=en&authuser=2&user=3EwE6tAAAAAJ/">Google Scholar</a>  
+<a href = "https://scholar.google.com/citations?user=3EwE6tAAAAAJ&hl=en">Google Scholar</a>  
   
 <br> 
 
 View my [latest Academic CV](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Telkar_Nikita_Academic_CV.pdf)  
 
-Last updated: May 2023
+Last updated: August 2023
 
 <br>  
 
@@ -196,7 +196,7 @@ Last updated: May 2023
 
 `Latest Highlights:`    
   
-- Research abstract selected for a Oral Presentation - [European Society of Human Genetics (ESHG) 2023 Conference](https://2023.eshg.org/)  
+- Selected Talk (1/174 presenters of >2500 submissions) - [European Society of Human Genetics (ESHG) 2023 Conference](https://2023.eshg.org/)  
 - UBC Department of Medical Genetics, Overall Excellence Award - [The James Miller Memorial Prize](https://medgen.med.ubc.ca/graduate-program/awards-and-events/james-miller-memorial-prize/) (View my [presentation slides](https://docs.google.com/presentation/d/17Y6uHqN5u6lwgXoyqA5tB_zOaugLbrZ0/edit?usp=sharing&ouid=106221155523242281440&rtpof=true&sd=true))  
 
 
@@ -279,6 +279,8 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
   
 
 **Communication**:  
+
+- Selected Presentation within Session: New Technologies in Cancer Genetics at the [European Society of Human Genetics (ESHG) 2023 Conference](https://2023.eshg.org/)  
 
 - University of Toronto Health Network (UHN) Seminar Series - Invited   
 
