@@ -222,6 +222,8 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 **Role of NF activated T-cells in the Pathogenesis of Coxsackievirus-induced Myocarditis**    
 
+<br>
+
 *In progress: Manuscript writing*    
 
 `Data/Software:` murine mRNA-seq / R, GSEA  
@@ -233,6 +235,8 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 **Telmisartan treated tumours show an improved response to radiaition therapy**    
 
+<br>
+
 *In progress: Follow-up validation experiments of in-silico results*  
 
 `Data/Software:` human + murine single-cell RNA-seq / R
@@ -243,6 +247,8 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 ##### 4. Djavad Mowafaghian Centre for Brain Health / [The Yu Tian Wang Lab](https://www.centreforbrainhealth.ca/faculty/yu-tian-wang/)  
 
 **Notch1 signaling plays an essential role in metabolic rewiring in docetaxel resistance prostate cancer**    
+
+<br>
 
 *In progress: Manuscript writing*  
 
