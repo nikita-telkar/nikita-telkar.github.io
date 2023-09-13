@@ -236,7 +236,7 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 <br>
 
-**Awards**:  
+`Awards:`  
 
 - [4 Year Doctoral Fellowship (4YF) Award](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) (2020-2024) – University of British Columbia    
 
@@ -252,33 +252,35 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 - Virtual Knowledge Exchange Grant 2021 – BC Children’s Hospital Research Institute   
 
-**Pubs**:  
+`Pubs:`  
 
-- Martinez VD, Cohn DE, **Telkar N**, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1). 2021. Sci Data; 8, 166.  
+1. Martinez VD, Cohn DE, **Telkar N**, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1). 2021. Sci Data; 8, 166.  
 
-- Cohn DE, Barros-Filho MC, Minatel BC, Pewarchuk ME, Marshall EA, Vucic EA, Sage AP, **Telkar N**, Stewart GL, Jurisica I, Reis PP, Robinson WP, Lam WL. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). 2021. Cancers, 13, 2686.   
+2. Cohn DE, Barros-Filho MC, Minatel BC, Pewarchuk ME, Marshall EA, Vucic EA, Sage AP, **Telkar N**, Stewart GL, Jurisica I, Reis PP, Robinson WP, Lam WL. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). 2021. Cancers, 13, 2686.   
 
-- Marshall EA, **Telkar N**, Lam WL. [Functional role of the cancer microbiome in the solid tumour niche](https://doi.org/10.1016/j.crimmu.2021.01.001). 2021. Current Research in Immunology; 2: 1–6    
+3. Marshall EA, **Telkar N**, Lam WL. [Functional role of the cancer microbiome in the solid tumour niche](https://doi.org/10.1016/j.crimmu.2021.01.001). 2021. Current Research in Immunology; 2: 1–6    
 
-- Rees WD, **Telkar N**, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). 2022. Cell Reports; 38(3)    
+4. Rees WD, **Telkar N**, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). 2022. Cell Reports; 38(3)    
 
-- **Telkar N**, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. [Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full). Frontiers in Genetics 2022; 13.  
+5. **Telkar N**, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. [Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full). Frontiers in Genetics 2022; 13.  
 
-- Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. [Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma](https://www.frontiersin.org/article/10.3389/fgene.2022.910221). 2022. Frontiers in Genetics; 13.  
+6. Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. [Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma](https://www.frontiersin.org/article/10.3389/fgene.2022.910221). 2022. Frontiers in Genetics; 13.  
 
-- Forder A, Stewart GL, Telkar N, Lam WL, Garnis C. [New insights into the tumour immune microenvironment of nasopharyngeal cacinoma.](https://doi.org/10.1016/j.crimmu.2022.08.009). 2022. Current Research in Immunology; 3: 222–227.   
+7. Forder A, Stewart GL, Telkar N, Lam WL, Garnis C. [New insights into the tumour immune microenvironment of nasopharyngeal cacinoma.](https://doi.org/10.1016/j.crimmu.2022.08.009). 2022. Current Research in Immunology; 3: 222–227.   
 
-- Forder A, Zhuang R, Souza VGP, Brockley LJ, Pewarchuk ME, **Telkar N**, Stewart GL, Benard K, Marshall EA, Reis PP, Lam WL (2023). Mechanisms Contributing to the Comorbidity of COPD and Lung Cancer. International Journal of Molecular Sciences; 24(3):2859  
+8. Forder A, Zhuang R, Souza VGP, Brockley LJ, Pewarchuk ME, **Telkar N**, Stewart GL, Benard K, Marshall EA, Reis PP, Lam WL (2023). Mechanisms Contributing to the Comorbidity of COPD and Lung Cancer. International Journal of Molecular Sciences; 24(3):2859  
   
-- Brockley LJ, Souza VGP, Forder A, Pewarchuk ME, Erkan M, **Telkar N**, Benard KH, Trejo J, Stewart MD, Stewart GL, Reis PP, Lam WL, Martinez VD (2023). Sequence-Based Platforms for Discovering Biomarkers in Liquid Biopsy of Non- Small-Cell Lung Cancer. Cancers; 15(8), 2275  
+9. Brockley LJ, Souza VGP, Forder A, Pewarchuk ME, Erkan M, **Telkar N**, Benard KH, Trejo J, Stewart MD, Stewart GL, Reis PP, Lam WL, Martinez VD (2023). Sequence-Based Platforms for Discovering Biomarkers in Liquid Biopsy of Non- Small-Cell Lung Cancer. Cancers; 15(8), 2275  
   
-- Souza VGP, Forder A, Brockley LJ, Pewarchuk ME, **Telkar N**, de Araújo RP, Trejo J, Benard KH, Seneda AL, Minutentag IW, Erkan M, Stewart GL, Hasimoto EN, Garnis C, Lam WL, Martinez VD, Reis PP (2023). Liquid Biopsy in Lung Cancer: Biomarkers for the Management of Recurrence and Metastasis. International Journal of Molecular Sciences; 24(10):8894  
-  
-- Zhao G, Zhang HM, Nasseri AR, Yip F, **Telkar N**, Chen YT, Aghakeshmiri S, Küper C, Zhao J, Lam WL, Yang W, McManus BM, Yang D (2022). Conditional Heart-specific NFAT5 Knockout Suppresses Type I Interferon Signaling and Aggravates Coxsackievirus B3-induced Myocarditis. *Submitted*  
+10. Souza VGP, Forder A, Brockley LJ, Pewarchuk ME, **Telkar N**, de Araújo RP, Trejo J, Benard KH, Seneda AL, Minutentag IW, Erkan M, Stewart GL, Hasimoto EN, Garnis C, Lam WL, Martinez VD, Reis PP (2023). Liquid Biopsy in Lung Cancer: Biomarkers for the Management of Recurrence and Metastasis. International Journal of Molecular Sciences; 24(10):8894  
+
+11. *Submitted - Souza VGP, Forder A, **Telkar N**, Stewart GL, RF Carvalho, Mur LAJ, Lam WL, Reis PP (2023). Identifying New Contributors to Brain Metastasis in Lung Adenocarcinoma: A Transcriptomic Meta-Analysis.*    
+   
+12. *Submitted - Zhao G, Zhang HM, Nasseri AR, Yip F, **Telkar N**, Chen YT, Aghakeshmiri S, Küper C, Zhao J, Lam WL, Yang W, McManus BM, Yang D (2022). Conditional Heart-specific NFAT5 Knockout Suppresses Type I Interferon Signaling and Aggravates Coxsackievirus B3-induced Myocarditis.*  
 
   
 
-**Communication**:  
+`Communication:`  
 
 - Selected Presentation within Session: New Technologies in Cancer Genetics at the [European Society of Human Genetics (ESHG) 2023 Conference](https://2023.eshg.org/)  
 
@@ -349,7 +351,7 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 ##### Publications / Awards / Communications  
 
-**Awards**:  
+`Awards:`  
 
 - [Genes and Development Summer Studentship 2016](https://www.genetics.org.uk/wp-content/uploads/2017/11/15027387_10211122879777688_5581119349267154163_n.jpg) – The Genetics Society UK  
 
@@ -361,7 +363,7 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 - ncl+ Award – Newcastle University (for extracurricular achievement)  
 
-**Pubs**:  
+`Pubs:`  
 
 - **Telkar N**. [Using WNT5A Expression to Characterize Development in the Human Gut](https://www.genetics.org.uk/wp-content/uploads/2017/09/Issue-76-_-January-2017.pdf#page=49). The Genetics Society News Newsletter, January 2017, Issue 76.  
 
@@ -398,8 +400,8 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 <br>   
 
-#####  **Bioinnovation Scientist Trainee**     
-[adMare Bioinnovations](https://www.admarebio.com/en/), Canada (April - June 2023)  
+#####  **BioInnovation Scientist Trainee**     
+[adMare BiInnovations](https://www.admarebio.com/en/), Canada (April - June 2023)  
 
 * Hands-on training about the Canadian life sciences industry, scaling small molecule and biologics discovery, pre-clinical and clinical development, and therapeutics commercialization  
 

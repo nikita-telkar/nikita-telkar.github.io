@@ -173,9 +173,9 @@ The human placenta is the indispensible organ necessary for all water, nutrient,
 
 DNA methylation is another epigenetic regulatory mechanism, and [the placenta has been recognized for its unique epigenetic landscape](https://10.1101/cshperspect.a023044). The sncRNA expression data observed will be integrated with sample-matched DNAm data to investigate whether any correlation in expression exists between the two gene regulation mechansisms. [The placental gene expression profile also resembles that of cancer](https://10.1098/rsob.180081), and the top sncRNAs of interest will be examined for their connection to cancer progression.     
 
-`Software`: R Programming. Some of my code is available on my [GitHub](https://github.com/nikita-telkar/Projects).    
+`Software:` R Programming. Some of my code is available on my [GitHub](https://github.com/nikita-telkar/Projects).    
 
-`Project Impact`:     
+`Project Impact:`     
 
 - Self-taught R, RMarkdown, and RNA-seq data analysis  
   - quality control, normalization, PCA, linear modeling, DNAm correlation, gene/pathway enrichment 
@@ -184,10 +184,12 @@ DNA methylation is another epigenetic regulatory mechanism, and [the placenta ha
 - Correlation to some cardiovasuclar and cancer pathway genes  
 - Pilot analysis showed that there indeed are microRNAs differentially-expressed by trimester  
 
+<br> 
 
-`Communication`:   
+`Communication:`   
 
 [Project Overview](https://drive.google.com/file/d/1OL7ODzJILB5Q56cb9N2DDmLlxZmwdvTz/view?usp=sharing)  
+[European Society of Human Genetics (ESHG) 2023 Conference Talk](https://2023.eshg.org/)  
 [BCCHR: Healthy Starts Research Day 2021 - Poster](https://drive.google.com/file/d/1K4JreNCGIXvbKClrT0TwzAF8Sf3B23Yh/view?usp=sharing)  
 UBC Department of Medical Genetics Research Day (2020,2021)  
 EMBO–EMBL Symposium: The Non-Coding Genome  
@@ -208,9 +210,9 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 **I was recruited as a Bioinformatician for this exploratory project to analyze their RNA-seq data, for which I was given second-authorship on the respective manuscript** 
 
-`Data/Software`: mRNA-seq / R, GSEA    
+`Data/Software:` mRNA-seq / R, GSEA    
 
-`Project Impact`:  
+`Project Impact:`  
 
 - [Second-author publication in Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8)
 
@@ -220,9 +222,9 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 **Role of NF activated T-cells in the Pathogenesis of Coxsackievirus-induced Myocarditis**    
 
-*In progress*  
+*In progress: Manuscript writing*    
 
-`Data/Software`: murine mRNA-seq / R, GSEA  
+`Data/Software:` murine mRNA-seq / R, GSEA  
 
 
 ***  
@@ -231,12 +233,24 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 **Telmisartan treated tumours show an improved response to radiaition therapy**    
 
-*In progress*  
+*In progress: Follow-up validation experiments of in-silico results*  
 
-`Data/Software`: human + murine single-cell RNA-seq / R
+`Data/Software:` human + murine single-cell RNA-seq / R
 
 
 ***  
+
+##### 4. Djavad Mowafaghian Centre for Brain Health / [The Yu Tian Wang Lab](https://www.centreforbrainhealth.ca/faculty/yu-tian-wang/)  
+
+**Notch1 signaling plays an essential role in metabolic rewiring in docetaxel resistance prostate cancer**    
+
+*In progress: Manuscript writing*  
+
+`Data/Software:` human mRNA-seq / R
+
+
+*** 
+
 
 ### Master's Project  
 
