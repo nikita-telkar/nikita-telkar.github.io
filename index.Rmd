@@ -16,16 +16,17 @@ output:
 
 ```{r loadings, echo=FALSE, include=FALSE, message=FALSE, error=FALSE, warning=FALSE}
 
-remotes::install_github("mitchelloharawild/icons")
-install.packages("fontawesome")
+# remotes::install_github("mitchelloharawild/icons")
+# install.packages("fontawesome")
 
-library(knitr)
-library(rmarkdown)
-library(here)
-library(icons)
-library(fontawesome)
+# library(knitr)
+# library(rmarkdown)
+# library(here)
+# library(icons)
+# library(fontawesome)
+# library(shiny)
 
-render_site()
+# render_site()
 
 ```
 

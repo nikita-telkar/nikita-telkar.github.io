@@ -180,7 +180,7 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
 
 View my [latest Academic CV](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Telkar_Nikita_Academic_CV.pdf)  
 
-Last updated: August 2023
+Last updated: December 2023
 
 <br>  
 
@@ -204,7 +204,7 @@ Last updated: August 2023
 
 #### **Skills**  
 
-`Research Background:` Genomics and bioinformatics - cardiovascular genetics, developmental/embryonic genetics, epidemiology, lung and liver cancer, RNA, biostatistics  
+`Research Background:` Genomics and bioinformatics - developmental/embryonic genetics, cardiovascular genetics, epidemiology, lung and liver cancer, RNA, biostatistics  
 
 `Programming:` R/RMarkdown/R Shiny, Linux/BASH, HPC, Git/GitHub, Jupyter
 
@@ -266,7 +266,7 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 6. Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. [Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma](https://www.frontiersin.org/article/10.3389/fgene.2022.910221). 2022. Frontiers in Genetics; 13.  
 
-7. Forder A, Stewart GL, Telkar N, Lam WL, Garnis C. [New insights into the tumour immune microenvironment of nasopharyngeal cacinoma.](https://doi.org/10.1016/j.crimmu.2022.08.009). 2022. Current Research in Immunology; 3: 222–227.   
+7. Forder A, Stewart GL, **Telkar N**, Lam WL, Garnis C. [New insights into the tumour immune microenvironment of nasopharyngeal cacinoma.](https://doi.org/10.1016/j.crimmu.2022.08.009). 2022. Current Research in Immunology; 3: 222–227.   
 
 8. Forder A, Zhuang R, Souza VGP, Brockley LJ, Pewarchuk ME, **Telkar N**, Stewart GL, Benard K, Marshall EA, Reis PP, Lam WL (2023). Mechanisms Contributing to the Comorbidity of COPD and Lung Cancer. International Journal of Molecular Sciences; 24(3):2859  
   
@@ -274,15 +274,17 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
   
 10. Souza VGP, Forder A, Brockley LJ, Pewarchuk ME, **Telkar N**, de Araújo RP, Trejo J, Benard KH, Seneda AL, Minutentag IW, Erkan M, Stewart GL, Hasimoto EN, Garnis C, Lam WL, Martinez VD, Reis PP (2023). Liquid Biopsy in Lung Cancer: Biomarkers for the Management of Recurrence and Metastasis. International Journal of Molecular Sciences; 24(10):8894  
 
-11. *Submitted - Souza VGP, Forder A, **Telkar N**, Stewart GL, RF Carvalho, Mur LAJ, Lam WL, Reis PP (2023). Identifying New Contributors to Brain Metastasis in Lung Adenocarcinoma: A Transcriptomic Meta-Analysis.*    
-   
-12. *Submitted - Zhao G, Zhang HM, Nasseri AR, Yip F, **Telkar N**, Chen YT, Aghakeshmiri S, Küper C, Zhao J, Lam WL, Yang W, McManus BM, Yang D (2022). Conditional Heart-specific NFAT5 Knockout Suppresses Type I Interferon Signaling and Aggravates Coxsackievirus B3-induced Myocarditis.*  
-
+11. Souza VGP, Forder A, **Telkar N**, Stewart GL, RF Carvalho, Mur LAJ, Lam WL, Reis PP (2023). [Identifying New Contributors to Brain Metastasis in Lung Adenocarcinoma: A Transcriptomic Meta-Analysis.](https://www.mdpi.com/2072-6694/15/18/4526). Cancers 2023, 15(18), 4526  
   
-
+12. Souza VGP, Forder A,  Pewarchuk ME, **Telkar N**, , RF Carvalho, de Araújo RP, Stewart GL, Vieira J, Reis PP, Lam WL (2023). [The Complex Role of the Microbiome in Non-Small Cell Lung Cancer Development and Progression.](https://www.mdpi.com/2073-4409/12/24/2801) Cells 2023, 12(24), 2801    
+   
+13. *Submitted - Zhao G, Zhang HM, Nasseri AR, Yip F, **Telkar N**, Chen YT, Aghakeshmiri S, Küper C, Zhao J, Lam WL, Yang W, McManus BM, Yang D (2024). Conditional Heart-specific NFAT5 Knockout Suppresses Type I Interferon Signaling and Aggravates Coxsackievirus B3-induced Myocarditis.*  
+  
+14. *Submitted - Rolf N, Liu LYT, Leclair P, Lorentzian AC, Atre T, Farrokhi A, **Telkar N**, Casazza W, Vercauteren SM, Lange PF, Maxwell CA, Lim CJ, Reid GSD (2024). Immunophenotype shifts during childhood acute lymphoblastic leukemia (ALL) relapse progression result from changing abundance levels of phenotypically distinct subpopulations*  
+  
 `Communication:`  
 
-- Selected Presentation within Session: New Technologies in Cancer Genetics at the [European Society of Human Genetics (ESHG) 2023 Conference](https://2023.eshg.org/)  
+- Selected Presentation within 'New Technologies in Cancer Genetics' at the [European Society of Human Genetics (ESHG) 2023 Conference](https://2023.eshg.org/)  
 
 - University of Toronto Health Network (UHN) Seminar Series - Invited   
 
@@ -391,8 +393,24 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 <br> 
 
+#####  **Founding Member**     
+[Nucleate: Canada Chapter](https://nucleate.xyz/), Canada (October 2023 - )  
+
+* Recruited for establishing the pan-Canadian chapter of this trainee-run, non-profit biotech organisation along with 5 other team members 
+* First founding member of the Vancouver team  
+
+<br> 
+
+#####  **Investment Associate**     
+[Front Row Ventures](https://frontrow.ventures/), British Columbia, Canada (October 2023 - )  
+
+* Canada’s leading student-founder focused VC firm with a presence on 20+ university campuses across Canada  
+* Deal sourcing within the BC student-startup ecosystem and extensive due diligence to bring ventures till final-decision Investment Committee meetings  
+
+<br> 
+
 #####  **Biomedical Data Analyst**     
-[BenchSci](https://www.benchsci.com/), Toronto, Canada (April 2022 - )  
+[BenchSci](https://www.benchsci.com/), Toronto, Canada (April 2022 - October 2023)  
 
 * Labelling biomedical data for the platform’s ML training model (>100k labels till date)  
 * Annotating scientific publication figures for image to text (vision) training  
