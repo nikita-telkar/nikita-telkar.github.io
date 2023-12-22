@@ -250,9 +250,26 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 `Data/Software:` human + murine single-cell RNA-seq / R
 
 
+
 ***  
 
-##### 4. Djavad Mowafaghian Centre for Brain Health / [The Yu Tian Wang Lab](https://www.centreforbrainhealth.ca/faculty/yu-tian-wang/)  
+
+##### 4. BC Children's Hospital Research Institute / [The Gregor Reid Lab](https://bcchr.ca/greid)  
+
+**Investigating the dynamic immunophenotypic cell population changes during childhood acute lymphoblastic leukemia (ALL) relapse**  
+
+**I trained the first-author physician-scientist in R Programming, which was used to generate all the comparitive plots in the article** 
+
+<br>
+
+*In progress: Manuscript writing*  
+
+`Data/Software:` human mRNA-seq / R
+
+
+*** 
+
+##### 5. Djavad Mowafaghian Centre for Brain Health / [The Yu Tian Wang Lab](https://www.centreforbrainhealth.ca/faculty/yu-tian-wang/)  
 
 **Notch1 signaling plays an essential role in metabolic rewiring in docetaxel resistance prostate cancer**    
 
