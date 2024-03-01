@@ -226,7 +226,21 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 ***  
 
-##### 2. Centre for Heart Lung Innovation: St. Paul's Hospital / [The Decheng Yang Lab](https://www.hli.ubc.ca/researchers/decheng-yang/)  
+##### 2. BC Children's Hospital Research Institute / [The Gregor Reid Lab](https://bcchr.ca/greid)  
+
+**Investigating the dynamic immunophenotypic cell population changes during childhood acute lymphoblastic leukemia (ALL) relapse**  
+
+**I trained the first-author physician-scientist in R Programming, which was used to generate all the comparitive plots in the article** 
+
+<br>
+
+`Data/Software:` human mRNA-seq / R  
+
+`Project Impact:` *Manuscript submitted to Nature Cancer*    
+
+*** 
+
+##### 3. Centre for Heart Lung Innovation: St. Paul's Hospital / [The Decheng Yang Lab](https://www.hli.ubc.ca/researchers/decheng-yang/)  
 
 **Role of NF activated T-cells in the Pathogenesis of Coxsackievirus-induced Myocarditis**    
 
@@ -239,7 +253,7 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 ***  
 
-##### 3. BC Cancer Research Centre / [The Kevin Bennewith Lab](https://www.bccrc.ca/dept/io/people/kevin-bennewith)  
+##### 4. BC Cancer Research Centre / [The Kevin Bennewith Lab](https://www.bccrc.ca/dept/io/people/kevin-bennewith)  
 
 **Telmisartan treated tumours show an improved response to radiaition therapy**    
 
@@ -252,22 +266,6 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 
 ***  
-
-
-##### 4. BC Children's Hospital Research Institute / [The Gregor Reid Lab](https://bcchr.ca/greid)  
-
-**Investigating the dynamic immunophenotypic cell population changes during childhood acute lymphoblastic leukemia (ALL) relapse**  
-
-**I trained the first-author physician-scientist in R Programming, which was used to generate all the comparitive plots in the article** 
-
-<br>
-
-*In progress: Manuscript writing*  
-
-`Data/Software:` human mRNA-seq / R
-
-
-*** 
 
 ##### 5. Djavad Mowafaghian Centre for Brain Health / [The Yu Tian Wang Lab](https://www.centreforbrainhealth.ca/faculty/yu-tian-wang/)  
 

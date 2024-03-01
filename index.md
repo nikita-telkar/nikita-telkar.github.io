@@ -180,7 +180,7 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
 
 View my [latest Academic CV](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Telkar_Nikita_Academic_CV.pdf)  
 
-Last updated: December 2023
+Last updated: March 2024  
 
 <br>  
 
@@ -188,7 +188,7 @@ Last updated: December 2023
 
 ::: {}
 
-<img src="static/NT_Profile_round.png" width="90%" />
+<img src="static/NT_Profile_round_2024.png" width="90%" />
 
 :::
 
@@ -276,12 +276,17 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 11. Souza VGP, Forder A, **Telkar N**, Stewart GL, RF Carvalho, Mur LAJ, Lam WL, Reis PP (2023). [Identifying New Contributors to Brain Metastasis in Lung Adenocarcinoma: A Transcriptomic Meta-Analysis.](https://www.mdpi.com/2072-6694/15/18/4526). Cancers 2023, 15(18), 4526  
   
-12. Souza VGP, Forder A,  Pewarchuk ME, **Telkar N**, , RF Carvalho, de Araújo RP, Stewart GL, Vieira J, Reis PP, Lam WL (2023). [The Complex Role of the Microbiome in Non-Small Cell Lung Cancer Development and Progression.](https://www.mdpi.com/2073-4409/12/24/2801) Cells 2023, 12(24), 2801    
-   
-13. *Submitted - Zhao G, Zhang HM, Nasseri AR, Yip F, **Telkar N**, Chen YT, Aghakeshmiri S, Küper C, Zhao J, Lam WL, Yang W, McManus BM, Yang D (2024). Conditional Heart-specific NFAT5 Knockout Suppresses Type I Interferon Signaling and Aggravates Coxsackievirus B3-induced Myocarditis.*  
-  
-14. *Submitted - Rolf N, Liu LYT, Leclair P, Lorentzian AC, Atre T, Farrokhi A, **Telkar N**, Casazza W, Vercauteren SM, Lange PF, Maxwell CA, Lim CJ, Reid GSD (2024). Immunophenotype shifts during childhood acute lymphoblastic leukemia (ALL) relapse progression result from changing abundance levels of phenotypically distinct subpopulations*  
-  
+12. Souza VGP, Forder A,  Pewarchuk ME, **Telkar N**, , RF Carvalho, de Araújo RP, Stewart GL, Vieira J, Reis PP, Lam WL (2023). [The Complex Role of the Microbiome in Non-Small Cell Lung Cancer Development and Progression.](https://www.mdpi.com/2073-4409/12/24/2801) Cells 2023, 12(24), 2801  
+
+13. *In-revisions* - Souza VGP, **Telkar N**, Lam WL, Reis PP. Comprehensive Analysis of Lung Adenocarcinoma and Brain Metastasis through Integrated Single-Cell Transcriptomics  
+
+14. *Submitted* - Rolf N, Liu LYT, Leclair P, Lorentzian AC, Atre T, Farrokhi A, **Telkar N**, Casazza W, Vercauteren SM, Lange PF, Maxwell CA, Lim CJ, Reid GSD (2024). Immunophenotype shifts during childhood acute lymphoblastic leukemia (ALL) relapse progression result from changing abundance levels of phenotypically distinct subpopulations 
+
+15. *Submitted* - **Telkar N**, Stewart GL, Minatel BC, Cohn DE, Benard K, Souza VGP, Pewarchuk ME, Martinez VD, Reis PP, Robinson WP, Lam WL. Reactivation of human fetal microRNAs in liver cancer  
+
+16. *Submitted* - **Telkar N**, Hui D, Peñaherrera MS, Yuan V, Martinez VD, Stewart GL, Beristain AG, Lam WL, Robinson WP. Profiling the cell-specific small non-coding RNA transcriptome of the human placenta  
+
+
 `Communication:`  
 
 - Selected Presentation within 'New Technologies in Cancer Genetics' at the [European Society of Human Genetics (ESHG) 2023 Conference](https://2023.eshg.org/)  
@@ -393,11 +398,19 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 <br> 
 
-#####  **Founding Member**     
+#####  **Fellow: Scientific Lead - MedTech**     
+[Nucleate Genesis](https://nucleate.xyz/genesis), Canada (October 2023 - )  
+
+* Part of the final 18 cohort, working within a cross-continent team of three (UPenn, Georgia Tech) to build a pseudo MedTech venture  
+* 12-week intensive and hands-on curriculum including venture ideation, IP, derisking, product-market fit culminating in a pitch competition     
+
+<br> 
+
+#####  **Founding Member / Vancouver Lead**     
 [Nucleate: Canada Chapter](https://nucleate.xyz/), Canada (October 2023 - )  
 
-* Recruited for establishing the pan-Canadian chapter of this trainee-run, non-profit biotech organisation along with 5 other team members 
-* First founding member of the Vancouver team  
+* Recruited for establishing this trainee-run, non-profit biotech organisation [pan-Canada](https://www.linkedin.com/company/nucleate-canada/): Strategizing Nucleate programming that will best suit graduates within the Canadian ecosystem, fostering partnerships with life sciences firms in Canada, securing sponsorships and advisors  
+* Locally in Vancouver: Sourcing university-based and professional champions for the Chapter, partnering with university tech transfer and innovation offices, team recruitment, and program planning  
 
 <br> 
 
