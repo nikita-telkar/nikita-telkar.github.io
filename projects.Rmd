@@ -171,38 +171,32 @@ a.navbar-brand:hover {
 
 **Characterizing small non-coding RNAs in the human placenta**  
 
-The human placenta is the indispensible organ necessary for all water, nutrient, gas, and waste exchange between the mother and fetus; as such gene expression is tightly regulated. Gene regulation is carried out a number of mechanisms, and gene repression by small non-coding RNAs (sncRNAs) is one of these processes. [Exclusive placentally-expressed sncRNA loci in the placenta have been identified](https://10.1016/j.ajog.2015.07.046), however, studies have routinely focused on only one species of sncRNA (microRNAs).
+The human placenta is indispensible for the growth of the fetus and for the healthy progression of pregnancy. It serves as the interface between the mother and baby for all water, nutrient, gas, and waste exchange; as such regulation of gene expression is tightly regulated at every stage. Gene regulation is carried out by a number of factors, and expression modulation by small non-coding RNAs (sncRNAs) is one such regulatory mechanism.  [Exclusive placentally-expressed sncRNA loci in the placenta have been identified](https://10.1016/j.ajog.2015.07.046), however, studies have routinely focused on only one species of sncRNA (microRNAs), largely due to sample availability.
 
 **My project aims at**:  
 
-1. Characterizing the sncRNA species that are present in the human placenta and 4 placental cell types (trophoblasts, endothelial cells, stromal cells, HofBauer cells)   
-2. Investigating novel sncRNA species  
-3. Cataloguing the ones that differ in expression by different variables (like trimester of the pregnancy, sex of the fetus, ancestry, depression and anti-depressant status of the mother, and a few others).  
+1. Characterizing human placental sncRNA species in whole tissue and 4 placental cell types (cytotrophoblasts, endothelial cells, stromal cells, HofBauer cells)   
+2. Investigating novel placental sncRNAs    
+3. Assessing biological (cell type, trimester, sex of the fetus, ancestry, depression and anti-depressant status of the mother, stress) and technical variables (method of extraction and various sequencing metrics) driving expression    
+4. Testing association between sample-matched DNA methyaltion and sncRNA expression  
+5. Examining shared expression characteristics between placenetal development and cancer  
 
-DNA methylation is another epigenetic regulatory mechanism, and [the placenta has been recognized for its unique epigenetic landscape](https://10.1101/cshperspect.a023044). The sncRNA expression data observed will be integrated with sample-matched DNAm data to investigate whether any correlation in expression exists between the two gene regulation mechansisms. [The placental gene expression profile also resembles that of cancer](https://10.1098/rsob.180081), and the top sncRNAs of interest will be examined for their connection to cancer progression.     
+`Data:` low-input small-RNA-seq, DNA methylation  
+`Software:` R, GSEA, pathway enrichment  
+`Code:` 
 
-`Software:` R Programming. Some of my code is available on my [GitHub](https://github.com/nikita-telkar/Projects).    
+- [R Shiny app](https://robinsonlab.shinyapps.io/Placental_miRNome_Expression_Database/) (to be updated once manuscript is published)    
+- [Raw sequence to expression counts walkthrough](https://github.com/nikita-telkar/Projects/blob/master/RNA-seq%20-%20FASTQ%20to%20Expression%20Counts/FASTQ_to_Read_Counts.md)  
+- [Pilot Project](https://github.com/nikita-telkar/Projects/blob/master/sncRNA%20in%20the%20Human%20Placenta%20(Pilot)/Pilot_script_full.md)  
+- [Preliminary sncRNA QC](https://github.com/nikita-telkar/Projects/tree/master/Differential%20Input%20RNA%20Concentration%20Analysis)  
+- [Preliminary sncRNA-DNAme correlation](https://github.com/nikita-telkar/Projects/tree/master/sncRNA-DNA%20Methylation%20Association)  
 
-`Project Impact:`     
+`Project Impact:`  
+  
+- Selected Talk, New Technologies for Cancer Research - [European Society of Human Genetics (ESHG) 2023](https://2023.eshg.org/)  
+- Selected New Investigator Talk - [International Federation of Placenta Associations (IFPA)](https://www.ifpa.epineux.com/meetings) (the biggest international conference on placental biology) 2024 conference  
+- [Poster](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/static/DoHAD_2022_NT.pdf) Example: Developmental Origins of Health and Disease (DOHaD) 2022 Conference  
 
-- Self-taught R, RMarkdown, and RNA-seq data analysis  
-  - quality control, normalization, PCA, linear modeling, DNAm correlation, gene/pathway enrichment 
-- First instance of large-scale trancriptomic sequencing of the human placenta.  
-- Establishment of the normative placental transcriptomic profile by several inherent biological variables, and extrinsic technical and environmental variables.   
-- Correlation to some cardiovasuclar and cancer pathway genes  
-- Pilot analysis showed that there indeed are microRNAs differentially-expressed by trimester  
-
-<br> 
-
-`Communication:`   
-
-[Project Overview](https://drive.google.com/file/d/1OL7ODzJILB5Q56cb9N2DDmLlxZmwdvTz/view?usp=sharing)  
-[European Society of Human Genetics (ESHG) 2023 Conference Talk](https://2023.eshg.org/)  
-[BCCHR: Healthy Starts Research Day 2021 - Poster](https://drive.google.com/file/d/1K4JreNCGIXvbKClrT0TwzAF8Sf3B23Yh/view?usp=sharing)  
-UBC Department of Medical Genetics Research Day (2020,2021)  
-EMBO–EMBL Symposium: The Non-Coding Genome  
-International Federation of Placental Research (IFPA) 2021  
-University of Toronto Health Network (UHN) Seminar Series - Invited  
 
 ***  
 
@@ -218,7 +212,11 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 **I was recruited as a Bioinformatician for this exploratory project to analyze their RNA-seq data, for which I was given second-authorship on the respective manuscript** 
 
-`Data/Software:` mRNA-seq / R, GSEA    
+`Data:` Human and murine RNA-seq 
+`Software:` R, GSEA    
+`Code:`  
+- [Geneset enrichment analysis](https://github.com/nikita-telkar/Projects/tree/master/GSEA%20of%20Human%20Colonic%20Organoids)  
+- [GEO accession](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178698)  
 
 `Project Impact:`  
 
@@ -232,28 +230,14 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 **I trained the first-author physician-scientist in R Programming, which was used to generate all the comparitive plots in the article** 
 
-<br>
-
-`Data/Software:` human mRNA-seq / R  
+`Data:` Human RNA-seq  
+`Software:` R  
 
 `Project Impact:` *Manuscript submitted to Nature Cancer*    
 
 *** 
 
-##### 3. Centre for Heart Lung Innovation: St. Paul's Hospital / [The Decheng Yang Lab](https://www.hli.ubc.ca/researchers/decheng-yang/)  
-
-**Role of NF activated T-cells in the Pathogenesis of Coxsackievirus-induced Myocarditis**    
-
-<br>
-
-*In progress: Manuscript writing*    
-
-`Data/Software:` murine mRNA-seq / R, GSEA  
-
-
-***  
-
-##### 4. BC Cancer Research Centre / [The Kevin Bennewith Lab](https://www.bccrc.ca/dept/io/people/kevin-bennewith)  
+##### 3. BC Cancer Research Centre / [The Kevin Bennewith Lab](https://www.bccrc.ca/dept/io/people/kevin-bennewith)  
 
 **Telmisartan treated tumours show an improved response to radiaition therapy**    
 
@@ -261,9 +245,19 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 *In progress: Follow-up validation experiments of in-silico results*  
 
-`Data/Software:` human + murine single-cell RNA-seq / R
+`Data:` Human + murine single-cell RNA-seq  
+`Software:` R  
 
+***  
 
+##### 4. Centre for Heart Lung Innovation: St. Paul's Hospital / [The Decheng Yang Lab](https://www.hli.ubc.ca/researchers/decheng-yang/)  
+
+**Role of NF activated T-cells in the Pathogenesis of Coxsackievirus-induced Myocarditis**    
+
+*In progress: Manuscript writing*    
+
+`Data:` Murine RNA-seq  
+`Software:` R  
 
 ***  
 
@@ -275,8 +269,8 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 
 *In progress: Manuscript writing*  
 
-`Data/Software:` human mRNA-seq / R
-
+`Data:` Human RNA-seq  
+`Software:` R  
 
 *** 
 
@@ -292,6 +286,7 @@ The majority of Genome-wide Association Studies, even now, focus on Caucasian, E
 
 **I collected GWAS summary statistics of three lipid (cholesterol) biomarkers from seven different populations (British, two Greek isolates, Chinese, Japanese, East Asian, Ugandan) calculated the Polygeneic Risk Scores (PRSs) of each individual using the commonly overlapping lipid SNPs to assess if these scores varied across the  populations. The heritability as well as trans-ancestral correlation was also calculated. The measured blood lipid biomarker levels were then examined across the genetic scores, to investigate the correlation between the blood lipid levels of one biomarker against the genetic score of another (biomarker-score cross association).**  
 
+`Data:` Human SNP (GWAS)  
 `Software`: UNIX, command-line R, PLINK, GEMMA, Popcorn   
 
 `Results`:  
@@ -303,16 +298,14 @@ The majority of Genome-wide Association Studies, even now, focus on Caucasian, E
 
 `Project Impact`:  
 
-- Opportunity to work as as a Visiting Scientist at the [Wellcome Sanger Institute](https://www.sanger.ac.uk/)  
 - Second-author publication in [Nature Communications](https://doi.org/10.1038/s41467-019-12026-7)  
 - PRSs available on EMBL-EBI’s [PGS Catalog](http://www.pgscatalog.org/publication/PGP000046/)  
-- First comparison study of its kind: Lipid phenotype (lipid blood levels) was found to be associated with lipid genotype (PRS)   
+- Opportunity to work as as a Visiting Scientist at the [Wellcome Sanger Institute](https://www.sanger.ac.uk/)  
 
 ***  
 
 ### Undergraduate Summer Research
 
-<br>
 
 **Using WNT5A Expression to Characterize Development in the Human Gut**      
 
@@ -320,14 +313,13 @@ The [WNT genes](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2001
 
 **Using immunohistochemistry, I measured the presence of the WNT5A protein the human embryonic gut at [Carnegie Stage 20 (~50 days post conception)](https://embryology.med.unsw.edu.au/embryology/index.php/Carnegie_stage_20).**  
 
-<br>  
 
 `Project Impact`:  
 
-- Received the UK-wide competitive [Genetics Society Summer Studentship Award](https://genetics.org.uk/grants/summer-studentships/) 2016.  
-- Trained in MAPaint and Amira software on Linux, which involved transferring the wet-lab protein expression results into a computer-based 3D model.  
+- Received the UK-wide competitive [Genetics Society Summer Studentship Award](https://genetics.org.uk/grants/summer-studentships/) 2016   
+- Trained in MAPaint and Amira software on Linux, which involved transferring the wet-lab protein expression results into a computer-based 3D model   
 - Expression data and results of the project  uploaded to the NIH-funded HuDSeN database under the [Human Developmental Biology Resource (HDBR)](http://hdbratlas.org/organ-systems/gi-tract/gi-models.html).  
-- [Attended the Genetics Society Summer Workshop](https://genetics.org.uk/wp-content/uploads/2017/11/15027387_10211122879777688_5581119349267154163_n.jpg) to present my research and the report of the same was selected to be published in the [Genetics Society January 2017 Newsletter](https://genetics.org.uk/wp-content/uploads/2017/09/Issue-76-_-January-2017.pdf).  
+- [Attended the Genetics Society Summer Workshop](https://genetics.org.uk/wp-content/uploads/2017/11/15027387_10211122879777688_5581119349267154163_n.jpg) to present my research and the report of the same was selected to be published in the [Genetics Society January 2017 Newsletter](https://genetics.org.uk/wp-content/uploads/2017/09/Issue-76-_-January-2017.pdf)  
 - [Research poster](https://drive.google.com/file/d/1jmUJNHydDgV3-tvmsTmlrqDHbtkCfDcq/view?usp=sharing
 ) won awards at two separate [University competitions](https://research.ncl.ac.uk/expeditionresearchscholarships/prizewinners/2016winners/).  
 
