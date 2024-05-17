@@ -151,7 +151,7 @@ a.navbar-brand:hover {
 }
 </style>
 
-[View my Academic CV here!](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Telkar_Nikita_Academic_CV.pdf)  
+[View my exhaustive Academic CV here!](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Telkar_Nikita_Academic_CV.pdf)  
 
 Last updated: May 2023  
 
