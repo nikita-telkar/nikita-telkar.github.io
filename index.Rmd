@@ -294,9 +294,9 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 11. Souza VGP, Forder A, **Telkar N**, Stewart GL, RF Carvalho, Mur LAJ, Lam WL, Reis PP (2023). [Identifying New Contributors to Brain Metastasis in Lung Adenocarcinoma: A Transcriptomic Meta-Analysis.](https://www.mdpi.com/2072-6694/15/18/4526). Cancers 2023, 15(18), 4526  
   
-12. Souza VGP, Forder A,  Pewarchuk ME, **Telkar N**, , RF Carvalho, de Araújo RP, Stewart GL, Vieira J, Reis PP, Lam WL (2023). [The Complex Role of the Microbiome in Non-Small Cell Lung Cancer Development and Progression.](https://www.mdpi.com/2073-4409/12/24/2801) Cells 2023, 12(24), 2801  
+12. Souza VGP, Forder A,  Pewarchuk ME, **Telkar N**, RF Carvalho, de Araújo RP, Stewart GL, Vieira J, Reis PP, Lam WL (2023). [The Complex Role of the Microbiome in Non-Small Cell Lung Cancer Development and Progression.](https://www.mdpi.com/2073-4409/12/24/2801) Cells 2023, 12(24), 2801  
 
-13. *In-revisions* - Souza VGP, **Telkar N**, Lam WL, Reis PP. Comprehensive Analysis of Lung Adenocarcinoma and Brain Metastasis through Integrated Single-Cell Transcriptomics  
+13. Souza VGP, **Telkar N**, Lam WL, Reis PP. [Comprehensive Analysis of Lung Adenocarcinoma and Brain Metastasis through Integrated Single-Cell Transcriptomics.](https://www.mdpi.com/1422-0067/25/7/3779) International Journal of Molecular Sciences; 25(7), 3779  
 
 14. *Submitted* - Rolf N, Liu LYT, Leclair P, Lorentzian AC, Atre T, Farrokhi A, **Telkar N**, Casazza W, Vercauteren SM, Lange PF, Maxwell CA, Lim CJ, Reid GSD (2024). Immunophenotype shifts during childhood acute lymphoblastic leukemia (ALL) relapse progression result from changing abundance levels of phenotypically distinct subpopulations 
 
@@ -417,17 +417,17 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 <br> 
 
 #####  **Fellow: Scientific Lead - MedTech**     
-[Nucleate Genesis](https://nucleate.xyz/genesis), Canada (October 2023 - )  
+[Nucleate Genesis](https://nucleate.xyz/genesis), Canada (February - May 2024)  
 
-* Part of the final 18 cohort, working within a cross-continent team of three (UPenn, Georgia Tech) to build a pseudo MedTech venture  
-* 12-week intensive and hands-on curriculum including venture ideation, IP, derisking, product-market fit culminating in a pitch competition     
+* 12-week intensive and hands-on curriculum including venture ideation, IP, derisking, product-market fit culminating in a pitch competition  
+* Developed and pitched an assay for early-cancer detection as part of a cross-continent team of three (UPenn, Georgia Tech)   
 
 <br> 
 
-#####  **Founding Member / Vancouver Lead**     
-[Nucleate: Canada Chapter](https://nucleate.xyz/), Canada (October 2023 - )  
+#####  **British Columbia Regional Director / Canada Chapter Founding Leadership**     
+[Nucleate: Canada Chapter](https://nucleate.xyz/), Canada (November 2023 - )  
 
-* Recruited for establishing this trainee-run, non-profit biotech organisation [pan-Canada](https://www.linkedin.com/company/nucleate-canada/): Strategizing Nucleate programming that will best suit graduates within the Canadian ecosystem, fostering partnerships with life sciences firms in Canada, securing sponsorships and advisors  
+* Recruited for establishing this trainee-run, non-profit biotech organisation [pan-Canada](https://www.linkedin.com/company/nucleate-canada/): Strategizing Nucleate programming that will best suit graduates within the Canadian ecosystem, fostering partnerships with life sciences firms in Canada, securing sponsorships and advisor  
 * Locally in Vancouver: Sourcing university-based and professional champions for the Chapter, partnering with university tech transfer and innovation offices, team recruitment, and program planning  
 
 <br> 
