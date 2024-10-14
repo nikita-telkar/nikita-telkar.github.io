@@ -184,9 +184,9 @@ The human placenta is indispensible for the growth of the fetus and for the heal
 - [Preliminary sncRNA-DNAme correlation](https://github.com/nikita-telkar/Projects/tree/master/sncRNA-DNA%20Methylation%20Association)  
 
 `Project Impact:`  
-  
-- Selected Talk, New Technologies for Cancer Research - [European Society of Human Genetics (ESHG) 2023](https://2023.eshg.org/)  
+
 - Selected New Investigator Talk - [International Federation of Placenta Associations (IFPA)](https://www.ifpa.epineux.com/meetings) (the biggest international conference on placental biology) 2024 conference  
+- Selected Talk, New Technologies for Cancer Research - [European Society of Human Genetics (ESHG) 2023](https://2023.eshg.org/)  
 - [Poster](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/static/DoHAD_2022_NT.pdf) Example: Developmental Origins of Health and Disease (DOHaD) 2022 Conference  
 
 
@@ -198,11 +198,12 @@ The human placenta is indispensible for the growth of the fetus and for the heal
 
 ##### 1. BC Children's Hospital Research Institute / [The Ted Steiner Lab](https://www.bcchr.ca/tsteiner)  
 
-**An IBD-mimic human colonoid chronic-injury model**     
+**Project: An IBD-mimic human colonoid chronic-injury model**     
 
 Intestinal cells undergo regeneration after acute injury. However, the feasibility and capacity of these cells to undergo repeated renewal and regeneration on chronic injury is still not well understood. Using intestinal epithelial cells collected from 2 human  patients, colonoid organoids were generated in the lab and were further subjected to rounds of induced damage, inflammation and rescue to observe the renewal mechanisms of these cells  
 
-**I was recruited as a Bioinformatician for this exploratory project to analyze their RNA-seq data, for which I was given second-authorship on the respective manuscript** 
+*I was recruited as a Bioinformatician for this exploratory project to analyze their RNA-seq data, for which I was given second-authorship on the respective manuscript*
+
 
 `Data:` Human and murine RNA-seq 
 `Software:` R, GSEA    
@@ -210,45 +211,46 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 - [Geneset enrichment analysis](https://github.com/nikita-telkar/Projects/tree/master/GSEA%20of%20Human%20Colonic%20Organoids)  
 - [GEO accession](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178698)  
 
-`Project Impact:`  
-
-- [Second-author publication in Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8)
+`Publication:` [Second-author in Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8)
 
 ***  
 
-##### 2. BC Children's Hospital Research Institute / [The Gregor Reid Lab](https://bcchr.ca/greid)  
+##### 2. Centre for Heart Lung Innovation: St. Paul's Hospital / [The Decheng Yang Lab](https://www.hli.ubc.ca/researchers/decheng-yang/)  
 
-**Investigating the dynamic immunophenotypic cell population changes during childhood acute lymphoblastic leukemia (ALL) relapse**  
+**Project: Role of NFAT5 in the pathogenesis of coxsackievirus-induced myocarditis**    
 
-**I trained the first-author physician-scientist in R Programming, which was used to generate all the comparitive plots in the article** 
+*I was recruited to analyse their bioinformatics data in the POC study, which also availed me to undertake a project related to the scientific area which intersts me the most - cardiovasuclar disease* 
+
+`Data:` Murine RNA-seq  
+`Software:` R  
+
+`Publication:` [Basic Research in Cardiology](https://link.springer.com/article/10.1007/s00395-024-01058-w)  
+
+*** 
+
+##### 3. BC Children's Hospital Research Institute / [The Gregor Reid Lab](https://bcchr.ca/greid)  
+
+**Project: Investigating the dynamic immunophenotypic cell population changes during childhood acute lymphoblastic leukemia (ALL) relapse**  
+
+*I trained the first-author physician-scientist in R Programming* 
 
 `Data:` Human RNA-seq  
 `Software:` R  
 
-`Project Impact:` *Manuscript submitted to Nature Cancer*    
+`Publication:` Manuscript submitted to Nature Cancer    
 
-*** 
 
-##### 3. BC Cancer Research Centre / [The Kevin Bennewith Lab](https://www.bccrc.ca/dept/io/people/kevin-bennewith)  
+***  
 
-**Telmisartan treated tumours show an improved response to radiaition therapy**    
+##### 4. BC Cancer Research Centre / [The Kevin Bennewith Lab](https://www.bccrc.ca/dept/io/people/kevin-bennewith)  
+
+**Project: Telmisartan treated tumours show an improved response to radiaition therapy**    
 
 <br>
 
 *In progress: Follow-up validation experiments of in-silico results*  
 
 `Data:` Human + murine single-cell RNA-seq  
-`Software:` R  
-
-***  
-
-##### 4. Centre for Heart Lung Innovation: St. Paul's Hospital / [The Decheng Yang Lab](https://www.hli.ubc.ca/researchers/decheng-yang/)  
-
-**Role of NF activated T-cells in the Pathogenesis of Coxsackievirus-induced Myocarditis**    
-
-*In progress: Manuscript writing*    
-
-`Data:` Murine RNA-seq  
 `Software:` R  
 
 ***  

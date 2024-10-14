@@ -180,7 +180,7 @@ I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also ma
 
 View my [latest Academic CV](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Telkar_Nikita_Academic_CV.pdf)  
 
-Last updated: March 2024  
+Last updated: October 2024  
 
 <br>  
 
@@ -196,7 +196,7 @@ Last updated: March 2024
 
 `Latest Highlights:`    
   
-- Selected Talk (1/174 presenters of >2500 submissions) - [European Society of Human Genetics (ESHG) 2023 Conference](https://2023.eshg.org/)  
+- Selected Talk (1/12 presenters of >400 submissions) - [International Federation of Placenta Associations (IFPA)](https://event.fourwaves.com/ifpa2024/schedule/b3e30631-4625-4863-a84f-b1fb4417100e)  
 - UBC Department of Medical Genetics, Overall Excellence Award - [The James Miller Memorial Prize](https://medgen.med.ubc.ca/graduate-program/awards-and-events/james-miller-memorial-prize/) (View my [presentation slides](https://docs.google.com/presentation/d/17Y6uHqN5u6lwgXoyqA5tB_zOaugLbrZ0/edit?usp=sharing&ouid=106221155523242281440&rtpof=true&sd=true))  
 
 
@@ -222,7 +222,7 @@ Last updated: March 2024
 
 ##### **PhD in Medical Genetics**  
 
-*University of British Columbia, Canada*    
+*The University of British Columbia, Canada*    
 (2019 -  )   
   
 <br> 
@@ -238,13 +238,15 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 `Awards:`  
 
-- [4 Year Doctoral Fellowship (4YF) Award](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) (2020-2024) – University of British Columbia    
+- [IFPA New Investigator Award 2024](https://www.ifpa.epineux.com/awards#NIA:~:text=depending%20on%20funds.-,Elsevier,-New%20Investigator%20Travel) – International Federation of Placenta Associations (IFPA)  
 
-- [The James Miller Memorial Prize](https://medgen.med.ubc.ca/graduate-program/awards-and-events/james-miller-memorial-prize/)  - Department of Medical Genetics, University of British Columbia  
+- [4 Year Doctoral Fellowship (4YF) Award](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) (2020-2024) – The University of British Columbia    
 
-- President's Academic Excellence Initiative PhD Award (2020-2024) – University of British Columbia   
+- [The James Miller Memorial Prize](https://medgen.med.ubc.ca/graduate-program/awards-and-events/james-miller-memorial-prize/)  - Department of Medical Genetics, The University of British Columbia  
 
-- International Tuition Award (2019-2024) – University of British Columbia
+- President's Academic Excellence Initiative PhD Award (2020-2024) – The University of British Columbia   
+
+- International Tuition Award (2019-2024) – The University of British Columbia
 
 - Diversity Scholar 2022 - [RStudio PBC](https://www.rstudio.com/conference/2022/2022-conference-diversity-scholarships/)    
 
@@ -252,46 +254,33 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 - Virtual Knowledge Exchange Grant 2021 – BC Children’s Hospital Research Institute   
 
-`Pubs:`  
 
-1. Martinez VD, Cohn DE, **Telkar N**, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1). 2021. Sci Data; 8, 166.  
+`Selected Publications:`  
 
-2. Cohn DE, Barros-Filho MC, Minatel BC, Pewarchuk ME, Marshall EA, Vucic EA, Sage AP, **Telkar N**, Stewart GL, Jurisica I, Reis PP, Robinson WP, Lam WL. [Reactivation of multiple fetal miRNAs in lung adenocarcinoma](https://www.mdpi.com/2072-6694/13/11/2686/htm). 2021. Cancers, 13, 2686.   
+View all on [Google Scholar](https://scholar.google.com/citations?user=3EwE6tAAAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0002-3520-2353).   
 
-3. Marshall EA, **Telkar N**, Lam WL. [Functional role of the cancer microbiome in the solid tumour niche](https://doi.org/10.1016/j.crimmu.2021.01.001). 2021. Current Research in Immunology; 2: 1–6    
+- **Telkar N**, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. (2022). [Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full). Frontiers in Genetics; 13. 
 
-4. Rees WD, **Telkar N**, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). 2022. Cell Reports; 38(3)    
+- Rees WD, **Telkar N**, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. (2022). [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). Cell Reports; 38(3)   
 
-5. **Telkar N**, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. [Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full). Frontiers in Genetics 2022; 13.  
+- Martinez VD, Cohn DE, **Telkar N**, Minatel BC, Pewarchuk ME, Marshall EA, Price ME, Robinson WP, Lam WL. (2021). [Profiling the Small Non-Coding RNA Transcriptome of the Human Placenta.](https://www.nature.com/articles/s41597-021-00948-1). 2021. Sci Data; 8, 166.  
 
-6. Minatel BC, Cohn DE, Pewarchuk ME, Barros-Filho MC, Sage AP, Stewart GL, Marshall EA, **Telkar N**, Martinez VD, Reis PP, Robinson WP, Lam WL. [Genetic and epigenetic mechanisms deregulate the CRL2pVHL complex in hepatocellular carcinoma](https://www.frontiersin.org/article/10.3389/fgene.2022.910221). 2022. Frontiers in Genetics; 13.  
+- Zhao G, Zhang HM, Nasseri AR, Yip F, **Telkar N**, Chen YT, Aghakeshmiri S, Küper C, Lam W, Yang W, Zhao J, Luo H, McManus BM, Yang D. (2024). [Heart-specific NFAT5 knockout suppresses type I interferon signaling and aggravates coxsackievirus-induced myocarditis](https://link.springer.com/article/10.1007/s00395-024-01058-w). Basic Res Cardiol
 
-7. Forder A, Stewart GL, **Telkar N**, Lam WL, Garnis C. [New insights into the tumour immune microenvironment of nasopharyngeal cacinoma.](https://doi.org/10.1016/j.crimmu.2022.08.009). 2022. Current Research in Immunology; 3: 222–227.   
+- Souza VGP, **Telkar N**, Lam WL, Reis PP. (2024). [Comprehensive Analysis of Lung Adenocarcinoma and Brain Metastasis through Integrated Single-Cell Transcriptomics.](https://www.mdpi.com/1422-0067/25/7/3779) International Journal of Molecular Sciences; 25(7), 3779  
 
-8. Forder A, Zhuang R, Souza VGP, Brockley LJ, Pewarchuk ME, **Telkar N**, Stewart GL, Benard K, Marshall EA, Reis PP, Lam WL (2023). Mechanisms Contributing to the Comorbidity of COPD and Lung Cancer. International Journal of Molecular Sciences; 24(3):2859  
+- *In Revisions* - Rolf N, Liu LYT, Leclair P, Lorentzian AC, Atre T, Farrokhi A, **Telkar N**, Casazza W, Vercauteren SM, Lange PF, Maxwell CA, Lim CJ, Reid GSD (2024). Immunophenotype shifts during childhood acute lymphoblastic leukemia (ALL) relapse progression result from changing abundance levels of phenotypically distinct subpopulations. 
+
+- *Submitted* - **Telkar N**, Stewart GL, Minatel BC, Cohn DE, Benard K, Souza VGP, Pewarchuk ME, Martinez VD, Reis PP, Robinson WP, Lam WL. Reactivation of human fetal microRNAs in liver cancer.  
+
+- *Submitted* - **Telkar N**, Hui D, Peñaherrera MS, Yuan V, Martinez VD, Stewart GL, Beristain AG, Lam WL, Robinson WP. Profiling the cell-specific small non-coding RNA transcriptome of the human placenta.  
   
-9. Brockley LJ, Souza VGP, Forder A, Pewarchuk ME, Erkan M, **Telkar N**, Benard KH, Trejo J, Stewart MD, Stewart GL, Reis PP, Lam WL, Martinez VD (2023). Sequence-Based Platforms for Discovering Biomarkers in Liquid Biopsy of Non- Small-Cell Lung Cancer. Cancers; 15(8), 2275  
-  
-10. Souza VGP, Forder A, Brockley LJ, Pewarchuk ME, **Telkar N**, de Araújo RP, Trejo J, Benard KH, Seneda AL, Minutentag IW, Erkan M, Stewart GL, Hasimoto EN, Garnis C, Lam WL, Martinez VD, Reis PP (2023). Liquid Biopsy in Lung Cancer: Biomarkers for the Management of Recurrence and Metastasis. International Journal of Molecular Sciences; 24(10):8894  
-
-11. Souza VGP, Forder A, **Telkar N**, Stewart GL, RF Carvalho, Mur LAJ, Lam WL, Reis PP (2023). [Identifying New Contributors to Brain Metastasis in Lung Adenocarcinoma: A Transcriptomic Meta-Analysis.](https://www.mdpi.com/2072-6694/15/18/4526). Cancers 2023, 15(18), 4526  
-  
-12. Souza VGP, Forder A,  Pewarchuk ME, **Telkar N**, RF Carvalho, de Araújo RP, Stewart GL, Vieira J, Reis PP, Lam WL (2023). [The Complex Role of the Microbiome in Non-Small Cell Lung Cancer Development and Progression.](https://www.mdpi.com/2073-4409/12/24/2801) Cells 2023, 12(24), 2801  
-
-13. Souza VGP, **Telkar N**, Lam WL, Reis PP. [Comprehensive Analysis of Lung Adenocarcinoma and Brain Metastasis through Integrated Single-Cell Transcriptomics.](https://www.mdpi.com/1422-0067/25/7/3779) International Journal of Molecular Sciences; 25(7), 3779  
-
-14. *Submitted* - Rolf N, Liu LYT, Leclair P, Lorentzian AC, Atre T, Farrokhi A, **Telkar N**, Casazza W, Vercauteren SM, Lange PF, Maxwell CA, Lim CJ, Reid GSD (2024). Immunophenotype shifts during childhood acute lymphoblastic leukemia (ALL) relapse progression result from changing abundance levels of phenotypically distinct subpopulations 
-
-15. *Submitted* - **Telkar N**, Stewart GL, Minatel BC, Cohn DE, Benard K, Souza VGP, Pewarchuk ME, Martinez VD, Reis PP, Robinson WP, Lam WL. Reactivation of human fetal microRNAs in liver cancer  
-
-16. *Submitted* - **Telkar N**, Hui D, Peñaherrera MS, Yuan V, Martinez VD, Stewart GL, Beristain AG, Lam WL, Robinson WP. Profiling the cell-specific small non-coding RNA transcriptome of the human placenta  
-
 
 `Communication:`  
 
 - Selected Presentation within 'New Technologies in Cancer Genetics' at the [European Society of Human Genetics (ESHG) 2023 Conference](https://2023.eshg.org/)  
 
-- University of Toronto Health Network (UHN) Seminar Series - Invited   
+- The University of Toronto Health Network (UHN) Seminar Series - Invited   
 
 - ONCO548: Knowledge Translation, Interdisciplinary Oncology Program, UBC - Invited   
 
@@ -341,7 +330,7 @@ Polygenics Risk Scores published on EMBL-EBI’s [PGS Catalog](http://www.pgscat
 
 #####  **BSc in Biomedical Genetics**
 
-*University of Newcastle upon Tyne, England*  
+*The University of Newcastle upon Tyne, England*  
 (2014 -2017)    
 
 <br> 
@@ -398,27 +387,36 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 <br> 
 
+#####  **Investment Associate**     
+[Front Row Ventures](https://frontrow.ventures/), British Columbia, Canada (October 2023 - )  
+
+* Canada’s leading student-founder focused VC firm with a presence on 20+ university campuses across Canada  
+* Deal sourcing within the BC student-start up ecosystem with extensive due diligence to bring ventures till final-decision Investment Committee meetings  
+
+<br> 
+
+#####  **Activator Co-Director / British Columbia Regional Director**     
+[Nucleate: Canada Chapter](https://nucleate.xyz/), Canada (November 2023 - )  
+
+* Recruited to establish this trainee-run, non-profit biotech organisation [pan-Canada](https://www.linkedin.com/company/nucleate-canada/): Leading our flagship program across Canada, fostering partnerships with life sciences firms in Canada, and securing monetary and in-kind sponsorships
+* Locally in Vancouver: Sourcing university-based and professional champions for the Chapter, partnering with university tech transfer and innovation offices, team recruitment, and program planning  
+
+<br>  
+
+#####  **Fellow - Frequency Bio**     
+[Pillar VC](https://pillar.vc), Boston (August 2024)  
+
+* A virtual bootcamp designed to explore building a biotech venture  
+* Only applicant from Canada selected of 70 total worldwide  
+
+<br>  
+
 #####  **Fellow: Scientific Lead - MedTech**     
 [Nucleate Genesis](https://nucleate.xyz/genesis), Canada (February - May 2024)  
 
 * 12-week intensive and hands-on curriculum including venture ideation, IP, derisking, product-market fit culminating in a pitch competition  
 * Developed and pitched an assay for early-cancer detection as part of a cross-continent team of three (UPenn, Georgia Tech)   
-
-<br> 
-
-#####  **British Columbia Regional Director / Canada Chapter Founding Leadership**     
-[Nucleate: Canada Chapter](https://nucleate.xyz/), Canada (November 2023 - )  
-
-* Recruited for establishing this trainee-run, non-profit biotech organisation [pan-Canada](https://www.linkedin.com/company/nucleate-canada/): Strategizing Nucleate programming that will best suit graduates within the Canadian ecosystem, fostering partnerships with life sciences firms in Canada, securing sponsorships and advisor  
-* Locally in Vancouver: Sourcing university-based and professional champions for the Chapter, partnering with university tech transfer and innovation offices, team recruitment, and program planning  
-
-<br> 
-
-#####  **Investment Associate**     
-[Front Row Ventures](https://frontrow.ventures/), British Columbia, Canada (October 2023 - )  
-
-* Canada’s leading student-founder focused VC firm with a presence on 20+ university campuses across Canada  
-* Deal sourcing within the BC student-startup ecosystem and extensive due diligence to bring ventures till final-decision Investment Committee meetings  
+* Only student from Canada selected of 18 total, from >200 applicants
 
 <br> 
 
@@ -462,7 +460,7 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 <br> 
 
 ##### **Teaching Assistant**        
-University of British Columbia, Canada (Sept - Dec 2020)   
+The University of British Columbia, Canada (Sept - Dec 2020)   
 
 * TA for the [graduate MEDG 520 Advanced Human Molecular Genetics course](https://med-fom-medgen.sites.olt.ubc.ca/files/2020/10/MEDG520-syllabus-2020W-Final-1.pdf) in the [Department of Medical Genetics](https://medgen.med.ubc.ca/).  
 * Instrumental in restructuring the course and assignment format for the year  
@@ -592,7 +590,7 @@ Centre for Teaching, Learning and Technology, UBC
 
 #### **Extras**    
 
-* Judges' Choice Award - GrasRoots Case Competition 2021, University of British Columbia  
+* Judges' Choice Award - GrasRoots Case Competition 2021, The University of British Columbia  
 * UCL Business Game 2017 – University College London  
 * News Reporter – Health Science Inquiry, 2019 – 2020: Published a Photo Essay ['A Week in the Life of a Geneticist'](https://healthscienceinquiry.com/index.php/hsi/article/view/324/303) in their 2020 issue.  
 
