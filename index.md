@@ -234,7 +234,7 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 ##### Publications / Awards / Communications  
 
-<br>
+<br>  
 
 `Awards:`  
 
@@ -254,6 +254,7 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 - Virtual Knowledge Exchange Grant 2021 – BC Children’s Hospital Research Institute   
 
+<br>  
 
 `Selected Publications:`  
 
@@ -275,6 +276,8 @@ View all on [Google Scholar](https://scholar.google.com/citations?user=3EwE6tAAA
 
 - *Submitted* - **Telkar N**, Hui D, Peñaherrera MS, Yuan V, Martinez VD, Stewart GL, Beristain AG, Lam WL, Robinson WP. Profiling the cell-specific small non-coding RNA transcriptome of the human placenta.  
   
+  
+<br>   
 
 `Communication:`  
 
@@ -318,11 +321,10 @@ Supervisor: [Dr. Karoline Kuchenbaecker](https://www.ucl.ac.uk/biosciences/peopl
 
 ##### Publications / Awards / Communications:  
 
-- Kuchenbaecker K, **Telkar N**, Reiker T, et al. [The transferability of lipid loci across African, Asian and European cohorts](https://doi.org/10.1038/s41467-019-12026-7). 2019. Nature Communications; 10: 4330.  
+`Publication:` Kuchenbaecker K, **Telkar N**, Reiker T, et al. [The transferability of lipid loci across African, Asian and European cohorts](https://doi.org/10.1038/s41467-019-12026-7). 2019. Nature Communications; 10: 4330.  
+  
+- Polygenics Risk Scores published on EMBL-EBI’s [PGS Catalog](http://www.pgscatalog.org/publication/PGP000046/) 
 
-Polygenics Risk Scores published on EMBL-EBI’s [PGS Catalog](http://www.pgscatalog.org/publication/PGP000046/) 
-
-<br> 
 
 ***  
 
@@ -341,8 +343,6 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 [University Profile](https://www.ncl.ac.uk/bns/alumni/nikita/)  
 
-<br> 
-
 ***  
 
 ##### Publications / Awards / Communications  
@@ -359,7 +359,9 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 - ncl+ Award – Newcastle University (for extracurricular achievement)  
 
-`Pubs:`  
+<br>  
+
+`Publications:`  
 
 - **Telkar N**. [Using WNT5A Expression to Characterize Development in the Human Gut](https://www.genetics.org.uk/wp-content/uploads/2017/09/Issue-76-_-January-2017.pdf#page=49). The Genetics Society News Newsletter, January 2017, Issue 76.  
 
