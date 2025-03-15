@@ -19,8 +19,8 @@ navbar:
     href: fun.html
   - text: R Shiny App
     href: database.html
-  - text: Academic CV
-    href: cv.html
+  # - text: Academic CV
+    # href: cv.html
   right:
   - href: https://www.linkedin.com/in/nikitatelkar/
     icon: fa-linkedin
