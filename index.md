@@ -153,8 +153,9 @@ a.navbar-brand:hover {
 </style>
 <br>
 
-> *Investigating genetic regulation in the human placenta, while sipping on my flat white.  
-> Big fan of `ggplot2` and Jazz music. Jack-of-all-Trades kinda person*  `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:black;overflow:visible;position:relative;"><path d="M512 256c0 .9 0 1.8 0 2.7c-.4 36.5-33.6 61.3-70.1 61.3H344c-26.5 0-48 21.5-48 48c0 3.4 .4 6.7 1 9.9c2.1 10.2 6.5 20 10.8 29.9c6.1 13.8 12.1 27.5 12.1 42c0 31.8-21.6 60.7-53.4 62c-3.5 .1-7 .2-10.6 .2C114.6 512 0 397.4 0 256S114.6 0 256 0S512 114.6 512 256zM128 288a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm0-96a32 32 0 1 0 0-64 32 32 0 1 0 0 64zM288 96a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm96 96a32 32 0 1 0 0-64 32 32 0 1 0 0 64z"/></svg>`{=html}   
+> Driven towards using my inter-disciplinary scientific training towards bio-entrepreneurship and healthcare equity, sipping on my flat white.  
+>  
+> Big fan of `ggplot2` and jazz. Jack-of-all-trades kind of person `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:black;overflow:visible;position:relative;"><path d="M512 256c0 .9 0 1.8 0 2.7c-.4 36.5-33.6 61.3-70.1 61.3H344c-26.5 0-48 21.5-48 48c0 3.4 .4 6.7 1 9.9c2.1 10.2 6.5 20 10.8 29.9c6.1 13.8 12.1 27.5 12.1 42c0 31.8-21.6 60.7-53.4 62c-3.5 .1-7 .2-10.6 .2C114.6 512 0 397.4 0 256S114.6 0 256 0S512 114.6 512 256zM128 288a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm0-96a32 32 0 1 0 0-64 32 32 0 1 0 0 64zM288 96a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm96 96a32 32 0 1 0 0-64 32 32 0 1 0 0 64z"/></svg>`{=html}   
 
 ***  
 
@@ -164,23 +165,19 @@ a.navbar-brand:hover {
 
 ::: {}
 
-A PhD Candidate in the [Medical Genetics Graduate Program](https://medgen.med.ubc.ca/) at [The University of British Columbia](https://ubc.ca/), I currently reside in the lovely and vibrant city of Vancouver in British Columbia, Canada.
+A PhD Candidate in the [Medical Genetics Graduate Program](https://medgen.med.ubc.ca/) at [The University of British Columbia](https://ubc.ca/), I reside in the lovely and vibrant city of Vancouver in British Columbia, Canada (currently in Boston on an internship).
 
 My research interests lie in developmental, cardiovascular, and population genetics. My curiosity is driven by wanting to elucidate the genetic differences that exist between populations of different ancestries.  
 
-I firmly believe that the more you give, the more you get, and as such, I try to give back as much as I can to the community.  
+I firmly believe that the more you give, the more you get; I try to give back as much as I can to the community, following in the path of those who did the same for me.  
 
 I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also make and sell custom genetics-themed graphics and merchandise on [Etsy](https://www.etsy.com/ca/shop/ScribblezbyNiki)!  
 
 <br>
-<a href = "mailto:nikita.telkar@bcchr.ca"><i class="fas fa-envelope"></i></a> | <a href = "https://www.linkedin.com/in/nikitatelkar/"><i class = "fa fa-linkedin" ></i></a> | <a href = "https://github.com/nikita-telkar"><i class = "fa fa-github" ></i></a> | <a href = "https://twitter.com/nikita_telkar"><i class = "fa fa-twitter" ></i></a> | 
+<a href = "mailto:nikita.telkar@bcchr.ca"><i class="fas fa-envelope"></i></a> | <a href = "https://www.linkedin.com/in/nikitatelkar/"><i class = "fa fa-linkedin" ></i></a> | <a href = "https://github.com/nikita-telkar"><i class = "fa fa-github" ></i></a> | 
 <a href = "https://scholar.google.com/citations?user=3EwE6tAAAAAJ&hl=en">Google Scholar</a>  
-  
-<br> 
 
-View my [latest Academic CV](https://github.com/nikita-telkar/nikita-telkar.github.io/blob/main/Telkar_Nikita_Academic_CV.pdf)  
-
-Last updated: October 2024  
+*Last updated: March 2025*    
 
 <br>  
 
@@ -188,7 +185,7 @@ Last updated: October 2024
 
 ::: {}
 
-<img src="static/NT_Profile_round_2024.png" width="90%" />
+<img src="static/NT_Profile_2025_round.png" width="90%" />
 
 :::
 
@@ -196,9 +193,8 @@ Last updated: October 2024
 
 `Latest Highlights:`    
   
+- [Friedman Award for Scholars in Health 2024](https://www.grad.ubc.ca/awards/friedman-award-scholars-health) (UBC's most prestigious graduate award, granted to 8-10 students every year) - The University of British Columbia
 - Selected Talk (1/12 presenters of >400 submissions) - [International Federation of Placenta Associations (IFPA)](https://event.fourwaves.com/ifpa2024/schedule/b3e30631-4625-4863-a84f-b1fb4417100e)  
-- UBC Department of Medical Genetics, Overall Excellence Award - [The James Miller Memorial Prize](https://medgen.med.ubc.ca/graduate-program/awards-and-events/james-miller-memorial-prize/) (View my [presentation slides](https://docs.google.com/presentation/d/17Y6uHqN5u6lwgXoyqA5tB_zOaugLbrZ0/edit?usp=sharing&ouid=106221155523242281440&rtpof=true&sd=true))  
-
 
 ***  
 
@@ -236,15 +232,17 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 <br>  
 
-`Awards:`  
+`Awards` (totalling CAD $250,000):  
 
-- [IFPA New Investigator Award 2024](https://www.ifpa.epineux.com/awards#NIA:~:text=depending%20on%20funds.-,Elsevier,-New%20Investigator%20Travel) – International Federation of Placenta Associations (IFPA)  
+- [Friedman Award for Scholars in Health 2024](https://www.grad.ubc.ca/awards/friedman-award-scholars-health) - The University of British Columbia
 
 - [4 Year Doctoral Fellowship (4YF) Award](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) (2020-2024) – The University of British Columbia    
 
 - [The James Miller Memorial Prize](https://medgen.med.ubc.ca/graduate-program/awards-and-events/james-miller-memorial-prize/)  - Department of Medical Genetics, The University of British Columbia  
 
 - President's Academic Excellence Initiative PhD Award (2020-2024) – The University of British Columbia   
+
+- [IFPA New Investigator Award 2024](https://www.ifpa.epineux.com/awards#NIA:~:text=depending%20on%20funds.-,Elsevier,-New%20Investigator%20Travel) – International Federation of Placenta Associations (IFPA)  
 
 - International Tuition Award (2019-2024) – The University of British Columbia
 
@@ -270,16 +268,18 @@ View all on [Google Scholar](https://scholar.google.com/citations?user=3EwE6tAAA
 
 - Souza VGP, **Telkar N**, Lam WL, Reis PP. (2024). [Comprehensive Analysis of Lung Adenocarcinoma and Brain Metastasis through Integrated Single-Cell Transcriptomics.](https://www.mdpi.com/1422-0067/25/7/3779) International Journal of Molecular Sciences; 25(7), 3779  
 
-- *In Revisions* - Rolf N, Liu LYT, Leclair P, Lorentzian AC, Atre T, Farrokhi A, **Telkar N**, Casazza W, Vercauteren SM, Lange PF, Maxwell CA, Lim CJ, Reid GSD (2024). Immunophenotype shifts during childhood acute lymphoblastic leukemia (ALL) relapse progression result from changing abundance levels of phenotypically distinct subpopulations. 
+- *In Revision* - **Telkar N**, Hui D, Peñaherrera MS, Yuan V, Martinez VD, Stewart GL, Beristain AG, Lam WL, Robinson WP. Profiling the cell-specific small non-coding RNA transcriptome of the human placenta.  
+
+- *In Revision* - Rolf N, Liu LYT, Leclair P, Lorentzian AC, Atre T, Farrokhi A, **Telkar N**, Casazza W, Vercauteren SM, Lange PF, Maxwell CA, Lim CJ, Reid GSD (2024). Immunophenotype shifts during childhood acute lymphoblastic leukemia (ALL) relapse progression result from changing abundance levels of phenotypically distinct subpopulations. 
 
 - *Submitted* - **Telkar N**, Stewart GL, Minatel BC, Cohn DE, Benard K, Souza VGP, Pewarchuk ME, Martinez VD, Reis PP, Robinson WP, Lam WL. Reactivation of human fetal microRNAs in liver cancer.  
-
-- *Submitted* - **Telkar N**, Hui D, Peñaherrera MS, Yuan V, Martinez VD, Stewart GL, Beristain AG, Lam WL, Robinson WP. Profiling the cell-specific small non-coding RNA transcriptome of the human placenta.  
   
   
 <br>   
 
 `Communication:`  
+
+- Selected Presentation at the [International Federation of Placenta Associations (IFPA) 2024 Conference](https://event.fourwaves.com/ifpa2024/schedule/b3e30631-4625-4863-a84f-b1fb4417100e)
 
 - Selected Presentation within 'New Technologies in Cancer Genetics' at the [European Society of Human Genetics (ESHG) 2023 Conference](https://2023.eshg.org/)  
 
@@ -387,6 +387,14 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 #### **Professional Experience**    
 
+<br>
+
+#####  **Fellow, Genomics Discovery**     
+[Foresite Labs](https://foresitelabs.com/), Boston, USA (March 2025 - )  
+
+* Biological target discovery and validation at this computational genomics incubator’s companies and internal projects  
+* Proactively approached the company to plan and create this position for me  
+
 <br> 
 
 #####  **Investment Associate**     
@@ -397,7 +405,7 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 <br> 
 
-#####  **Activator Co-Director / British Columbia Regional Director**     
+#####  **Activator Co-Director**     
 [Nucleate: Canada Chapter](https://nucleate.xyz/), Canada (November 2023 - )  
 
 * Recruited to establish this trainee-run, non-profit biotech organisation [pan-Canada](https://www.linkedin.com/company/nucleate-canada/): Leading our flagship program across Canada, fostering partnerships with life sciences firms in Canada, and securing monetary and in-kind sponsorships
@@ -406,14 +414,14 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 <br>  
 
 #####  **Fellow - Frequency Bio**     
-[Pillar VC](https://pillar.vc), Boston (August 2024)  
+[Pillar VC](https://pillar.vc), Boston, USA (August 2024)  
 
 * A virtual bootcamp designed to explore building a biotech venture  
 * Only applicant from Canada selected of 70 total worldwide  
 
 <br>  
 
-#####  **Fellow: Scientific Lead - MedTech**     
+#####  **Scientific Lead - MedTech Stream**     
 [Nucleate Genesis](https://nucleate.xyz/genesis), Canada (February - May 2024)  
 
 * 12-week intensive and hands-on curriculum including venture ideation, IP, derisking, product-market fit culminating in a pitch competition  

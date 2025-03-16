@@ -169,7 +169,7 @@ a.navbar-brand:hover {
 `r fa("guitar", fill = "white")` I was also the lead drummer in my school's marching band  
 
 `r fa("utensils", fill = "black")` I try to learn a new recipe every week  
-`r fa("utensils", fill = "white")` Some of my personal favourites include coq au vin blanc, egg drop soup, and mini lemon-white chocolate cheesecakes    
+`r fa("utensils", fill = "white")` Some of my most made recipes include coq au vin blanc, [kheema](https://www.indianhealthyrecipes.com/keema-recipe-mutton-keema-curry/), and mushroom risotto  
 
 `r fa("book", fill = "black")` I love reading    
 `r fa("book", fill = "white")` I try to read at least one book per month    
