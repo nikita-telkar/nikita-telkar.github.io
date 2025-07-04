@@ -175,11 +175,11 @@ The human placenta is indispensible for the growth of the fetus and for the heal
 
 **My project aims at**:  
 
-1. Characterizing human placental sncRNA species in whole tissue and 4 placental cell types (cytotrophoblasts, endothelial cells, stromal cells, HofBauer cells)   
+1. Characterizing human placental sncRNA species in whole tissue and [placental cell types](https://www.nature.com/articles/s41598-025-98939-4)   
 2. Investigating novel placental sncRNAs    
 3. Assessing biological (cell type, trimester, sex of the fetus, ancestry, depression and anti-depressant status of the mother, stress) and technical variables (method of extraction and various sequencing metrics) driving expression    
 4. Testing association between sample-matched DNA methyaltion and sncRNA expression  
-5. Examining shared expression characteristics between placenetal development and cancer  
+5. Examining shared expression characteristics between placental development and cancer  
 
 `Data:` low-input small-RNA-seq, DNA methylation  
 `Software:` R, GSEA, pathway enrichment  
@@ -219,7 +219,7 @@ Intestinal cells undergo regeneration after acute injury. However, the feasibili
 - [Geneset enrichment analysis](https://github.com/nikita-telkar/Projects/tree/master/GSEA%20of%20Human%20Colonic%20Organoids)  
 - [GEO accession](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178698)  
 
-`Publication:` [Second-author in Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8)
+`Publication:` Second-author in [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8)
 
 ***  
 

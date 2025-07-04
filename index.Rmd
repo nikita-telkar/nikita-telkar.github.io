@@ -167,9 +167,8 @@ a.navbar-brand:hover {
 ```
 <br>
 
-> Driven towards using my inter-disciplinary scientific training towards bio-entrepreneurship and healthcare equity, sipping on my flat white.  
+> Driven to leverage my inter-disciplinary scientific training towards bio-entrepreneurship and equitable healthcare.   
 >  
-> Big fan of `ggplot2` and jazz. Jack-of-all-trades kind of person `r fa("palette", fill = "black")`   
 
 ***  
 
@@ -179,19 +178,21 @@ a.navbar-brand:hover {
 
 ::: {}
 
-A PhD Candidate in the [Medical Genetics Graduate Program](https://medgen.med.ubc.ca/) at [The University of British Columbia](https://ubc.ca/), I reside in the lovely and vibrant city of Vancouver in British Columbia, Canada (currently in Boston on an internship).
+I'm a PhD Candidate in the [Medical Genetics Graduate Program](https://medgen.med.ubc.ca/) at [The University of British Columbia](https://ubc.ca/) based in Vancouver, Canada (currently in Boston on an internship).
 
-My research interests lie in developmental, cardiovascular, and population genetics. My curiosity is driven by wanting to elucidate the genetic differences that exist between populations of different ancestries.  
+Motivated by wanting to understand the interconnectedness of differing genomic disciplines, my [research projects](https://nikitatelkar.com/projects.html) have purposefully spanned different scientific domains, driven by ultimately wanting to contribute towards precision-medicine efforts.  
+
+<br> 
 
 I firmly believe that the more you give, the more you get; I try to give back as much as I can to the community, following in the path of those who did the same for me.  
 
-I’m an avid bibliophile, coffee enthusiast, and culinary aficionado. I also make and sell custom genetics-themed graphics and merchandise on [Etsy](https://www.etsy.com/ca/shop/ScribblezbyNiki)!  
+I enjoy listening to Jazz, reading Greek mythology, and I like to treat everything new as an adventure (the most recent was trying to play pickleball).  
 
 <br>
-<a href = "mailto:nikita.telkar@bcchr.ca"><i class="fas fa-envelope"></i></a> | <a href = "https://www.linkedin.com/in/nikitatelkar/"><i class = "fa fa-linkedin" ></i></a> | <a href = "https://github.com/nikita-telkar"><i class = "fa fa-github" ></i></a> | 
+<a href = "mailto:nikita.telkar3@gmail.com"><i class="fas fa-envelope"></i></a> | <a href = "https://www.linkedin.com/in/nikitatelkar/"><i class = "fa fa-linkedin" ></i></a> | <a href = "https://github.com/nikita-telkar"><i class = "fa fa-github" ></i></a> | 
 <a href = "https://scholar.google.com/citations?user=3EwE6tAAAAAJ&hl=en">Google Scholar</a>  
 
-*Last updated: March 2025*    
+*Last updated: July 2025*    
 
 <br>  
 
@@ -211,7 +212,8 @@ knitr::include_graphics(here::here("static", "NT_Profile_2025_round.png"))
 
 `Latest Highlights:`    
   
-- [Friedman Award for Scholars in Health 2024](https://www.grad.ubc.ca/awards/friedman-award-scholars-health) (UBC's most prestigious graduate award, granted to 8-10 students every year) - The University of British Columbia
+- [Friedman Award for Scholars in Health 2024](https://www.grad.ubc.ca/awards/friedman-award-scholars-health) (UBC's most prestigious graduate award, granted to 8-10 students every year) - The University of British Columbia  
+- 2nd Prize - [Harvard University GSAS BioVenture Pitch](https://www.linkedin.com/posts/harvard-biotech-club_weve-officially-launched-the-2025-bioventure-activity-7329216572122689536-4Gzi?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtOPKcB6CQqgtktHkcjCTCqk3LhshTuybA)  
 - Selected Talk (1/12 presenters of >400 submissions) - [International Federation of Placenta Associations (IFPA)](https://event.fourwaves.com/ifpa2024/schedule/b3e30631-4625-4863-a84f-b1fb4417100e)  
 
 ***  
@@ -222,11 +224,11 @@ knitr::include_graphics(here::here("static", "NT_Profile_2025_round.png"))
 
 `Programming:` R/RMarkdown/R Shiny, Linux/BASH, HPC, Git/GitHub, Jupyter
 
-`Database Usage:` NCBI, OMIM, GEO, UCSC Genome Browser, ClinVar, GeneCards, UniProt, GTex, miRBase, RNACentral  
+`Database Usage:` UKB, NCBI, OMIM, GEO, UCSC Genome Browser, ClinVar, GeneCards, UniProt, GTex, RNACentral  
 
 `Genomics Analysis Tools:` IGV, PLINK, GEMMA, miRMaster  
 
-`Data Types:` GWAS Summary Statistics/SNP (UK/China Kadoorie/Japan Biobanks), RNA sequencing (total and small), single-cell RNA sequencing (scRNA-seq), DNA methylation (850/450K)  
+`Data Types:` GWAS summary statistics, SNP, RNA sequencing (total and small), single-cell RNA sequencing (scRNA-seq), DNA methylation (850/450K)  
 
 ***  
 
@@ -246,7 +248,7 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 <br> 
 
-##### Publications / Awards / Communications  
+##### Awards / Publications / Communications  
 
 <br>  
 
@@ -276,6 +278,8 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](ht
 
 View all on [Google Scholar](https://scholar.google.com/citations?user=3EwE6tAAAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0002-3520-2353).   
 
+- **Telkar N**, Hui D, Peñaherrera MS, Yuan V, Martinez VD, Stewart GL, Beristain AG, Lam WL, Robinson WP. (2025). [Profiling the cell-specific small non-coding RNA transcriptome of the human placenta](https://www.nature.com/articles/s41598-025-98939-4). Scientific Reports; 15, 14666  
+  
 - **Telkar N**, Stewart GL, Pewarchuk ME, Cohn DE, Robinson WP, Lam WL. (2022). [Small Non-Coding RNAs in the Human Placenta: regulatory roles and clinical utility](https://www.frontiersin.org/articles/10.3389/fgene.2022.868598/full). Frontiers in Genetics; 13. 
 
 - Rees WD, **Telkar N**, Lin D, Peloni C, Fathi A, Kobor M, Zachos N, Steiner T. (2022). [An in vitro chronic damage model impairs inflammatory and regenerative responses in human colonoid monolayers](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01798-8). Cell Reports; 38(3)   
@@ -285,8 +289,6 @@ View all on [Google Scholar](https://scholar.google.com/citations?user=3EwE6tAAA
 - Zhao G, Zhang HM, Nasseri AR, Yip F, **Telkar N**, Chen YT, Aghakeshmiri S, Küper C, Lam W, Yang W, Zhao J, Luo H, McManus BM, Yang D. (2024). [Heart-specific NFAT5 knockout suppresses type I interferon signaling and aggravates coxsackievirus-induced myocarditis](https://link.springer.com/article/10.1007/s00395-024-01058-w). Basic Res Cardiol
 
 - Souza VGP, **Telkar N**, Lam WL, Reis PP. (2024). [Comprehensive Analysis of Lung Adenocarcinoma and Brain Metastasis through Integrated Single-Cell Transcriptomics.](https://www.mdpi.com/1422-0067/25/7/3779) International Journal of Molecular Sciences; 25(7), 3779  
-
-- *In Revision* - **Telkar N**, Hui D, Peñaherrera MS, Yuan V, Martinez VD, Stewart GL, Beristain AG, Lam WL, Robinson WP. Profiling the cell-specific small non-coding RNA transcriptome of the human placenta.  
 
 - *In Revision* - Rolf N, Liu LYT, Leclair P, Lorentzian AC, Atre T, Farrokhi A, **Telkar N**, Casazza W, Vercauteren SM, Lange PF, Maxwell CA, Lim CJ, Reid GSD (2024). Immunophenotype shifts during childhood acute lymphoblastic leukemia (ALL) relapse progression result from changing abundance levels of phenotypically distinct subpopulations. 
 
@@ -337,7 +339,7 @@ Supervisor: [Dr. Karoline Kuchenbaecker](https://www.ucl.ac.uk/biosciences/peopl
 
 <br> 
 
-##### Publications / Awards / Communications:  
+##### Awards / Publications / Communications    
 
 `Publication:` Kuchenbaecker K, **Telkar N**, Reiker T, et al. [The transferability of lipid loci across African, Asian and European cohorts](https://doi.org/10.1038/s41467-019-12026-7). 2019. Nature Communications; 10: 4330.  
   
@@ -363,7 +365,7 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 ***  
 
-##### Publications / Awards / Communications  
+##### Awards / Publications / Communications  
 
 `Awards:`  
 
@@ -408,28 +410,32 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 <br>
 
 #####  **Fellow, Genomics Discovery**     
-[Foresite Labs](https://foresitelabs.com/), Boston, USA (March 2025 - )  
+[Foresite Labs](https://foresitelabs.com/), Boston, USA (April 2025 - )  
 
-* Biological target discovery and validation at this computational genomics incubator’s companies and internal projects  
-* Proactively approached the company to plan and create this position for me  
-
-<br> 
-
-#####  **Investment Associate**     
-[Front Row Ventures](https://frontrow.ventures/), British Columbia, Canada (October 2023 - )  
-
-* Canada’s leading student-founder focused VC firm with a presence on 20+ university campuses across Canada  
-* Deal sourcing within the BC student-start up ecosystem with extensive due diligence to bring ventures till final-decision Investment Committee meetings  
+* Hypothesis- and data-driven patient stratification for priority disease indications at this computational genomics venture incubator  
+* Analysis results informing incubator company strategy  
+* Proactively engaged with the company to create this position for me  
 
 <br> 
 
-#####  **Activator Co-Director**     
+#####  **Co-Director**     
 [Nucleate: Canada Chapter](https://nucleate.xyz/), Canada (November 2023 - )  
 
-* Recruited to establish this trainee-run, non-profit biotech organisation [pan-Canada](https://www.linkedin.com/company/nucleate-canada/): Leading our flagship program across Canada, fostering partnerships with life sciences firms in Canada, and securing monetary and in-kind sponsorships
-* Locally in Vancouver: Sourcing university-based and professional champions for the Chapter, partnering with university tech transfer and innovation offices, team recruitment, and program planning  
+* Established the [pan-Canadian Chapter](https://www.linkedin.com/company/nucleate-canada/) of the largest global pre-seed life sciences non-profit organization  
+* Directed the flagship accelerator program (the Activator) it its inaugural cycle Canada-wide  
+* Secured sponsorships ($100K+ CAD) with Canada’s and BC’s leading organizations and biotechs  
 
 <br>  
+
+
+#####  **Investment Associate**     
+[Front Row Ventures](https://frontrow.ventures/), British Columbia, Canada (October 2023 - March 2025)  
+
+*  Sourced the most ventures on the BC Investment Team (30), conducted first-round due diligence on 11
+(37%), progressed 3 (27%) to Investment Committee, resulting in 1 successful investment (33%).
+*  Streamlined the investment-specific training modules undertaken by all trainee associates every year
+
+<br> 
 
 #####  **Fellow - Frequency Bio**     
 [Pillar VC](https://pillar.vc), Boston, USA (August 2024)  
@@ -450,9 +456,8 @@ Dissertation: Genome-wide RNAi Screening to identify new genes involved in Mitoc
 
 #####  **Biomedical Data Analyst**     
 [BenchSci](https://www.benchsci.com/), Toronto, Canada (April 2022 - October 2023)  
-
-* Labelling biomedical data for the platform’s ML training model (>100k labels till date)  
-* Annotating scientific publication figures for image to text (vision) training  
+  
+* Annotated 100k+ entities (text, image) for the platform’s foundational machine learning training models   
 * Contributing to the platform’s UX design as part of the internal Discovery and Validation team  
 
 <br>   
